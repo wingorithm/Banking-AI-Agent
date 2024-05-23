@@ -1,13 +1,15 @@
 from model.Customer import customer
 from repository.CustomerDao import CustomerDAO as cd
+from model.response.SourceAccount import sourceAccount
+from model.response.TransferDetails import transferDetails
 from decimal import Decimal
 
 class BankService():
 
-    def fundTransfer(sender_uuid, receiver_uuid, amount):
-        amount = Decimal(str(amount))
-        sender = cd.find_customer(sender_uuid)
-        receiver = cd.find_customer(receiver_uuid)
+    def fundTransfer(data : transferDetails):
+        amount = Decimal(str(data.amount))
+        sender = cd.find_customer_byAcc(data.debittedAccount)
+        receiver = cd.find_customer_byAcc(data.credittedAccount)
 
         senderInitialBlance = sender.balance
         receiverInitialBlance = receiver.balance
@@ -25,3 +27,9 @@ class BankService():
             cd.update_customer(sender, receiver)
         
         print("Fund transfer successful")
+    
+    def get_account(client_uuid: str):
+        account = cd.find_customer(client_uuid)
+        if not account:
+            raise ValueError("Customer not found")
+        return sourceAccount(account.account, account.name, account.balance) 

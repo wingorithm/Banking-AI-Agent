@@ -4,15 +4,15 @@ from fastapi.testclient import TestClient
 from datetime import datetime
 from transformers import pipeline, Conversation
 
-# from controller import endpoints
 from service.RetrievalService import RetrievalService as retrieveService
 from service.NLUPreprocessing import nluPreprocessing
 from model.response.GeneralResponse import generalResponse
 from service.ConnectionManagerService import connectionManager
+from controller import BankController
 
 nluService = nluPreprocessing()
 app = FastAPI()
-# app.include_router(endpoints.router)
+app.include_router(BankController.router)
 manager = connectionManager()
 
 @app.get("/")
@@ -28,7 +28,7 @@ async def websocket_endpoint(websocket: WebSocket, client_uuid: str):
             data = await websocket.receive_json()
             user_message = generalResponse(data["message"], data["role"], client_uuid, datetime.now())
             
-            user_message.setMessage(nluService.preprocessing(user_message.message))
+            nluService.preprocessing(user_message.message)
 
             user_message = await retrieveService.getRespond(user_message)
             await manager.send_message(user_message, websocket)

@@ -6,6 +6,7 @@ class nluPreprocessing:
         print("start preprocessing")
         
     def intentClassificationModel():
+        # TODO : logic for call service class
         print("IC lanjut")
         
 

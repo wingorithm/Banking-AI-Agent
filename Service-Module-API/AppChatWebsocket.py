@@ -4,11 +4,13 @@ from fastapi.testclient import TestClient
 import time
 from transformers import pipeline, Conversation
 
+from controller import endpoints
 from service.RetrievalService import RetrievalService
 from model.response.GeneralResponse import generalResponse
 from service.ConnectionManagerService import connectionManager
 
 app = FastAPI()
+app.include_router(endpoints.router)
 manager = connectionManager()
 retrieve = RetrievalService
 
@@ -22,7 +24,10 @@ async def websocket_endpoint(websocket: WebSocket, client_id: int):
     await manager.connect(websocket)
     try:
         while True:
-            data = await websocket.receive_json()
+            # TODO: Retriece string decode jadi json
+            data = websocket.receive() 
+
+            # await websocket.receive_json()
             user_message = generalResponse(data["message"], data["role"])
             await manager.send_message(user_message, websocket)
 

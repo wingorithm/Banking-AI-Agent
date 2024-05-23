@@ -3,6 +3,7 @@ import random
 from decimal import Decimal
 from model.Customer import customer
 
+# TODO: add env params to env file
 class postgresRepository():
     def __init__(self):
         self.conn = psycopg2.connect(

@@ -23,6 +23,14 @@ class postgresRepository():
         customer = cur.fetchone()
         cur.close()
         return  customer
+    
+    def find_user_byAcc(self, acc):
+        print(acc)
+        cur = self.conn.cursor()
+        cur.execute("SELECT * FROM users WHERE account = %s;", (acc,))
+        customer = cur.fetchone()
+        cur.close()
+        return customer
 
     @staticmethod
     def generate_uuid():

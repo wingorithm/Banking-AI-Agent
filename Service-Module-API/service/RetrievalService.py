@@ -11,4 +11,5 @@ class RetrievalService:
         print(user_message.message)
         user_message.setRole("bot")
         user_message.setTimestamp(datetime.now())
+        # TODO : Bikin null clientuuid
         return user_message

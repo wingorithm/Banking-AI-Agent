@@ -28,7 +28,7 @@ async def websocket_endpoint(websocket: WebSocket, client_uuid: str):
             data = await websocket.receive_json()
             user_message = generalResponse(data["message"], data["role"], client_uuid, datetime.now())
             
-            nluService.preprocessing(user_message.message)
+            print(user_message.message, user_message.role)
 
             user_message = await retrieveService.getRespond(user_message)
             await manager.send_message(user_message, websocket)

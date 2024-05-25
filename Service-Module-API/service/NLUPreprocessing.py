@@ -33,7 +33,7 @@ class nluPreprocessing:
                     },
                     {
                         "role": "user",
-                        "content": "{message}"
+                        "content": f"{message}"
                     }
                 ],
                 "parameters": {

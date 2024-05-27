@@ -1,57 +1,189 @@
 import time
-
 import numpy as np
 import string
 import random
+import os
+from dotenv import load_dotenv
+from pymilvus import MilvusClient, FieldSchema, CollectionSchema, DataType, Collection, utility, Milvus
+from pymilvus.exceptions import ConnectionNotExistException
+from datasets import load_dataset_builder, load_dataset, Dataset
+from transformers import AutoTokenizer, AutoModel
+from langchain_core.runnables import RunnablePassthrough
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_community.document_loaders import TextLoader
+from langchain_community.embeddings import HuggingFaceHubEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from pymilvus import MilvusClient, DataType, connections, utility
+from service.EmbeddingModel import BertEmbeddingModels
+load_dotenv()
+
+DATASET = os.getenv("DATASET")
+TOKENIZATION_BATCH_SIZE = os.getenv("TOKENIZATION_BATCH_SIZE")
+INFERENCE_BATCH_SIZE = os.getenv("INFERENCE_BATCH_SIZE")
+INSERT_RATIO = os.getenv("INSERT_RATIO")
+INSERT_RATIO = os.getenv("INSERT_RATIO")
+DIMENSION = os.getenv("DIMENSION")
+LIMIT = os.getenv("LIMIT")
+URI = os.getenv("URI")
+USER = os.getenv("USER")
+PASSWORD = os.getenv("PASSWORD")
+COLLECTION_NAME = os.getenv("COLLECTION_NAME")
+EMBBEDINGMODEL = os.getenv("MODEL")
+
+
 fmt = "\n=== {:30} ===\n"
 search_latency_fmt = "search latency = {:.4f}s"
 num_entities, dim = 3000, 8
 
-# TODO : milvus clientnya katanyaharus connect dulu
-print("start connecting to Milvus")
-client = MilvusClient(uri="http://localhost:19530")
-collections = utility.list_collections()
-print("Collections in Milvus:")
-for collection in collections:
-    print(f"collection : {collection}")
-# class MilvusRepository():
-#     # def __init__(self):
-#     #     self.connections.connect()
 
-#     def connect(self, uri : str):
-#         print("start connecting to Milvus")
-#         client = MilvusClient(uri="http://localhost:19530")
-#         collections = utility.list_collections()
-#         print("Collections in Milvus:")
-#         for collection in collections:
-#             print(f"collection : {collection}")
-# print(f"Does collection hello_milvus exist in Milvus: {has}")
+class MilvusRepository():
+    def __init__(self):
+        print("Start connecting to Milvus")
+        print(f"{USER}:{PASSWORD}")
+        try:
+            self.client = MilvusClient(token=f"{USER}:{PASSWORD}", uri=URI)
+            print("Connected to Milvus")
+        except ConnectionNotExistException as e:
+            print(f"Connection not established: {e}")
+            return
 
-# schema = client.create_schema(
-#     auto_id=False,
-#     enable_dynamic_fields=True,
-#     description="hello_milvus is the simplest demo to introduce the APIs",
-# )
+        try:
+            collections = self.client.list_collections()
+            print("Collections in Milvus:")
+            for collection in collections:
+                print(f"Collection: {collection}")
+            
+            if self.client.has_collection(COLLECTION_NAME):
+                self.client.load_collection(collection_name=COLLECTION_NAME)
+                # self.bankCollection = Collection(name=COLLECTION_NAME) #TODO: masih gk bisa get collection 
 
-# schema.add_field(field_name="pk", datatype=DataType.VARCHAR, is_primary=True, max_length=100)
-# schema.add_field(field_name="random", datatype=DataType.DOUBLE)
-# schema.add_field(field_name="embeddings", datatype=DataType.FLOAT_VECTOR, dim=dim)
+                self.res = self.client.get_load_state(
+                    collection_name=COLLECTION_NAME
+                )
 
-# # index_params = client.prepare_index_params()
-# # index_params.add_index(field_name="my_id")
-# # index_params.add_index(
-# #     field_name="my_vector", 
-# #     index_type="AUTOINDEX",
-# #     metric_type="IP")
+                print(self.res)
+                print(self.client)
+            else:
+                self.create_schema()
+        except ConnectionNotExistException as e:
+            print(f"Connection not established: {e}")
 
-# print(fmt.format("Create collection `hello_milvus`"))
-# client.create_collection(
-#     collection_name="hello_milvus", 
-#     schema=schema,
-#     consistency_level="Strong"
-# )
+    def create_schema(self):
+        if self.client.has_collection(COLLECTION_NAME):
+            self.client.drop_collection(COLLECTION_NAME)
+
+        fields = [
+            FieldSchema(name='id', dtype=DataType.INT64, is_primary=True, auto_id=True),
+            FieldSchema(name='original_chunk', dtype=DataType.VARCHAR, max_length=TOKENIZATION_BATCH_SIZE),
+            FieldSchema(name='original_chunk_embedding', dtype=DataType.FLOAT_VECTOR, dim=DIMENSION)
+        ]
+        schema = CollectionSchema(fields=fields)
+        self.client.create_collection(
+            collection_name=COLLECTION_NAME, 
+            schema=schema,
+            consistency_level="Strong"
+        )
+
+        index_params = self.client.prepare_index_params()
+        index_params.add_index(
+            index_type= "HNSW",
+            metric_type="L2",
+            params= {"M": 16, "efConstruction": 200},
+            field_name="original_chunk_embedding"
+        )
+        
+        self.client.create_index(collection_name=COLLECTION_NAME, index_params=index_params)
+        self.client.load_collection(
+                    collection_name=COLLECTION_NAME,
+                )
+        print(f"Collection: {self.client}")
+    
+    def insert_data(self):
+        assets_folder = r"C:\Users\bcamaster\OneDrive - Bina Nusantara\Skripsi\Assets"
+        files = [os.path.join(assets_folder, f) for f in os.listdir(assets_folder) if os.path.isfile(os.path.join(assets_folder, f))]
+        embedding_model = BertEmbeddingModels(model_name=EMBBEDINGMODEL)
+        entities = []
+        
+        counter = 5
+        for file_path in files:
+            print(file_path)
+            loader = TextLoader(file_path, encoding='utf-8')
+            docs = loader.load()
+
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=1024, chunk_overlap=0)
+            all_splits = text_splitter.split_documents(docs)
+            for i in all_splits:
+                original_chunk = i.page_content
+                original_chunk_embedding = embedding_model.embed_query(original_chunk)
+                metadata = i.metadata #TODO: ADD METADATA TO COllection
+                data = {
+                    "original_chunk": original_chunk,
+                    "original_chunk_embedding": original_chunk_embedding
+                }
+                entities.append(data)
+            if counter == 0:
+                break
+            else:
+                counter -= 1
+
+        insert_result = self.client.insert(
+            collection_name=COLLECTION_NAME,
+            data=entities
+            )
+        print(insert_result)
+
+
+
+
+       
+        # self.bankCollection.flush()
+        # tokenizer = AutoTokenizer.from_pretrained(MODEL)
+
+        # # Tokenize the question into the format that bert takes.
+        # def tokenize_question(batch):
+        #     results = tokenizer(batch['question'], add_special_tokens = True, truncation = True, padding = "max_length", return_attention_mask = True, return_tensors = "pt")
+        #     batch['input_ids'] = results['input_ids']
+        #     batch['token_type_ids'] = results['token_type_ids']
+        #     batch['attention_mask'] = results['attention_mask']
+        #     return batch
+
+        # # Generate the tokens for each entry.
+        # data_dataset = data_dataset.map(tokenize_question, batch_size=TOKENIZATION_BATCH_SIZE, batched=True)
+        # # Set the ouput format to torch so it can be pushed into embedding model
+        # data_dataset.set_format('torch', columns=['input_ids', 'token_type_ids', 'attention_mask'], output_all_columns=True)
+
+        # model = AutoModel.from_pretrained(MODEL)
+        # # Embed the tokenized question and take the mean pool with respect to attention mask of hidden layer.
+        # def embed(batch):
+        #     sentence_embs = model(
+        #                 input_ids=batch['input_ids'],
+        #                 token_type_ids=batch['token_type_ids'],
+        #                 attention_mask=batch['attention_mask']
+        #                 )[0]
+        #     input_mask_expanded = batch['attention_mask'].unsqueeze(-1).expand(sentence_embs.size()).float()
+        #     batch['question_embedding'] = sum(sentence_embs * input_mask_expanded, 1) / clamp(input_mask_expanded.sum(1), min=1e-9)
+        #     return batch
+
+        # data_dataset = data_dataset.map(embed, remove_columns=['input_ids', 'token_type_ids', 'attention_mask'], batched = True, batch_size=INFERENCE_BATCH_SIZE)
+
+        # # Due to the varchar constraint we are going to limit the question size when inserting
+        # def insert_function(batch):
+        #     insertable = [
+        #         batch['question'],
+        #         [x[:995] + '...' if len(x) > 999 else x for x in batch['answer']],
+        #         batch['question_embedding'].tolist()
+        #     ]    
+        #     self.bankCollection.insert(insertable)
+
+        # data_dataset.map(insert_function, batched=True, batch_size=64)
+        # self.bankCollection.flush()
+    
+    def create_user(self):
+        self.client.create_user(
+            user_name="milvus",
+            password="milvusadmin",
+        )
+        print(self.client.describe_user("milvus"))
 
 # # ################################################################################
 # # # 3. insert data

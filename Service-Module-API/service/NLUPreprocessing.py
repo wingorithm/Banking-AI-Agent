@@ -2,14 +2,9 @@ import urllib.request
 import json
 import os
 import ssl
+from model.response.GeneralResponse import generalResponse
 
-class nluPreprocessing:
-    def preprocessing(self, message : str):
-        print("start preprocessing")
-        self.NamedEntityRecognitionModel(message)
-        self.intentClassificationModel(message)
-        return message
-
+class nluPreprocessing:        
     def intentClassificationModel(self,  message : str):
         # TODO : logic for call service class
         print("IC lanjut")

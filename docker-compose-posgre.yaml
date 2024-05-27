@@ -1,0 +1,16 @@
+version: "3.9"
+name: postgres-db
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres-db 
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=psqladmin
+    ports:
+      - "9096:5432"
+    volumes:
+     - db:/var/lib/postgresql/data
+volumes:
+  db:

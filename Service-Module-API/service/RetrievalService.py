@@ -20,6 +20,7 @@ class RetrievalService:
             user_message.setMessage("balance")
             return user_message
         else:
+            # TODO : GANTI LLM Adriel
             nluPreprocessing.NamedEntityRecognitionModel(user_message.message)
             nluPreprocessing.intentClassificationModel(user_message.message)
             user_message.setMessage(nluService.LLM(user_message.message))

@@ -1,19 +1,19 @@
 # from repository.PostgresRepository import postgresRepository
 from repository.MilvusRepository import MilvusRepository
+import os
+from pymilvus import MilvusClient, FieldSchema, CollectionSchema, DataType, Collection, utility, Milvus
+
 # from repository.CustomerDao import CustomerDAO as cd
 # from service.BankService import BankService as bankService
 
 
-# ps = postgresRepository()
+client = MilvusClient(token="root:Milvus", uri="http://localhost:19530")
+# bankCollection = Collection(name="bank_documents")
+# print(bankCollection)
+# client.drop_collection("bank_documents")
+
 mr = MilvusRepository()
+# mr.create_user()
+mr.insert_data()
 
-# ps.create_table()
-# ps.insert_data()
-# result = cd.find_customer("BLU2344216434")
-# print("balance", result.balance)
-
-
-# try:
-#     bankService.fundTransfer('BLU5354987807', 'BLU2344216434', 7777.00)
-# except Exception as e:
-#     print(e)
+# 

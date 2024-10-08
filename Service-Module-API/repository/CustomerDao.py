@@ -5,6 +5,11 @@ from model.Customer import customer
 
 ps = postgresRepository()
 
+# DB (X)
+# REPO -> ORM
+# DAO -> find, update, delete 
+# DTO (oper antar service)
+
 class CustomerDAO:
     def find_customer(uuid : str):
         try:

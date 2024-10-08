@@ -15,6 +15,7 @@ class nluPreprocessing:
         return message
 
     def LLM(self,  message : str):
+        # TODO : LLM 2nd Service bakal dibikinin endpoint
         def allowSelfSignedHttps(allowed):
             if allowed and not os.environ.get('PYTHONHTTPSVERIFY', '') and getattr(ssl, '_create_unverified_context', None):
                 ssl._create_default_https_context = ssl._create_unverified_context

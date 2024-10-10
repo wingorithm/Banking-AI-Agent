@@ -2,13 +2,18 @@ from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.responses import HTMLResponse
 from fastapi.testclient import TestClient
 from datetime import datetime
-from transformers import pipeline, Conversation
+# from transformers import pipeline, Conversation
 
 from service.RetrievalService import RetrievalService as retrieveService
 from service.NLUPreprocessing import nluPreprocessing
 from model.response.GeneralResponse import generalResponse
 from service.ConnectionManagerService import connectionManager
 from controller import BankController
+
+from fastapi import FastAPI, Depends
+from sqlalchemy.ext.asyncio import AsyncSession
+from DatabasePostgresConfig import SessionLocal
+from model.Model import Base, engine
 
 nluService = nluPreprocessing()
 app = FastAPI()
@@ -36,3 +41,14 @@ async def websocket_endpoint(websocket: WebSocket, client_uuid: str):
     except WebSocketDisconnect:
         manager.disconnect(websocket)
         await manager.broadcast2(f"Client #{client_uuid} left the chat")
+
+# Dependency to get the DB session
+async def get_db():
+    async with SessionLocal() as session:
+        yield session
+
+# Startup event to create the tables
+@app.on_event("startup")
+async def startup():
+    async with engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)

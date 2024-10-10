@@ -43,9 +43,9 @@ class postgresRepository():
     def create_table(self):
         create_table_sql = """
             CREATE TABLE IF NOT EXISTS users (
-            cin INTEGER PRIMARY KEY,
-            uuid VARCHAR(255) NOT NULL,
-            name VARCHAR(255) NOT NULL,
+            cin CHAR(7),
+            uuid VARCHAR NOT NULL,
+            name VARCHAR NOT NULL,
             account CHAR(12) NOT NULL,
             balance DECIMAL(12, 2) NOT NULL
         );

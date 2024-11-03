@@ -1,6 +1,0 @@
-fastapi
-websockets
-'transformers[torch]'
-datasets
-langchain_community
-sentence_transformers (possibly no need)

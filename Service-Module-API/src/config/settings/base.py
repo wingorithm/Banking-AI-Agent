@@ -2,12 +2,12 @@ import logging
 import pathlib
 
 import decouple
-import pydantic
+import pydantic_settings
 
 ROOT_DIR: pathlib.Path = pathlib.Path(__file__).parent.parent.parent.parent.parent.resolve()
 
 
-class BackendBaseSettings(pydantic.BaseSettings):
+class BackendBaseSettings(pydantic_settings.BaseSettings):
     TITLE: str = "Banking AI Agent"
     VERSION: str = "0.1.0"
     TIMEZONE: str = "UTC"
@@ -38,17 +38,17 @@ class BackendBaseSettings(pydantic.BaseSettings):
     IS_DB_FORCE_ROLLBACK: bool = decouple.config("IS_DB_FORCE_ROLLBACK", cast=bool)  # type: ignore
     IS_DB_EXPIRE_ON_COMMIT: bool = decouple.config("IS_DB_EXPIRE_ON_COMMIT", cast=bool)  # type: ignore
 
-    API_TOKEN: str = decouple.config("API_TOKEN", cast=str)  # type: ignore
-    AUTH_TOKEN: str = decouple.config("AUTH_TOKEN", cast=str)  # type: ignore
-    JWT_TOKEN_PREFIX: str = decouple.config("JWT_TOKEN_PREFIX", cast=str)  # type: ignore
-    JWT_SECRET_KEY: str = decouple.config("JWT_SECRET_KEY", cast=str)  # type: ignore
-    JWT_SUBJECT: str = decouple.config("JWT_SUBJECT", cast=str)  # type: ignore
-    JWT_MIN: int = decouple.config("JWT_MIN", cast=int)  # type: ignore
-    JWT_HOUR: int = decouple.config("JWT_HOUR", cast=int)  # type: ignore
-    JWT_DAY: int = decouple.config("JWT_DAY", cast=int)  # type: ignore
-    JWT_ACCESS_TOKEN_EXPIRATION_TIME: int = JWT_MIN * JWT_HOUR * JWT_DAY
+    # API_TOKEN: str = decouple.config("API_TOKEN", cast=str)  # type: ignore
+    # AUTH_TOKEN: str = decouple.config("AUTH_TOKEN", cast=str)  # type: ignore
+    # JWT_TOKEN_PREFIX: str = decouple.config("JWT_TOKEN_PREFIX", cast=str)  # type: ignore
+    # JWT_SECRET_KEY: str = decouple.config("JWT_SECRET_KEY", cast=str)  # type: ignore
+    # JWT_SUBJECT: str = decouple.config("JWT_SUBJECT", cast=str)  # type: ignore
+    # JWT_MIN: int = decouple.config("JWT_MIN", cast=int)  # type: ignore
+    # JWT_HOUR: int = decouple.config("JWT_HOUR", cast=int)  # type: ignore
+    # JWT_DAY: int = decouple.config("JWT_DAY", cast=int)  # type: ignore
+    # JWT_ACCESS_TOKEN_EXPIRATION_TIME: int = JWT_MIN * JWT_HOUR * JWT_DAY
 
-    IS_ALLOWED_CREDENTIALS: bool = decouple.config("IS_ALLOWED_CREDENTIALS", cast=bool)  # type: ignore
+    # IS_ALLOWED_CREDENTIALS: bool = decouple.config("IS_ALLOWED_CREDENTIALS", cast=bool)  # type: ignore
     ALLOWED_ORIGINS: list[str] = [
         "http://localhost:3000",  # React default port
         "http://0.0.0.0:3000",
@@ -65,12 +65,13 @@ class BackendBaseSettings(pydantic.BaseSettings):
     LOGGING_LEVEL: int = logging.INFO
     LOGGERS: tuple[str, str] = ("uvicorn.asgi", "uvicorn.access")
 
-    HASHING_ALGORITHM_LAYER_1: str = decouple.config("HASHING_ALGORITHM_LAYER_1", cast=str)  # type: ignore
-    HASHING_ALGORITHM_LAYER_2: str = decouple.config("HASHING_ALGORITHM_LAYER_2", cast=str)  # type: ignore
-    HASHING_SALT: str = decouple.config("HASHING_SALT", cast=str)  # type: ignore
-    JWT_ALGORITHM: str = decouple.config("JWT_ALGORITHM", cast=str)  # type: ignore
+    # HASHING_ALGORITHM_LAYER_1: str = decouple.config("HASHING_ALGORITHM_LAYER_1", cast=str)  # type: ignore
+    # HASHING_ALGORITHM_LAYER_2: str = decouple.config("HASHING_ALGORITHM_LAYER_2", cast=str)  # type: ignore
+    # HASHING_SALT: str = decouple.config("HASHING_SALT", cast=str)  # type: ignore
+    # JWT_ALGORITHM: str = decouple.config("JWT_ALGORITHM", cast=str)  # type: ignore
 
-    class Config(pydantic.BaseConfig):
+    class Config:
+        extra = "allow"
         case_sensitive: bool = True
         env_file: str = f"{str(ROOT_DIR)}/.env"
         validate_assignment: bool = True

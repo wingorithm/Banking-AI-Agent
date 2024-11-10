@@ -13,9 +13,9 @@ class Customer(Base):
     __tablename__ = "customers"
 
     id: SQLAlchemyMapped[uuid.UUID] = sqlalchemy_mapped_column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
-    username: SQLAlchemyMapped[str] = sqlalchemy_mapped_column(sqlalchemy.String(length=7), nullable=False, unique=True)
+    cin: SQLAlchemyMapped[str] = sqlalchemy_mapped_column(sqlalchemy.String(length=7), nullable=False, unique=True)
     name: SQLAlchemyMapped[str] = sqlalchemy_mapped_column(sqlalchemy.String(255), nullable=False)
-    accountNo: SQLAlchemyMapped[str] = sqlalchemy_mapped_column(sqlalchemy.String(12), nullable=False, index=True)
+    account_no: SQLAlchemyMapped[str] = sqlalchemy_mapped_column(sqlalchemy.String(12), nullable=False, index=True)
     balance: SQLAlchemyMapped[float] = sqlalchemy_mapped_column(DECIMAL(12, 2), nullable=False)
 
     created_at: SQLAlchemyMapped[datetime.datetime] = sqlalchemy_mapped_column(
@@ -28,8 +28,3 @@ class Customer(Base):
     )
     
     __mapper_args__ = {"eager_defaults": True}
-
-
-
-
-    

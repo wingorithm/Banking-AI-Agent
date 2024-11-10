@@ -10,7 +10,7 @@ from src.config.manager import settings
 # TODO adjust with main old
 # ----------------------------------------------------------------
 def initialize_backend_application() -> fastapi.FastAPI:
-    app = fastapi.FastAPI(**settings.set_backend_app_attributes)  # type: ignore
+    app = fastapi.FastAPI(**settings.set_backend_app_attributes)
 
     app.add_middleware(
         CORSMiddleware,

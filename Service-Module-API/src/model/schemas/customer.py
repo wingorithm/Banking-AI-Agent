@@ -1,14 +1,16 @@
 import datetime
-import uuid
-import pydantic
+from uuid import UUID
+from pydantic import Field
 
 from src.model.schemas.base import BaseSchemaModel
 
 class CustomerDTO(BaseSchemaModel):
-    id: uuid
-    username: str
+    id: UUID
+    cin: str
     name: str
-    accountNo: str
+    account_no: str
     balance: float
-    created_at: datetime.datetime
-    updated_at: datetime.datetime | None
+
+# Other Class 
+# class CustomerDTO(BaseSchemaModel):
+#     id: uuid

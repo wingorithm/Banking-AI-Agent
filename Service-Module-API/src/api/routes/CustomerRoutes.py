@@ -1,7 +1,6 @@
 import fastapi
 import loguru
 
-from src.api.dependencies.repository import get_repository
 from src.model.schemas.customer import CustomerDTO
 from src.model.schemas.response.GlobalResponse import GlobalResponse
 from src.repository.crud.Customer import CustomerCRUDRepository
@@ -13,7 +12,7 @@ from src.service.BankService import BankService
 #     http_404_exc_username_not_found_request,
 # )
 
-router = fastapi.APIRouter(prefix="/customers", tags=["customers"])
+router = fastapi.APIRouter(prefix="/customer", tags=["customer"])
 
 @router.get(
     path="",

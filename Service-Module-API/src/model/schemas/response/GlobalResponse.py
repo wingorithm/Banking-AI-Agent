@@ -8,8 +8,7 @@ class GlobalResponse(BaseModel):
     message: str
     content: Any
 
-# TODO: Change to conversations Global Response
-class GeneralResponse(BaseModel):
+class AgentChatResponse(BaseModel):
     message: str
     role: str
     client_uuid: str

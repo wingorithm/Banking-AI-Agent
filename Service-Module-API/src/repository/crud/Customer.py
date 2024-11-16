@@ -1,12 +1,16 @@
 import typing
 import loguru
+from loguru import logger
 
 import sqlalchemy
-from sqlalchemy.sql import functions as sqlalchemy_functions
+import uuid
 
 from src.model.db.customer import Customer
 from src.model.schemas.customer import CustomerDTO
 from src.repository.crud.base import BaseCRUDRepository
+from src.util.exceptions.DatabaseExceptions import EntityDoesNotExist
+from src.util.LogMessageTemplate import LogMessageTemplate
+
 
 class CustomerCRUDRepository(BaseCRUDRepository):
     # async def create_account(self, account_create: AccountInCreate) -> Account:
@@ -34,14 +38,19 @@ class CustomerCRUDRepository(BaseCRUDRepository):
 
         return [CustomerDTO.from_orm(customer) for customer in customers]
 
-    # async def read_account_by_id(self, id: int) -> Customer:
-    #     stmt = sqlalchemy.select(Customer).where(Account.id == id)
-    #     query = await self.async_session.execute(statement=stmt)
-
-    #     if not query:
-    #         raise EntityDoesNotExist("Account with id `{id}` does not exist!")
-
-    #     return query.scalar()  # type: ignore
+    async def read_customer_by_id(self, id: str) -> typing.Sequence[CustomerDTO]:
+        logger.info(LogMessageTemplate.REPO_START.value.format(q="read_customer_by_id", p=id))
+        customer_id = uuid.UUID(id)
+        stmt = sqlalchemy.select(Customer).where(Customer.id == customer_id)
+        
+        result = await self.async_session.execute(statement=stmt)
+        customer = result.scalar()
+        
+        if not customer:
+            raise EntityDoesNotExist(f"Customer with id `{id}` does not exist!")
+        
+        logger.info(LogMessageTemplate.REPO_COMPLETE.value.format(q="read_customer_by_id", res=customer))
+        return CustomerDTO.from_orm(customer)
 
     # async def update_account_by_id(self, id: int, account_update: AccountInUpdate) -> Account:
     #     new_account_data = account_update.dict()

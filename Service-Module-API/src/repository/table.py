@@ -1,11 +1,8 @@
 import typing
-
 import sqlalchemy
-from sqlalchemy.orm import DeclarativeBase
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy import MetaData
 
+metadata = MetaData()
 
-class DBTable(DeclarativeBase):
-    metadata: sqlalchemy.MetaData = sqlalchemy.MetaData()  # type: ignore
-
-
-Base: typing.Type[DeclarativeBase] = DBTable
+Base: typing.Type[sqlalchemy.ext.declarative.DeclarativeMeta] = declarative_base(metadata=metadata)

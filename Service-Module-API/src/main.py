@@ -6,9 +6,6 @@ from src.api.endpoints import router as api_endpoint_router
 from src.config.events import execute_backend_server_event_handler, terminate_backend_server_event_handler
 from src.config.manager import settings
 
-# ----------------------------------------------------------------
-# TODO adjust with main old
-# ----------------------------------------------------------------
 def initialize_backend_application() -> fastapi.FastAPI:
     app = fastapi.FastAPI(**settings.set_backend_app_attributes)
 
@@ -29,7 +26,7 @@ def initialize_backend_application() -> fastapi.FastAPI:
         terminate_backend_server_event_handler(backend_app=app),
     )
 
-    app.include_router(router=api_endpoint_router, prefix=settings.API_PREFIX)
+    app.include_router(router=api_endpoint_router)
 
     return app
 

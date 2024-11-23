@@ -1,0 +1,3 @@
+Dalam hal Nasabah telah memberikan persetujuan Kuasa Autodebit secara elektronik kepada BCA Digital, maka BCA Digital berhak untuk melakukan pendebitan terhadap rekening Nasabah yang terhubung (Account Linkage) dengan Akun Pengguna pada Situs/Aplikasi Mitra sesuai dengan nominal pendebitan yang diinstruksikan Nasabah melalui Mitra untuk keperluan pembayaran atas Transaksi.
+Nasabah akan mendapatkan notifikasi atas Transaksi Autodebit yang dijalankan. 
+Nasabah memahami sepenuhnya manfaat dan/atau segala akibat dari penggunaan sistem Autodebit dan dengan ini Nasabah menyadari kedudukannya sebagai pihak yang bertanggung jawab atas pemanfaatan layanan Autodebit. 

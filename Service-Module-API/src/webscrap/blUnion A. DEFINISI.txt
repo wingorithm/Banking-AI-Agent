@@ -1,0 +1,25 @@
+Akun blu adalah akun milik Pengguna yang terdaftar pada blu.
+Akun Pengguna adalah akun milik Pengguna yang terdaftar pada Situs/Aplikasi Mitra, yang dapat berupa antara lain email, nomor HP, atau username Pengguna yang didaftarkan oleh Pengguna pada saat pembuatan akun di Situs/Aplikasi Mitra.
+Autodebit adalah sistem pembayaran dengan pendebitan secara otomatis terhadap Saldo blu yang digunakan untuk kepentingan pembayaran Transaksi Nasabah, yang dilakukan oleh BCA Digital berdasarkan Kuasa Autodebit yang telah diberikan oleh Nasabah.
+Barang adalah suatu benda baik berwujud maupun tidak berwujud yang dijual oleh Mitra atau Merchant dan dapat dibeli oleh Pengguna pada Situs/Aplikasi Mitra dengan menggunakan Saldo blu sebagai sumber dana pembayaran.
+BCA Digital adalah PT Bank Digital BCA, lembaga keuangan perbankan yang berizin dan diawasi Otoritas Jasa Keuangan (OJK), serta merupakan peserta penjaminan Lembaga Penjamin Simpanan (LPS).
+blu adalah aplikasi mobile dan/atau layanan perbankan elektronik BCA Digital yang dapat diunduh (download) oleh Nasabah dari media distribusi aplikasi/software resmi yang ditunjuk BCA Digital. blu dapat diakses secara langsung oleh Nasabah melalui gawai (gadget).
+bluAccount adalah rekening utama dalam bentuk tabungan yang dapat dibuka oleh Nasabah secara mandiri melalui blu, setelah mendapatkan persetujuan dari BCA Digital.
+Dormant adalah kondisi rekening simpanan Nasabah yang tidak memiliki aktivitas login/transaksi (tidak termasuk pengkreditan bunga simpanan, pendebitan pajak atas bunga simpanan, meterai, dan biaya-biaya) selama 12 (dua belas) bulan berturut-turut atau dalam periode tertentu yang ditentukan BCA DIGITAL dari waktu ke waktu yang akan diberitahukan oleh BCA DIGITAL dalam bentuk dan melalui media/sarana yang tersedia pada BCA DIGITAL sesuai ketentuan hukum yang berlaku.
+Jasa adalah suatu layanan yang disediakan/dijual oleh Mitra atau Merchant dan dapat dimanfaatkan/dibeli oleh Pengguna pada Situs/Aplikasi Mitra dengan menggunakan Saldo blu sebagai sumber dana pembayarannya.
+Kuasa Autodebit adalah kuasa yang diberikan oleh Nasabah kepada BCA Digital untuk melakukan pendebitan Saldo blu guna kepentingan Nasabah untuk keperluan pembayaran atas Transaksi.
+Layanan blu adalah layanan perbankan digital yang disediakan BCA Digital pada Situs/Aplikasi Mitra sehingga Nasabah dapat melakukan transaksi perbankan pada Situs/Aplikasi Mitra.
+Mitra adalah suatu badan hukum atau badan usaha yang bekerja sama dengan BCA Digital.
+Merchant adalah penjual terdaftar di Situs/Aplikasi Mitra yang menawarkan dan/atau menjual Barang dan/atau Jasa kepada Pengguna melalui Situs/Aplikasi Mitra.
+Nasabah adalah pemilik rekening perorangan dalam bentuk tabungan di BCA Digital.
+Nomor HP adalah nomor telepon seluler Pengguna yang terdaftar pada database/sistem Aplikasi Mitra dan yang terdaftar pada database/sistem BCA Digital.
+One Time Password (OTP) adalah kode yang diterima oleh Nasabah sebagai sarana verifikasi identitas diri Nasabah melalui Short Message Service (SMS) ke Nomor HP yang digunakan saat proses registrasi, account linkage, dan perubahan Nomor HP dan/atau melalui media lain yang ditetapkan oleh BCA Digital. OTP hanya berlaku sekali dalam jangka waktu tertentu dan hanya dapat diterima jika Nomor HP Nasabah dalam masa aktif.
+Pengguna adalah orang perorangan yang terdaftar dan memiliki akun pada Situs/Aplikasi Mitra serta merupakan calon Nasabah dan/atau Nasabah BCA Digital yang memiliki rekening/Akun blu.
+Saldo blu adalah saldo milik Nasabah BCA Digital di bluAccount yang dapat digunakan sebagai sumber dana pembayaran dalam melakukan Transaksi pada Situs/Aplikasi Mitra.
+Saldo di Situs/Aplikasi Mitra adalah saldo milik Pengguna yang terdapat di Situs/Aplikasi Mitra.
+Situs/Aplikasi Mitra adalah situs dan/atau aplikasi yang dimiliki dan dikelola oleh Mitra atau pihak lain yang ditunjuk oleh Mitra atas tanggung jawab Mitra, yang digunakan untuk menawarkan berbagai fitur layanan dan/atau memperdagangkan Barang dan/atau Jasa dari Mitra dan/atau Merchant.
+Syarat dan Ketentuan Penggunaan blu adalah Syarat dan Ketentuan yang telah disetujui Calon Nasabah pada saat pembukaan rekening blu.
+Syarat dan Ketentuan Situs/Aplikasi Mitra adalah syarat dan ketentuan yang telah disetujui Pengguna dalam rangka penggunaan Situs/Aplikasi Mitra. 
+Tautan Akun (Account Linkage) adalah tindakan Pengguna untuk menghubungkan Akun blu dengan Akun Pengguna.
+Top Up Saldo di Situs/Aplikasi Mitra adalah suatu bentuk Transaksi yang dapat dilakukan oleh Pengguna dengan menggunakan Saldo blu sebagai sumber dana.
+Transaksi adalah aktivitas yang dilakukan oleh Pengguna dengan memanfaatkan fitur-fitur layanan pada Situs/Aplikasi Mitra dengan rekening blu sebagai rekening penerimaan dana dan/atau sumber dana, termasuk namun tidak terbatas pada Top Up Saldo di Situs/Aplikasi Mitra, pembayaran berbagai fitur layanan pada Situs/Aplikasi Mitra, pembelian Barang dan/atau Jasa dari Mitra dan/atau Merchant, dan/atau transfer dana.

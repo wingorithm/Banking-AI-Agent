@@ -1,0 +1,7 @@
+Fitur Transaksi Tanpa PIN bersifat opsional. Jika Nasabah hendak menggunakan fitur Transaksi Tanpa PIN, Nasabah perlu mengaktifkannya terlebih dahulu melalui menu pengaturan pada blu.
+Dalam penggunaan fitur Transaksi Tanpa PIN, Nasabah dapat mengatur jenis dan batas nominal transaksi sesuai dengan ketentuan yang disampaikan melalui media/sarana yang ditetapkan oleh BCA DIGITAL.
+Jika Nasabah telah mengaktifkan fitur Transaksi Tanpa PIN, maka Nasabah dapat bertransaksi tanpa perlu memasukkan PIN dengan kondisi:
+Nasabah telah mengaktifkan fitur Transaksi Tanpa PIN untuk jenis transaksi sesuai dengan ketentuan BCA DIGITAL.
+Nominal transaksi tidak melebihi batas nominal transaksi yang telah diatur oleh Nasabah dan tidak melebihi batas nominal transaksi harian yang telah ditentukan oleh BCA DIGITAL.
+Nasabah dapat menonaktifkan dan/atau mengaktifkan kembali fitur Transaksi Tanpa PIN secara mandiri pada bagian pengaturan.
+Apabila Nasabah tidak melakukan login ke aplikasi blu selama 30 (tiga puluh) Hari Kalender, maka fitur Transaksi Tanpa PIN akan otomatis dinonaktifkan.

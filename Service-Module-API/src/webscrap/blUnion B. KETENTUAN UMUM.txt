@@ -1,0 +1,13 @@
+Pengguna yang dapat menggunakan blu di Situs/Aplikasi Mitra adalah:
+Pengguna yang sebelumnya telah membuka rekening blu dan memastikan Akun blu dalam kondisi aktif;
+Pengguna yang telah menautkan Akun blu dengan Akun Pengguna (Account Linkage) di mana Nomor HP yang digunakan untuk melakukan Account Linkage adalah Nomor HP yang terdaftar pada Akun blu.
+Pengguna diharapkan mengikuti seluruh proses verifikasi yang akan dilaksanakan pada saat Pengguna akan melakukan Account Linkage, yang meliputi aktivitas sebagai berikut:
+Memasukkan Nomor HP yang terdaftar pada blu.
+Memasukkan Password yang terdaftar pada blu.
+Memasukkan kode One Time Password ("OTP") yang dikirimkan ke Nomor HP Pengguna yang didaftarkan pada saat Account Linkage Akun blu pada Situs/Aplikasi Mitra
+Pengguna dengan ini secara sadar dan sah melakukan hal-hal sebagai berikut :
+Memberikan persetujuan dan kuasa kepada BCA Digital untuk melakukan pendebitan terhadap rekening blu milik Pengguna yang terhubung dengan Akun Pengguna pada Situs/Aplikasi Mitra guna penyelesaian Transaksi dan pembayaran terhadap seluruh biaya-biaya yang timbul atas penggunaan blu pada Situs/Aplikasi Mitra; dan/atau
+Memberikan persetujuan dan kuasa kepada Mitra untuk memberikan instruksi kepada BCA Digital guna menyelesaikan Transaksi dan pembayaran terhadap seluruh biaya-biaya yang timbul atas penggunaan blu pada Situs/Aplikasi Mitra sebagaimana dimaksud pada Pasal B tentang Ketentuan Umum butir 3.a di atas.
+Pengguna dengan ini memahami dan menyetujui bahwa BCA Digital sewaktu-waktu, dengan pertimbangannya sendiri, dapat menghentikan layanan blu pada Situs/Aplikasi Mitra, baik sebagian maupun seluruhnya dan/atau menangguhkan pembayaran yang menggunakan blu apabila Pengguna dan/atau Mitra terindikasi atau terbukti melakukan hal-hal yang melanggar peraturan perundang-undangan yang berlaku, Syarat dan Ketentuan ini, dan/atau Syarat dan Ketentuan Penggunaan blu.
+Pengguna memahami, menyetujui, dan bertanggung jawab penuh atas hal-hal yang mungkin timbul yang merupakan konsekuensi atas pelanggaran yang dilakukan oleh Pengguna sebagaimana dimaksud pada Pasal B Ketentuan Umum butir 4, termasuk namun tidak terbatas pada kehilangan Saldo blu, klaim, somasi, gugatan, dan tuntutan.
+Dalam hal terdapat perubahan atas Syarat dan Ketentuan ini maka BCA Digital akan melakukan pemberitahuan kepada Nasabah sesuai dengan ketentuan hukum yang berlaku.

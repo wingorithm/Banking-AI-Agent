@@ -1,0 +1,1555 @@
+Artikel ini membahas tentang: frequently ask question
+Apa itu blu?
+blu merupakan aplikasi mobile banking dari BCA Digital yang didesain dan dikembangkan untuk memberikan kemudahan untukmu agar bisa melakukan transaksi finansial dan non finansial melalui handphone.
+
+Apa perbedaan blu dengan BCA Digital?
+blu adalah aplikasi mobile banking milik BCA Digital.
+
+Apa perbedaan BCA Digital dengan BCA?
+BCA Digital merupakan anak perusahaan BCA, bagian dari BCA Group.
+
+Apa keuntungan pakai aplikasi blu?
+Gak terbatas ruang dan waktu, aplikasi blu bisa diakses 24/7, 365 hari dari genggaman tanganmu! Nabung dan bayar/beli, beres~
+
+Apakah blu punya kantor cabang offline?
+blu gak punya kantor cabang offline, tapi tenang, semua layanannya bisa diakses di handphone kamu.
+
+Apakah saya harus jadi nasabah BCA untuk registrasi blu?
+Tidak. Kamu bisa mulai langkahmu dengan download blu sekarang juga!Namun, jika kamu nasabah BCA, kamu bisa memilih opsi \"Saya Nasabah BCA\" saat melakukan pembukaan rekening blu untuk kemudahan penarikan data pekerjaan dan alamat domisili.
+
+Apa saja fitur yang dimiliki blu?
+blu punya fitur yang akan mempermudah hidup kamu. Ini dia layanan yang bisa kamu gunakan saat ini: - bluAccount - bluSaving - bluGether - bluDeposit - Transfer uang - Tarik tunai tanpa kartu di ATM BCA - Beli pulsa & bayar tagihan pascabayar - Pembayaran internet/TV kabel - Top up OVO & GoPay - Pembayaran pakai QRIS - Cek saldo - Cek riwayat transaksi
+
+Saya tinggal di luar negeri, apakah saya bisa buka rekening blu?
+Bisa. Apabila kamu adalah WNI, memiliki E-KTP, punya nomor handphone Indonesia dan mengaktifkan roaming untuk SMS OTP.
+
+Saya tinggal di luar negeri, apakah saya bisa menggunakan blu?
+Bisa, tetapi kamu harus mengaktifkan roaming untuk memproses transaksi yang menggunakan SMS OTP.
+
+Apa spesifikasi minimumhandphoneuntuk install blu?
+blu saat ini kompatibel untuk: - Android 6.0 ke atas, di handphone Android - iOS 12.4 ke atas, di iPhone
+
+Bagaimana jikahandphonesaya belum mendukung versi OS minimum blu?
+Yaah...maaf banget. Kalau begitu kondisinya, kamu belum bisa download dan mengakses blu dari handphone itu.
+
+Apakah blu punya biaya tambahan?
+Kami mengerti kamu, maka blu:• Bebas Biaya Admin• Bebas Biaya Transfer ke BCA• Bebas Biaya Transfer dari BCAKeterangan mengenai biaya bisa kamu cek di https://blubybcadigital.id/info/fees-rates/
+
+Siapa saja yang bisa jadi pengguna aplikasi blu?
+Warga Negara Indonesia berusia minimal 17 tahun, mempunyai E-KTP, dan tidak memiliki kewajiban perpajakan di negara lain.
+
+Apa saja dokumen yang perlu disiapkan untuk membuka rekening blu?
+Gak ribet, kamu cuma perlu siapin: - E-KTP - NPWP (opsional)  Pastikan kamu ada di ruangan terang karena tim haloblu akan melakukan video call untuk verifikasi datamu, ya.
+
+Mengapa saya perlu melakukan konfirmasi data E-KTP setelah mengunggahnya di proses pembukaan rekening blu?
+Karena kamu harus memastikan data yang ada di field pengecekan sesuai dan sama dengan data di E-KTP-mu.
+
+Apakah saya bisa membuatkan rekening blu untuk orang lain?
+Sayangnya, tidak. Kamu tidak bisa membuat akun perwakilan untuk anak atau orang lain yang masih belum memiliki E-KTP. Tiap Nomor Induk Kependudukan (NIK) hanya bisa digunakan untuk satu akun.
+
+E-KTP saya belum jadi, apakah masih bisa punya rekening blu?
+Tidak bisa, saat ini E-KTP adalah dokumen utama untuk verifikasi rekening blu. Kalau E-KTP kamu sudah jadi, jangan lupa untuk segera buka rekening blu, ya!
+
+Saya belum punya NPWP, apakah bisa punya rekening blu?
+Bisa. Kamu akan diminta untuk upload NPWP jika nominal portofolio yang dimiliki sudah mencapai Rp 7,5 juta.
+
+Kenapa saya perlu melakukan konfirmasi data NPWP setelah mengunggahnya di proses pembukaan rekening blu?
+Karena kamu harus memastikan data yang ada di field pengecekan sesuai dan sama dengan data di NPWP-mu.
+
+Kenapa saya perlu memasukkan email saat melakukan pembukaan rekening blu?
+Kamu perlu memasukkan email saat registrasi untuk berbagai keperluan, seperti: 1. Korespondensi 2. Menerima update terbaru dari blu
+
+Kenapa saya perlu melakukan verifikasi email di blu?
+Verifikasi email diperlukan untuk konfirmasi bahwa email yang kamu daftarkan di blu aktif dan bisa digunakan. Kamu juga akan mendapatkan informasi terbaru dan promo-promo seru blu yang dikirimkan melalui email.
+
+Apa itu kode referral/kode voucher?
+- Kode referral adalah kode unik yang dibuat khusus untukmu. Kode ini bisa kamu bagikan pada teman-temanmu yang ingin kamu referensikan untuk buka rekening blu. - Kode voucher adalah kode dari blu yang bisa kamu gunakan jika ada penawaran spesial/promosi saat melakukan pembukaan rekening blu.
+
+Apa fungsi password di blu?
+Password berfungsi sebagai kunci untuk masuk ke aplikasi, terutama saat kamu tidak mengaktifkan biometrik.  Jangan pernah beritahukan password kamu pada siapa pun, termasuk pihak yang mengaku dari blu untuk keamanan info pribadi dan transaksi kamu, dan mencegah orang lain mengakses akunmu. blu mewajibkan kamu untuk membuat password dengan kombinasi sebagai berikut: 1. Minimal 8 karakter 2. Mengandung huruf besar dan huruf kecil 3. Mengandung simbol 4. Mengandung angka
+
+Apa perbedaan nasabah BCA dan bukan nasabah BCA di proses pembukaan rekening blu?
+Apabila kamu nasabah BCA, kamu dapat menarik data pekerjaan dan alamat domisili dari datamu di BCA. Kamu hanya perlu memasukkan nomor kartu ATM BCA dan nomor handphone yang terdaftar di e-banking BCA untuk proses penarikan data. Jika kamu memilih langkah ini, pastikan data yang kamu tarik tersebut merupakan yang ter-update.  Kalau kamu bukan nasabah BCA, tenang. Kamu tetap bisa menyelesaikan proses pembukaan rekening blu dengan memasukkan data-data yang diperlukan. Pastikan koneksi internet kamu stabil agar proses pembukaan rekening lancar jaya!
+
+Apa itu pengenalan wajah yang ada di proses pembukaan rekening blu?
+Pengenalan wajah adalah cara autentifikasi biometrik agar keamanan bertransaksi kamu makin terjamin saat: - Melakukan akumulasi transaksi hingga Rp250.025.000 per hari - Mengaktifkan kembali rekening dormant - Mengubah PIN - Mengubah password - Mengubah email - Mengubah nomor handphone - Ganti handphone karena hilang
+
+Apa yang terjadi jika koneksi atau perangkat saya bermasalah saat melakukan pembukaan rekening blu?
+Tenang, data yang sudah kamu masukkan saat pembukaan rekening akan tersimpan selama 7 hari, jadi kamu tidak perlu mengulangi langkahnya dari awal. Namun, jika kamu tidak menyelesaikan pembukaan rekening dalam 7 hari, kamu harus mengulang prosesnya dari awal.
+
+Kenapa saya perlu memasukkan alamat domisili di proses pembukaan rekening blu?
+Kami perlu alamat domisili kamu untuk kemudahan korespondensi jika diperlukan.
+
+Kenapa saya perlu mengisi data pekerjaan di proses pembukaan rekening blu?
+Tentunya karena kami mau kenal kamu ?  Selain itu, proses pengisian data pekerjaan ini diperlukan sesuai dengan Peraturan Bank Indonesia.
+
+Saya ingin mengganti perangkat/device handphone saya, tapi nomor handphone saya tetap sama. Bagaimana cara masuk kembali ke blu?
+1. Masuk ke aplikasi blu melalui handphone baru. 2. Masukkan nomor handphone yang terdaftar di blu. 3. Masukkan kode OTP. 4. Masukkan password.
+
+Apa itu pembukaan rekening blu tanpa video call?
+Pembukaan rekening tanpa video call adalah salah satu fitur yang bisa dinikmati calon nasabah blu dengan kriteria tertentu untuk bisa memiliki rekening blu tanpa harus verifikasi video call dengan haloblu setelah pengisian data selesai dilakukan. Setelah proses pembukaan rekening selesai dan rekeningmu sudah aktif, kamu bisa menentukan nomor rekening dengan memilih salah satu dari pilihan ini:Pilih nomor rekening sendiri Jika kamu punya nomor favorit tertentu, kamu bisa menjadikannya sebagai 8 digit terakhir dari total 12 digit nomor rekening cantik blu kamu. Pemilihan nomor rekening sendiri ini akan dikenakan biaya Rp100 ribu.Nomor rekening dipilihkan oleh bluKalau memilih ini, kamu akan mendapatkan 12 digit nomor rekening secara acak. Jika ada pertanyaan terkait hal ini, hubungi haloblu di 1500 668
+
+Bagaimana blu mengamankan data dan transaksi saya?
+- Keamanan blu dilengkapi dengan adanya PIN, password, pengenalan wajah, dan SMS OTP. - blu menyimpan kerahasiaan dan keamanan informasi diri yang kamu berikan. Penggunaan data kamu juga akan kami lakukan sesuai dengan ketentuan yang berlaku.
+
+Ada telepon mencurigakan mengatasnamakan blu atau BCA Digital nih, saya bisa lapor ke mana ya?
+Segera laporkan ke haloblu 1500668 melalui telepon atau dengan klik menu bantuan, kami akan selalu siap membantu kamu.Selain itu, kamu juga bisa menghubungi haloblu melalui: Email: haloblu@bcadigital.co.id Twitter: @haloblu
+
+Bisakah saya mengubah nomorhandphone?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard. 2. Klik \"Profil\" 3. Klik ikon edit di \"Info Kontak\" 4. Ubah ke nomor handphone yang diinginkan 5. Selesaikan prosesnya
+
+Perangkathandphonesaya hilang, apa yang harus saya lakukan?
+Jika handphone kamu hilang, ini yang harus kamu lakukan: 1. Kamu harus segera menghubungi haloblu di 1500668 untuk melakukan pemblokiran rekening. 2. Masuk ke aplikasi blu melalui handphone baru. 3. Masukkan nomor handphone lama. 4. Masukkan kode OTP. 5. Masukkan password + lakukan proses pengenalan wajah untuk pembukaan blokir dan masuk ke dalam aplikasi. 6. Segera ubah password kamu untuk langkah pengamanan tambahan.
+
+Saya ingin mengganti perangkat/devicehandphonesaya, tapi nomorhandphonesaya tetap sama. Bagaimana cara masuk kembali ke blu?
+1. Masuk ke aplikasi blu melalui handphone baru. 2. Masukkan nomor handphone yang terdaftar di blu. 3. Masukkan kode OTP. 4. Masukkan password.
+
+Apa itu bluAccount?
+bluAccount adalah rekening utama yang akan digunakan untuk bertransaksi, seperti menerima transfer masuk, transfer ke sesama rekening blu atau transfer ke bank lain, tarik tunai di ATM, juga bayar dan beli. Kamu hanya bisa memiliki 1 rekening bluAccount. Setelah memiliki bluAccount, kamu bisa membuat rekening bluSaving, bluGether, dan bluDeposit.
+
+Bagaimana cara top up uang di bluAccount?
+Top up uang bisa dilakukan dari rekening bluAccount lain atau dari rekening bank lain.
+
+Bagaimana cara transfer uang dari BCA ke blu?
+1. Pilih Transfer antar Bank2. Pilih Bank Digital BCA di daftar Bank Penerima, masukkan kode Bank Digital BCA (501)3. Lanjut, masukkan nomor rekening bluAccount kamu4. Masukkan nominal yang diinginkan5. Lanjutkan proses sampai selesai
+
+Bagaimana cara transfer uang dari bank lain ke blu?
+1. Pilih Transfer antar Bank2. Pilih Bank Digital BCA (BCA Digital atau Bank Royal) di daftar Bank Penerima, masukkan kode Bank Digital BCA (501)3. Lanjut, masukkan nomor rekening bluAccount kamu4. Masukkan nominal yang diinginkan5. Lanjutkan proses sampai selesai
+
+Bagaimana cara transfer uang dari bank lain lewat ATM Bersama/Prima?
+1. Pilih Transfer antar Bank2. Pilih Bank Digital BCA (BCA Digital atau Bank Royal) di daftar Bank Penerima, masukkan kode Bank Digital BCA (501)3. Lanjut, masukkan nomor rekening bluAccount kamu4. Masukkan nominal yang diinginkan5. Lanjutkan proses sampai selesai
+
+Bagaimana cara menutup bluAccount saya?
+bluAccount hanya bisa ditutup dengan bantuan tim haloblu. Sebelum rekening bluAccount ditutup, kamu akan diminta untuk memindahkan dana ke rekening lain.
+
+Bagaimana penghitungan bunga bluAccount?
+Saat ini bunga bluAccount adalah 0,5% p.a. Penghitungan bunga dihitung berdasarkan saldo akhir bluAccount per harinya. Bunga dalam 1 bulan dikreditkan ke bluAccount tiap akhir bulan dari bulan yang bersangkutan.Nilai simpanan maksimum yang dijamin oleh LPS sebesar Rp 2.000.000.000 (dua miliar rupiah) dengan tingkat bunga penjaminan maksimum sebesar 4,25% (empat koma dua lima persen) untuk rupiah sesuai ketentuan yang berlaku.
+
+Apakah saya bisa memindahkan dana dari bluAccount ke bluSaving/bluGether?
+Bisa dong! Kamu bisa memindahkan dana dari bluAccount ke bluSaving/bluGether (jika kamu menjadi Creator) dan sebaliknya (dari bluSaving/bluGether ke bluAccount). Cara untuk melakukan pemindahan dana ini adalah:Masuk ke bluAccount di menu SimpananKlik Pindah DanaPindahkan dana sesuai keinginan ke bluSaving/bluGether (Creator)Jika ingin memindahkan dana dari bluSaving/bluGether, pilih tombol reverse di antara bluAccount dan bluSaving/bluGether
+
+Apa itu bluSaving?
+bluSaving adalah rekening tabungan yang dapat dinamai sesuai pos-pos kebutuhanmu. bluSaving bisa tanpa goal seperti tabungan biasa atau dengan goal misalnya untuk beli sepeda atau liburan. Kamu juga bisa menggunakan autodebit untuk mempermudah setoran ke bluSaving.
+
+Apa perbedaan bluSaving dengan bluAccount?
+bluAccount adalah rekening transaksi. bluSaving adalah rekening tabungan yang dananya hanya bisa dipindahkan dari/ke bluAccount.
+
+Apa keuntungan menabung di bluSaving?
+- Nabung di bluSaving suku bunganya 3% p.a.- Budgeting jadi lebih mudah, bluSaving dapat dinamai sesuai pos-pos kebutuhan kamu.- Bisa bikin tabungan tanpa goal atau dengan goal.
+
+Bagaimana cara membuka bluSaving?
+bluSaving Tanpa Goal1. Pilih bluSaving kamu dari Dashboard Simpanan2. Klik 'Buka bluSaving', pilih tujuan Simpanan3. Tulis nama bluSaving sesuai keinginanmu4. Klik 'Buka bluSaving'bluSaving dengan Goal1. Pilih bluSaving kamu dari Dashboard Simpanan2. Klik 'Buka bluSaving', pilih tujuan Simpanan3. Tulis nama bluSaving sesuai keinginanmu4. Masukkan setoran awal, klik Lanjut5. Atur nominal goal dan tanggal pencapaian, klik Lanjut6. Kamu juga bisa mengaktifkan fitur autodebit 7. Klik 'Buka bluSaving'
+
+Bagaimana cara menambah dana ke bluSaving?
+Ada 2 cara memindahkan dana ke bluSaving.A. Melalui Menu bluSaving 1. Pilih bluSaving kamu dari Dashboard Simpanan2. Klik bluSaving yang ingin kamu tambah dananya3. Klik 'Tambah Dana', masukkan nominal dana yang kamu inginkan4. Klik LanjutB. Melalui Opsi 'Pindah Dana' dari bluAccount 1. Masuk ke bluAccount di menu Simpanan2. Klik Pindah Dana3. Pindahkan dana sesuai keinginan ke bluSaving4. Jika ingin memindahkan dana dari bluSaving, pilih tombol reverse di antara bluAccount dan bluSaving/bluGether.
+
+Bagaimana cara melakukan autodebit dari bluAccount ke bluSaving?
+Kamu bisa melakukan autodebit saat membuka bluSavingKamu juga bisa melakukan autodebit dari menu Pengaturan bluSaving, ini caranya:1. Klik bluSaving dari Dashboard Simpanan2. Pilih bluSaving yang ingin kamu atur3. Klik titik tiga di sudut kanan atas4. Masuk ke menu 'Pengaturan bluSaving'5. Lanjutkan prosesnya sampai selesai
+
+Berapa jumlah maksimal bluSaving yang bisa saya miliki?
+Kamu bisa memiliki maksimal 20 gabungan bluSaving/bluGether
+
+Bagaimana penghitungan bunga bluSaving?
+Suku bunga bluSaving saat ini 3%. Penghitungan bunga berdasarkan saldo akhir harian masing-masing bluSaving. Bunga akan dikreditkan ke bluSaving setiap akhir bulan dari bulan yang bersangkutan. Jika kamu melakukan penutupan bluSaving sebelum tanggal 1, kamu tetap akan mendapat bunga proporsional bulan berjalan.Nilai simpanan maksimum yang dijamin oleh LPS sebesar Rp 2.000.000.000 (dua miliar rupiah) dengan tingkat bunga penjaminan maksimum sebesar 4,25% (empat koma dua lima persen) untuk rupiah sesuai ketentuan yang berlaku.
+
+Apa itu bluGether?
+bluGether adalah rekening tabungan single account yang dapat dipakai seperti rekening bendahara.Nasabah yang membuat rekening bluGether disebut Creator, sedangkan nasabah blu yang diundang ke dalamnya disebut Member.Creator dapat mengundang maksimal 49 teman sebagai Member, untuk ikut memonitor transaksi dan saldo rekening bluGether.Saat Creator melakukan penarikan dari bluGether, blu akan mengirimkan notifikasi ke seluruh member, jadi lebih transparan.
+
+Apa keuntungan pakai bluGether?
+- Nabung di bluGether suku bunganya 3% p.a.- Bisa dipakai seperti rekening bendahara yang lebih transparan.- Bisa dipakai untuk patungan, arisan, uang kas, beli kado bareng, dll bersama teman.
+
+Berapa jumlah maksimal bluGether yang bisa saya miliki?
+Kamu bisa memiliki maksimal 20 gabungan bluSaving/bluGether
+
+Apa itu Creator bluGether?
+Creator adalah nasabah yang membuat rekening bluGether.Creator bisa melakukan:- Mengundang teman-temannya untuk bergabung jadi Member.- Menambah dana ke bluGether.- Menarik dana dari bluGether.- Melihat saldo dan mutasi transaksi.- Menghapus Member.
+
+Apa itu Member bluGether?
+Jika ada undangan bluGether, nasabah akan mendapatkan notifikasi dan bisa memilih apakah ingin menerima atau menolak undangan bluGether tersebut.Member adalah nasabah blu yang setuju bergabung dalam bluGether milik Creator. Member bisa melakukan:- Menambah dana ke bluGether- Melihat saldo dan mutasi transaksi.- Mendapatkan notifikasi apabila Creator melakukan penarikan dana.
+
+Berapa jumlah member yang bisa bergabung di bluGether?
+Jumlah member bluGether maksimal 49 orang + 1 orang Creator.
+
+Apakah saya bisa memindahkan dana dari bluAccount ke bluGether atau sebaliknya?
+Kamu bisa memindahkan dana dari bluAccont ke bluGether dan sebaliknya jika kamu adalah Creator bluGether. Hanya Creator yang bisa memindahkan dana dari bluGether ke bluAccount.
+
+Apakah Member bisa menarik uang dari bluGether?
+Tidak. Hanya Creator yang bisa melakukan penarikan uang.
+
+Bisakah melakukan autodebit ke bluGether?
+Sayangnya, tidak bisa... Tapi tenang, proses menambah dana ke bluGether gampang kok!
+
+Bagaimana penghitungan bunga bluGether?
+Suku bunga bluGether saat ini 3%. Bunga akan dikreditkan ke bluGether setiap akhir bulan dari bulan yang bersangkutan. Jika kamu melakukan penutupan bluGether sebelum tanggal 1, kamu tetap akan mendapat bunga proporsional bulan berjalan.Nilai simpanan maksimum yang dijamin oleh LPS sebesar Rp 2.000.000.000 (dua miliar rupiah) dengan tingkat bunga penjaminan maksimum sebesar 4,25% (empat koma dua lima persen) untuk rupiah sesuai ketentuan yang berlaku.
+
+Apa saja hak saya sebagai Creator bluGether?
+Creator dapat mengundang pengguna blu lain untuk menjadi member di bluGether miliknya.Hak penuh terhadap saldo rekening.Hak untuk mengundang/memberhentikan member.
+
+Apa saja kewajiban saya sebagai Member bluGether?
+Member bluGether memahami dan menyetujui bahwa keanggotaannya pada bluGether dapat diakhiri baik karena pilihan sendiri maupun karena keputusan dari Creator.Bertanggungjawab untuk berkomunikasi dan menyelesaikan hal-hal terkait dengan dana yang terdapat di bluGether dengan Creator bluGether, termasuk namun tidak terbatas pada sengketa yang mungkin timbul di kemudian hari terkait dengan dana di bluGether, dan dengan ini, membebaskan BCA Digital dari segala klaim, keberatan, dan/atau tuntutan sehubungan dengan sengketa antara Creator bluGether dan Member bluGether terkait dengan dana di bluGether.
+
+Apa saja hak saya sebagai Member bluGether?
+Calon Member dapat menolak/menerima ajakan menjadi member bluGether dari pengundang.Member blugether dapat meminta izin untuk melihat dan meminta keterangan mengenai saldo dan mutasi rekening bluGether, nama dan alamat Creator, serta menerima pemberitahuan (notifikasi) transaksi bluGether.
+
+Apa saja kewajiban saya sebagai Creator bluGether?
+Bertanggung jawab sepenuhnya atas dana yang ada di bluGether, termasuk namun tidak terbatas pada segala akibat hukum yang mungkin timbul terkait dana yang ada di bluGether.Mengizinkan member blugether melihat dan meminta keterangan mengenai saldo dan mutasi rekening bluGether, nama dan alamat Creator, serta memberikan pemberitahuan (notifikasi) transaksi bluGether pada Member.Bertanggungjawab untuk berkomunikasi dan menyelesaikan hal-hal terkait dengan dana yang terdapat di bluGether dengan Member bluGether, termasuk namun tidak terbatas pada sengketa yang mungkin timbul di kemudian hari terkait dengan dana di bluGether, dan dengan ini, membebaskan BCA Digital dari segala klaim, keberatan, dan/atau tuntutan sehubungan dengan sengketa antara Creator bluGether dan Member bluGether terkait dengan dana di bluGether.
+
+Apa itu bluDeposit?
+- bluDeposit adalah deposito berjangka dengan minimal dana Rp 1 juta dan tenor 1 sampai 12 bulan.- Kamu bisa pilih tipe deposito (Non-ARO, ARO, ARO+) kamu sesuai kebutuhan
+
+Apa perbedaan non ARO, ARO, dan ARO+?
+Non ARO (Non-Automatic Roll Over)Deposito yang akan berakhir sesuai tenor yang dipilih. Dana pokok dan bunga akan dicairkan ke bluAccount.ARO (Automatic Roll Over)Deposito yang diperpanjang secara otomatis jika jatuh tempo. Dana yang diperpanjang hanya pokok saja, bunga akan dicairkan ke bluAccount.ARO+ (Automatic Roll Over Plus)Deposito yang diperpanjang secara otomatis jika jatuh tempo. Dana yang diperpanjang adalah akumulasi pokok dan bunga.
+
+Berapa suku bunga yang akan saya dapatkan jika membuka bluDeposit?
+Suku bunga bluDeposit saat ini:Penempatan dengan Tenor 1 BulanJumlah PenempatanSuku BungaRp 1.000.000 - Rp 9.999.9993,5% p.a.Rp 10.000.000 - Rp 99.999.9993,75% p.a.Rp 100.000.000 - Rp 499.999.9994,25% p.a.Rp 500.000.000 - Rp 999.999.9994,5% p.a.>= Rp 1.000.000.0004,75% p.a.Penempatan dengan Tenor lebih dari 1 BulanJumlah PenempatanSuku BungaRp 1.000.000 - Rp 9.999.9993,5% p.a.Rp 10.000.000 - Rp 99.999.9993,75% p.a.>= Rp 100.000.0004,00 % p.a.
+
+Berapa dana yang harus disiapkan untuk buka bluDeposit?
+bluDeposit bisa dibuka dengan minimal Rp 1 juta rupiah.
+
+Berapa jangka waktu/tenor bluDeposit?
+Kamu bisa memilih tenor bluDeposit mulai dari 1 sampai 12 bulan.
+
+Bisa bikin lebih dari 1 bluDeposit gak ya?
+Bisa dong! Kamu bisa membuka lebih dari satu bluDeposit.
+
+Apakah saya bisa mencairkan bluDeposit sebelum jatuh tempo?
+Kamu bisa menarik dana bluDeposit sebelum jatuh tempo (SBJT), namun kamu tidak akan mendapatkan bunga. SBJT tidak bisa dilakukan di 1 hari kalender sebelum jatuh tempo.
+
+Apakah saya bisa menambah dana/top up untuk bluDeposit yang telah dibuka?
+Bisa. Caranya:Kamu bisa melakukan  top up bluDeposit  1 kali sampai dengan 6 hari dari tanggal pembukaan bluDeposit :• Nominal top up mulai dari Rp 1 juta hingga Rp 10 juta.• Tanggal jatuh tempo mengikuti tanggal jatuh tempo awal.• Suku bunga mengikuti suku bunga awal.
+
+Bagaimana cara melakukan top up bluDeposit yang telah dibuka?
+1. Klik bluDeposit yang dananya ingin kamu tambahkan
+2. Klik banner di bagian bawah layar. (Banner ini hanya muncul selama 6 hari terhitung dari hari pertama kamu buka bluDeposit)
+3. Ikuti prosesnya sampai selesai.
+
+Apakah saya bisa mengubah tipe bluDeposit saya?
+Yes, kamu bisa mengubah tipe bluDepositmu sampai dengan H-1 sebelum jatuh tempo, tapi kamu tidak bisa mengubah tenor deposito. Suku bunga akan mengikuti suku bunga yang berlaku saat itu
+
+Bagaimana cara melakukan perpanjangan bluDeposit?
+Bisa. Caranya:1. Buka bluDeposit yang ingin kamu ubah tipe depositonya.2. Klik icon titik tiga di kanan atas, lalu pilih 'pengaturan bluDeposit'3. Kamu bisa ganti tipe deposito sesuai kebutuhanmu (Non-ARO, ARO, ARO+).4. Klik button simpan.
+
+Bagaimana penghitungan bunga bluDeposit?
+Bunga bluDeposit dengan Top Up: Total bunga = bunga bluDeposit sebelum top up + bunga bluDeposit setelah top upBunga Sebelum Top Up =(Nominal pokok sebelum top up x suku bunga p.a x total hari bluDeposit yang sudah terlewati) : 365 Bunga Setelah Top Up =(Nominal pokok setelah top up x suku bunga p.a x total hari bluDeposit yang akan dilewati) : 365*Bunga bluDeposit dikenakan pajak 20%.Nilai simpanan maksimum yang dijamin oleh LPS sebesar Rp 2.000.000.000 (dua miliar rupiah) dengan tingkat bunga penjaminan maksimum sebesar 4,25% (empat koma dua lima persen) untuk rupiah sesuai ketentuan yang berlaku.
+
+Bagaimana mekanisme pemilihan nomor rekening di blu?
+Setelah proses pembukaan rekening selesai dan rekeningmu sudah aktif, kamu bisa menentukan nomor rekening dengan memilih salah satu dari pilihan ini:Pilih nomor rekening sendiriJika kamu punya nomor favorit tertentu, kamu bisa menjadikannya sebagai 8 digit terakhir dari total 12 digit nomor rekening cantik blu kamu.Pemilihan nomor rekening sendiri ini akan dikenakan biaya Rp100 ribu.Nomor rekening dipilihkan oleh bluKalau memilih ini, kamu akan mendapatkan 12 digit nomor rekening secara acak.
+
+Bagaimana cara saya mendapatkan nomor rekening cantik?
+Lakukan pembukaan rekening blu, setelah selesai verifikasi dengan agen haloblu, kamu akan diberikan tawaran untuk memilih nomor cantik (berbayar) atau menggunakan nomor rekening yang blu pilihkan (gratis).Jika kamu memilih nomor rekening cantik, setelah memilih nomor yang kamu inginkan lakukan pembayaran. Setelah pembayaran selesai dilakukan, nomor rekening kamu akan otomatis terbuat dan sudah dapat langsung dipakai (sudah aktif).
+
+Saya tidak mau menggunakan/membayar nomor rekening cantik, apakah saya masih dapat membuka rekening blu?
+Bisa, kamu tetap dapat melakukan pembukaan rekening dengan nomor rekening yang blu pilihkan untukmu.
+
+Bagaimana cara melakukan pembayaran biaya nomor rekening cantik?
+Pembayaran pemilihan nomor rekening cantik di blu bisa kamu lakukan melalui ATM BCA, KlikBCA Individual, dan BCA Mobile. Ini caranya:ATM BCAMasukkan Kartu ATM BCA & PIN.Pilih menu Transaksi Lainnya > Transfer > ke Rekening BCA Virtual Account.Masukkan nomor virtual account yang perlu dibayarkan. Masukkan jumlah dana yang harus dibayarkan, pastikan nama kamu dan total tagihan benar.Jika sudah benar, klik Ya.Simpan struk transaksi sebagai bukti pembayaran.Cek status pembayaran di aplikasi blu.KlikBCA IndividualLogin aplikasi KlikBCA Individual dengan memasukkan user ID dan PIN.Pilih “Transfer Dana”. Pilih “Transfer ke Virtual Account BCA”.Masukkan nomor virtual account yang perlu dibayarkan.Masukkan jumlah dana yang harus dibayarkan, pastikan nama kamu dan total tagihan benar.Selesaikan pembayaran.Cek status pembayaran di aplikasi blu.BCA MobileLogin aplikasi BCA Mobile.Pilih “m-Transfer”.Pilih “BCA Virtual Account”.Masukkan nomor virtual account yang perlu dibayarkan. Masukkan jumlah dana yang harus dibayarkan, pastikan nama kamu dan total tagihan benar.Masukkan PIN m-BCASelesaikan pembayaran.Pembayaran selesai.Cek status pembayaran di aplikasi blu.
+
+Apa saja dokumen yang perlu disiapkan untuk punya rekening bluAccount?
+Gampang, kamu cuma perlu siapin:- E-KTP- NPWP (opsional)Pastikan kamu ada di ruangan terang dan tersambung dengan koneksi internet yang lancar, karena tim haloblu akan melakukan video call untuk verifikasi.
+
+Mengapa saya perlu melakukan konfirmasi data E-KTP setelah mengunggahnya di proses pembukaan rekening bluAccount?
+Karena kamu harus memastikan data yang ada di field pengecekan sesuai dan sama dengan data di E-KTP-mu.
+
+Kenapa saya perlu melakukan konfirmasi data NPWP setelah mengunggahnya di proses pembukaan rekening bluAccount?
+Karena kamu harus memastikan data yang ada di field pengecekan sesuai dan sama dengan data di NPWP-mu.
+
+Saya belum punya NPWP, apakah bisa punya rekening bluAccount?
+Bisa. Kamu akan diminta untuk upload NPWP jika nominal portofolio yang dimiliki sudah mencapai Rp7,5 juta.
+
+Apa perbedaan nasabah BCA dan bukan nasabah BCA di proses pembukaan rekening blu?
+Apabila kamu nasabah BCA, kamu dapat menarik data pekerjaan dan alamat domisili dari datamu di BCA. Kamu hanya perlu memasukkan nomor kartu ATM BCA dan nomor handphone yang terdaftar di e-banking BCA untuk proses penarikan data. Jika kamu memilih langkah ini, pastikan data yang kamu tarik tersebut merupakan yang ter-update.Kalau kamu bukan nasabah BCA, tenang. Kamu tetap bisa menyelesaikan proses pembukaan rekening blu dengan memasukkan data-data yang diperlukan. Pastikan koneksi internet kamu stabil agar proses pembukaan rekening lancar jaya!
+
+Kenapa saya perlu memasukkan alamat domisili di proses pembukaan rekening blu?
+Kami perlu alamat domisili kamu untuk kemudahan korespondensi jika diperlukan.
+
+Kenapa saya perlu mengisi data pekerjaan di proses pembukaan rekening blu?
+Tentunya karena kami mau kenal kamu ?Selain itu, proses pengisian data pekerjaan ini diperlukan sesuai dengan Peraturan Bank Indonesia.
+
+Apa itu pengenalan wajah yang ada di proses pembukaan rekening blu?
+Pengenalan wajah adalah cara autentifikasi biometrik agar keamanan bertransaksi kamu makin terjamin saat:- Melakukan akumulasi transaksi hingga Rp250.025.000 per hari- Mengaktifkan kembali rekening dormant- Mengubah PIN- Mengubah password- Mengubah email- Mengubah nomor handphone- Ganti handphone karena hilang
+
+Apa Itu Login Biometrik di blu?
+Login biometrik adalah cara cepat untuk login ke dalam aplikasi blu menggunakan fitur Face Recognition atau Fingerprint di handphone kamu. Kamu bisa melakukan pengaturan langsung setelah nomor rekeningmu aktif atau mengaktifkannya dari Pengaturan.Berikut cara mengaktifkan login biometrik untuk login ke blu melalui Pengaturan di handphone kamu:1. Pastikan kamu sudah mengaktifkan Face Recognition/Fingerprint di handphone milikmu.2. Klik ikon profil kamu yang ada di kiri atas Dashboard aplikasi blu3. Tap “Aktifkan Login [Biometrik]“ untuk mengaktifkan/menonaktifkan fitur login biometrik.
+
+Bagaimana cara transfer uang ke sesama rekening blu?
+Masuk ke menu Transfer di blu, terus ikuti langkah ini:1. Pilih rekening tujuana. Bisa dari nomor rekening yang sudah pernah disimpanb. Bisa juga input nomor rekening baru2. Masukkan nominal uang yang akan dikirimkan3. Kamu bisa tulis catatan (opsional)4. Masukkan PIN5. Kamu akan diminta verifikasi pengenalan wajah jika total transaksi hingga Rp250.025.000 per hari6. Selesai!
+
+Apakah ada biaya jika transfer ke sesama blu?
+Tidak ada. Kamu bebas transfer ke sesama pemilik rekening blu. Jadi, ajak teman-temanmu untuk install blu ya!
+
+Apakah ada biaya jika transfer ke BCA pakai blu
+Gak ada biaya jika kamu melakukan transfer dari blu ke BCA ?
+
+Apakah ada biaya jika transfer dari BCA ke blu?
+Gak ada biaya jika kamu melakukan transfer dari BCA ke blu ?
+
+Apakah ada biaya jika transfer ke bank lain pakai blu?
+Kamu akan dikenakan biaya transfer jika kamu tidak memiliki bluRewards bebas biaya transfer ke bank lain
+
+Bagaimana cara melihat histori transaksi di blu?
+Histori transaksi bisa kamu cek dengan klik 'Lihat Semua' pada pilihan Riwayat Transaksi di menu Tracker.
+
+Apakah bisa transfer ke luar negeri pakai blu?
+Saat ini belum bisa ? Tapi tenang, tim blu sedang berjuang biar fitur ini bisa segera kamu nikmati!
+
+Apa itu BI-FAST?
+BI-FAST adalah infrastruktur Sistem Pembayaran ritel nasional yang dapat memfasilitasi pembayaran ritel secara real-time, aman, efisien, dan tersedia setiap saat (24/7).Layanan BI-FAST sudah bisa kamu akses di aplikasi blu melalui menu transfer dengan minimum transaksi sebesar Rp5.000 dan maksimal Rp250.000.000
+
+Apa itu Proxy Adress?
+Proxy Address adalah nomor handphone atau email yang terdaftar di blu lalu didaftarkan sebagai Proxy Address untuk menggantikan fungsi nomor rekening di BI-FAST.Satu Proxy Address hanya bisa digunakan di 1 rekening. Tapi tenang, jika kamu sudah mendaftarkan no. handphone atau email di bank lain, kamu bisa melakukan update Proxy Address di blu.
+
+Berapa Limit/Biaya Tranfer BI-FAST?
+Minimal : Rp 5.000 Maksimal/trx : Rp 250.000.000Maksimal/hari : Rp 250.000.000Biaya/trx : Rp 2.500
+
+Gimana Cara Daftar/Mengatur Proxy Adress?
+Buka Pengaturan bluKlik “Daftarkan” di menu Proxy AddressPilih no. handphone/email yang terdaftar di blu sebagai Proxy AddressKonfirmasi Proxy AddressMasukkan PINProxy Address berhasil didaftarkan
+
+Bagaimana Cara Transfer  Menggunakan BI-FAST dari blu ke Bank Lain?
+Pilih menu TransaksiPilih menu transferPilih Transfer Barua. Kalau kamu pilih 'Transfer Via Rekening', ikuti langkah ini:Input no. rekening tujuan/penerimaInput nominal dan pilih Tipe Transfer BI-FAST Pilih Tujuan Transaksi dan input Catatan (jika ada), lalu pilih 'Lanjut'Konfirmasi, klik 'Lanjut' jika sudah selesaiInput PIN transaksi blu Transaksi selesaib. Kalau kamu pilih 'Transfer Via Proxy', ikuti langkah ini:Input no. HP atau email tujuan/penerima yang sudah didaftarkan sebagai Proxy Address, lalu pilih 'Cek'Input nominal, lalu pilih Tujuan Transaksi dan input Catatan (jika ada), kemudian pilih 'Lanjut'Konfirmasi, klik 'Lanjut' jika sudah sesuaiInput PIN transaksi bluTransaksi selesai
+
+Bagaimana Cara Mengubah Proxy Adress dari Aplikasi blu?
+Pilih 'Proxy Adress' pada halaman 'Pengaturan', lalu pilih 'Ubah Proxy Adress'Pada field, bisa ubah dari nomor HP menjadi email, atau sebaliknyaPastikan no. HP atau email yang di-input sudah terdaftar pada aplikasi bluNasabah menyetujui pernyataan perubahan proxy adressJika sesuai, pilih 'Lanjut'Input PIN transaksi bluPerubahan Proxy Adress selesai dilakukan
+
+Bagaimana jika saya sudah mendaftarkan Proxy Address di Bank lain?
+Kamu bisa melakukan 'Porting Proxy Adress' karena sistem blu akan langsung mendeteksi jika nomor HP dan/atau email nasabah sudah terdaftar sebagai proxy di Bank lain.Cara Porting Proxy AddressMuncul layar pop up ketika sistem blu mendeteksi nomor HP dan/atau email sudah terdaftar di Bank lainPilih 'Pindahkan Proxy Adress ke blu' Konfirmasi, lalu pilih 'Lanjut'Pilih salah satu Proxy (nomor HP atau email) lalu pilih 'Lanjut'Input PIN transaksi bluPorting Proxy Adress selesai dilakukan
+
+Bagaimana bila halaman menjadi blank ketika melakukan proses transaksi BI-FAST?
+Kamu dapat melihat mutasi rekening terlebih dahulu untuk memastikan bahwa saldo tidak terdebet jika transaksi belum berhasil. Apabila saldo sudah terdebet saat transaksi belum berhasil dan saldo tidak kembali ke rekening, maka user dapat melaporkan melalui call center blu di 1500668
+
+Apakah transaksi BI-Fast yang sudah terjadi bisa dibatalkan?
+Transaksi BI-FAST yang sudah terjadi dan berhasil secara sistem tidak dapat dibatalkan. Namun jika transaksi yang sudah terjadi dan gagal secara sistem serta saldo sudah kembali masuk, maka kamu dapat mencoba kembali transaksinya.
+
+Bagaimana jika terjadi gagal transaksi dan saldo belum kembali?
+Jika transaksi gagal dan saldo belum kembali ke rekening, maka kamu bisa menghubungi call center haloblu di 1500668
+
+Bagaimana bila status transaksi berhasil dan saldo sudah terdebet namun uang belum diterima oleh rekening bank tujuan
+Jika menemui kasus seperti ini, kamu bisa menghubungi blu di 1500668 untuk memastikan status transaksi. Jika status transaksi sudah sukses, maka penerima dapat menghubungi pihak bank tujuan untuk memastikan status transaksi di pihak bank tujuan
+
+Bisa pakai blu untuk bayar/beli apa saja?
+Kamu bisa pakai blu untuk membayar tagihan pascabayar, beli pulsa, beli paket data, top up GoPay & OVO, dan bayar internet & TV kabel.  Fitur ini akan terus bertambah dan tentunya kami akan kasih tau kamu kalau ada update buat fitur Bayar/Beli ini ?
+
+Gimana cara beli pulsa pakai blu?
+1. Pilih Bayar/Beli2. Pilih menu 'Pulsa' di kategori Telekomunikasi3. Masukkan nomor handphone (provider akan otomatis terlacak)4. Pilih nominal atau masukkan nominal, lalu klik 'Lanjut'5. Cek kembali nomor handphone dan nominal di halaman Konfirmasi sebelum klik 'Bayar'6. Selesaikan transaksi dengan memasukkan PIN
+
+Gimana cara beli paket data pakai blu?
+1. Pilih Bayar/Beli2. Pilih menu 'Paket Data' di kategori Telekomunikasi3. 3. Masukkan nomor handphone (provider akan otomatis terlacak)4. Pilih paket data yang kamu inginkan, lalu klik 'Lanjut'5. Cek kembali nomor handphone dan nominal di halaman Konfirmasi sebelum klik 'Bayar'6. Selesaikan transaksi dengan memasukkan PIN
+
+Berapa biaya transaksi pulsa/paket data di blu?
+Biaya transaksi akan dikenakan sesuai ketentuan provider.
+
+Gimana cara bayar tagihan pascabayar pakai blu?
+1. Pilih Bayar/Beli2. Pilih menu 'Pascabayar' di kategori Telekomunikasi3. Masukkan nomor handphone (provider akan otomatis terlacak)4. Cek kembali nomor handphone dan nominal tagihan di halaman Konfirmasi sebelum klik 'Bayar'5. Klik 'Bayar' lalu selesaikan transaksi dengan memasukkan PIN
+
+Gimana cara bayar pakai QRIS di blu?
+1. Pilih 'Bayar pakai QR' dari shortcut transaksi di Dashboard kamu2. Scan QRIS yang ada di dekat kasir atau struk yang diberikan petugas di merchant pilihanmu3. Pastikan jumlah pembayaran sesuai4. Masukkan PIN blu kamu5. Transaksi selesai
+
+Berapa biaya administrasi yang dikenakan bila bertransaksi menggunakan QRIS blu?
+Tidak ada biaya administrasi kalau kamu bertransaksi pakai QRIS di blu.
+
+Apa itu e-money yang ada di blu?
+E-money di blu adalah uang elektronik yang bisa kamu simpan dan diisi ulang (top up) lewat aplikasi blu.
+
+Apa saja e-money yang bisa di-top up lewat blu?
+Saat ini, e-money yang bisa kamu top up di blu adalah GoPay, OVO, Dana dan LinkAja.
+
+Berapa nominal minimum untuk top up e-money di blu?
+Nominal minimum top up e-money di blu adalah Rp20.000
+
+Bagaimana cara top up e-money di blu?
+1. Pilih 'Top Up E-Money' dari shortcut transaksi di Dashboard kamu2. Pilih 'Top Up Baru'3. Pilih e-money yang ingin kamu top up, masukkan no. handphone terdaftar4. Pilih nominal top up5. Cek lagi transaksi kamu di halaman Konfirmasi6. Klik 'Bayar' lalu selesaikan transaksi dengan memasukkan PIN
+
+Bagaimana cara membatalkan transaksi di blu?
+Semua transaksi yang telah dilakukan tidak bisa dibatalkan dengan alasan apa pun ya.
+
+Bagaimana cara mengatur transaksi sebagai favorit?
+1. Klik 'Simpan Sebagai Favorit' di success page saat kamu selesai melakukan transaksi2. Masukkan 'Nama Favorit' biar kamu gampang nyarinya kalau mau bayar lagi3. Kalau mau diingatkan, klik 'Ingatkan Saya' lalu pilih Frekuensi dan Tanggal Berakhir. Setelah selesai, klik 'Simpan'4. Transaksi favorit kamu sudah ada di tab 'Favorit' dan bisa diakses kapan saja
+
+Apa Itu Kode Voucher Google Play?
+Satu kode. Segudang keseruan.Dengan jutaan aplikasi, game, dan banyak lagi, setiap orang akan menemukan yang dia cari.Dengan jutaan aplikasi, game, dan banyak konten lainnya, setiap orang akan menemukan sesuatu yang menarik di Google Play. Gunakan kode voucher Google Play untuk menjelajahi segudang keseruan, mulai dari game kesukaan hingga aplikasi sehari-hari. Tanpa biaya maupun masa berlaku, dan tidak perlu kartu kredit - hadiah yang pas untuk semua, termasuk Anda sendiri.Keuntungan: Jelajahi segudang keseruan: Jutaan aplikasi, game, dan lainnya. Anda akan menemukan yang Anda cari.Tenang, tanpa biaya: Tanpa masa berlaku juga. Gunakan saldo sesuka Anda, kapan saja. Bayar di muka: Dengan kode voucher, kendalikan pengeluaran Anda.Kode voucher Google Play dapat digunakan di Google Play Store, app store resmi Android, untuk membeli aplikasi, game, dan konten lainnya.
+
+Syarat & Ketentuan
+Lihat persyaratan dan kebijakan privasi lengkap di play.google.com/id-card-terms.Kartu hadiah Google Play diterbitkan oleh Google Arizona LLC (“GAZ”).Pengguna harus merupakan penduduk Indonesia yang berusia 13 tahun ke atas dengan akun Google Payments untuk Indonesia dan memiliki akses internet untuk melakukan penukaran. Saldo yang telah ditukarkan dikelola oleh afiliasi GAZ, yaitu Google Payment Corp. (“GPC”), di akun Google Payments Anda.  Hanya berlaku untuk pembelian item-item tertentu di Google Play.Tidak berlaku untuk perangkat keras dan langganan tertentu. Batasan-batasan lain dapat berlaku.Tidak dikenakan biaya.Kecuali diwajibkan oleh undang-undang, kartu tidak dapat ditukarkan dengan uang tunai atau kartu lain; tidak dapat digunakan untuk menambah saldo rekening; tidak dapat diisi ulang atau dikembalikan dananya; tidak dapat digabungkan dengan saldo non-Google Play, dijual kembali, ditukarkan, atau ditransfer nilainya.Pengguna bertanggung jawab atas hilangnya kartu.Untuk bantuan atau untuk melihat saldo, silakan kunjungi support.google.com/googleplay/go/cardhelp.
+
+Anti-Fraud
+Kode kartu hadiah ini hanya dapat digunakan di Google Play. Permintaan penggunaan lain atas kode ini dapat merupakan penipuan. Kunjungi play.google.com/giftcardscam.
+
+Apa Itu Kode Voucher Google Play?
+Value Proposition:Main lebih sering di Android kamuMaksimalkan lebih dari 1 juta aplikasi dan game Android dengan kartu hadiah Google Play.Product Description:Rasakan lebih banyak pengalaman di lebih dari 1 juta aplikasi dan game Android di Google Play, platform game seluler terbesar di dunia. Gunakan kode voucher Google Play untuk melangkah lebih jauh dalam game favorit Anda seperti Clash Royale atau Pokémon GO, atau tukarkan kartu untuk mendapatkan aplikasi terbaru, film, buku, dan banyak lagi. Tidak perlu kartu kredit, dan saldo tidak memiliki batas waktu. Gunakan sendiri atau berikan sebagai hadiah Google Play sekarang juga.Benefits: Aktif SelamanyaSaldonya tidak terbatas waktu. Gunakan sendiri atau berikan sebagai hadiah Google Play sekarang juga.Kelola Pengeluaran Gunakan kartu hadiah untuk mengelola pengeluaran Anda di game & hiburan dengan mudah. Mudah DitukarkanTukarkan kartu hadiah dengan mudah di aplikasi Play Store atau di play.google.comHanya dapat digunakan di Google Play Store Indonesia. Kode voucher Google Play dapat digunakan di Google Play Store, app store resmi Android, untuk membeli aplikasi, game, dan konten lainnya.
+
+Syarat & Ketentuan
+Lihat persyaratan dan kebijakan privasi lengkap di play.google.com/id-card-terms.Kartu hadiah Google Play diterbitkan oleh Google Arizona LLC (“GAZ”).Pengguna harus merupakan penduduk Indonesia yang berusia 13 tahun ke atas dengan akun Google Payments untuk Indonesia dan memiliki akses internet untuk melakukan penukaran. Saldo yang telah ditukarkan dikelola oleh afiliasi GAZ, yaitu Google Payment Corp. (“GPC”), di akun Google Payments Anda.  Hanya berlaku untuk pembelian item-item tertentu di Google Play.Tidak berlaku untuk perangkat keras dan langganan tertentu. Batasan-batasan lain dapat berlaku.Tidak dikenakan biaya.Kecuali diwajibkan oleh undang-undang, kartu tidak dapat ditukarkan dengan uang tunai atau kartu lain; tidak dapat digunakan untuk menambah saldo rekening; tidak dapat diisi ulang atau dikembalikan dananya; tidak dapat digabungkan dengan saldo non-Google Play, dijual kembali, ditukarkan, atau ditransfer nilainya.Pengguna bertanggung jawab atas hilangnya kartu.Untuk bantuan atau untuk melihat saldo, silakan kunjungi support.google.com/googleplay/go/cardhelp.
+
+Anti-Fraud
+Kode kartu hadiah ini hanya dapat digunakan di Google Play. Permintaan penggunaan lain atas kode ini dapat merupakan penipuan. Kunjungi play.google.com/giftcardscam.
+
+Bagaimana cara menemukan User ID dan Server ID kamu?
+Buka aplikasi game kamuKlik menu Profile di bagian kiri atas menu utama game.User ID dan Server ID akan terlihat di bagian bawah Nama Karakter Game Anda. Contoh: 12345678 (1234)
+
+Bagaimana cara beli Game Voucher Mobile Legends di blu?
+Pilih Bayar/BeliPilih menu 'Game Voucher' dan pilih 'Mobile Legends'Masukkan User ID (Server ID), klik 'Lanjut'Pilih voucher yang kamu inginkan, lalu klik 'Lanjut'Cek kembali transaksi kamu di halaman Konfirmasi sebelum klik 'Bayar'Selesaikan transaksi dengan memasukkan PIN
+
+Bagaimana jika terjadi kendala dalam pembelian Game Voucher Mobile Legends di blu?
+Apabila pilihan Mobile Legends tidak muncul di aplikasi blu, kemungkinan blu sedang melakukan maintance system.Jika kamu sudah mendapatkan kode voucher Mobile Legends, namun gagal saat input/redeem di dalam aplikasi Mobile Legends, kamu bisa menghubungi call center Mobile Legends untuk melaporkan kendala.
+
+Apa itu Steam Wallet?
+Steam Wallet yang digunakan untuk top up game-game di Steam atau membeli game terbaru dari Steam. Game yang bisa di-top up dari Steam adalah: DotA2, Counter Strike: Global Offensive, PlayerUnknown's BattleGround, Team Fortress, GTA V, dan masih banyak lainnya.
+
+Bagaimana cara menukarkan Voucher Steam Wallet?
+Login dengan akun Steam kamuPilih 'Account Details'Pilih 'Add Funds to you Steam Wallet'Masukkan kode voucher ke box 'Steam Wallet Code'Klik 'Continue'Selesaikan prosesnyaSetelah transaksi selesai, kode Steam Wallet akan dikirim melalui SMS atau email dan siap ditukarkan di akun Steam kamu. Jangan lupa cek saldo di akunmu sebelum melakukan pembelian kode Steam Wallet. Untuk transaksi Steam Wallet yang berhasil, yang muncul adalah Serial Number & PIN. Kamu HANYA BISA MENUKARKAN PIN.
+
+Bagaimana jika terjadi kendala saat redeem Voucher Steam Wallet?
+Jika terjadi kendala dalam penginputan/redeem voucher steam wallet, kamu dapat menghubungi call center Steam Wallet.
+
+Apa itu Vidio?
+Vidio adalah layanan streaming yang memudahkan kamu menonton berbagai konten video dan layanan lainnya seperti live chat dan games melalui internet dan menayangkannya secara streaming. Vidio memiliki 21 channel gratis (Free to Air/FTA), 32 channel radio, dan ribuan konten menarik lainnya mulai dari 'Vidio Sports' hingga 'Vidio Originals' dari dalam dan luar negeri.
+
+Berapa lama masa berlaku voucher Vidio Premiere?
+Masa berlaku voucher Vidio Premiere adalah 90 hari sejak pengguna berhasil melakukan pembayaran dan menerima kode voucher tersebut.
+
+Bagaimana cara beli voucher Vidio Premier di blu?
+Pilih Bayar/BeliPilih menu 'Vidio' di kategori TelekomunikasiBeli kode voucher Vidio sesuai keinginanmuPastikan kembali pembelianmu di  halaman Konfirmasi sebelum klik 'Bayar'Klik 'Bayar' lalu selesaikan transaksi dengan memasukkan PINKamu bisa melihat kode voucher streaming di bukti transaksi di aplikasi blu atau di email transaksi berhasil yang dikirimkan ke emailmu yang terdaftar di bluCopy/salin kode voucher yang tersedia sebelum menukarkannya
+
+Bagaimana cara menukarkan voucher Vidio Premier?
+Cara Menukarkan Voucher di Vidio DesktopKunjungi website VidioMasukkan/tempel kode voucherKlik 'Apply' atau 'Terapkan'Login ke akun Vidio kamuKlik 'Lanjutkan'Vidio Premier kamu sudah bisa digunakanCara Menukarkan Voucher di Aplikasi VidioLogin ke akun Vidio kamuKlik 'Account'Klik 'Upgrade to Premier' Klik 'Use'Masukkan/tempel kode voucherKlik 'Use'Paketmu akan otomatis aktif!
+
+Apa itu Viu?
+Viu adalah aplikasi layanan streaming video online yang menyediakan berbagai macam konten hiburan on demand dengan berlangganan. Kamu bisa mendapatkan pengalaman menonton film yang sangat praktis dan mudah karena Viu memberikan kebebasan dalam berlangganan yang dapat diakses dimanapun dan kapanpun sesuai dengan yang kamu inginkan.
+
+Bagaimana cara beli voucher Viu di blu?
+Pilih Bayar/BeliPilih menu 'Viu' di kategori Hiburan & VoucherBeli kode voucher Viu sesuai keinginanmuPastikan kembali pembelianmu di  halaman Konfirmasi sebelum klik 'Bayar'Klik 'Bayar' lalu selesaikan transaksi dengan memasukkan PINKamu bisa melihat kode voucher streaming di bukti transaksi di aplikasi blu atau di email transaksi berhasil yang dikirimkan ke emailmu yang terdaftar di bluCopy/salin kode voucher yang tersedia sebelum menukarkannya
+
+Bagaimana cara menukarkan voucher Viu?
+Buka Aplikasi Viu atau  www.viu.comKlik tombol menuJika menggunakan Android, klik masuk dan lanjutkan proses log in/sign up, Namun jika menggunakan Desktop, klik masuk akun atau daftarJika menggunakan Android, klik Paket Saya lalu berlangganan, Jika Desktop, Klik Atur Cara BerlanggananJika menggunakan Android, klik Promo Code, Masukkan kode voucher dari Tokopedia lalu klik tombol Memeriksa/Get ViuSetelah kode dimasukkan, akses Viu Premium bisa bebas nonton video tanpa batas
+
+Bagaimana jika terjadi kendala saat redeem Voucher Viu?
+Jika kode tidak dapt digunakan, kirim email ke: help.viu@vuclip.com dengan melampirkan:Kode Voucher yang berkendalaUser IDNomor handphone Viu
+
+Bagaimana cara tarik tunai tanpa kartu pakai blu?
+1. Pilih menu Tarik Tunai yang bisa diakses melalui shortcut di Dashboard blu.2. Pilih nominal tarik tunai atau menginput nominal lain (kelipatan 50 ribu).3. Lakukan Tarik Tunai sesuai dengan nominal yang dipilih/diinput.4. Lakukan otorisasi transaksi dengan memasukkan PIN.5. Kamu akan mendapatkan kode transaksi dan nomor pelanggan yang berlaku selama 60 menit.6. Datang ke ATM BCA dan pilih transaksi tanpa kartu7. Masukkan nomor pelanggan dan kode transaksi di ATM BCA.8. Tarik tunai berhasil dilakukan.
+
+Di mana saya bisa tarik tunai tanpa kartu?
+Kamu bisa melakukan tarik tunai di semua ATM BCA di seluruh Indonesia.
+
+Berapa limit tarik tunai tanpa kartu?
+Limit tarik tunai blu adalah Rp1.250.000 per transaksi dan Rp10.000.000 per hari.
+
+Berapa batas waktu tarik tunai tanpa kartu?
+Batas waktu tarik tunai tanpa kartu adalah 1 jam. Jika dalam 1 jam kamu tidak melakukan tarik tunai, permintaan tarik tunaimu otomatis dibatalkan dan dana otomatis dikembalikan ke rekeningmu.
+
+Apa yang terjadi jika saya membatalkan transaksi tarik tunai pakai blu?
+Jika kamu membatalkan transaksi tarik tunai dana otomatis dikembalikan ke rekeningmu.
+
+Bagaimana cara setor tunai tanpa kartu pakai blu?
+Pilih menu Setor Tunai yang bisa diakses melalui shortcut di Dashboard blu,Pastikan nomor bluAccount kamu benar.Lakukan otorisasi transaksi dengan memasukkan PIN.Kamu akan mendapatkan kode transaksi dan nomor pelanggan yang berlaku selama 1 Jam.Datang ke ATM BCA dan pilih transaksi tanpa kartu.Masukkan nomor pelanggan dan kode transaksi di ATM BCA.Setor tunai berhasil dilakukan.
+
+Di mana saya bisa setor tunai tanpa kartu?
+Kamu bisa melakukan setor tunai di ATM BCA yang bisa digunakan untuk transaksi tanpa kartu di seluruh Indonesia.
+
+Berapa pecahan uang yang bisa digunakan untuk setor tunai?
+Pecahan uang yang berlaku adalah Rp 50.000 dan Rp 100.000.
+
+Berapa limit setor tunai tanpa kartu?
+Limit setor tunai blu minimal Rp 50.000 dan maksimal 100 lembar (jika menggunakan denom 100 ribu maka maksimal Rp 10.000.000) per transaksi.
+
+Berapa batas waktu setor tunai tanpa kartu?
+Batas waktu setor tunai tanpa kartu adalah 1 jam.Jika dalam 1 jam kamu tidak melakukan setor tunai, permintaan setor tunaimu otomatis dibatalkan.
+
+Apakah blu bisa digunakan untuk membayar Virtual Account BCA (VA BCA)?
+Ya, kamu bisa melakukan pembayaran tagihan Virtual Account BCA (VA BCA) lewat blu. Namun, saat ini terdapat partner VA BCA yang belum menerima pembayaran melalui blu.
+
+Bagaimana cara melakukan pembayaran VA BCA melalui blu?
+1. Login ke aplikasi blu.2. Klik menu “Transaksi”.3. Pilih “BCA Virtual Account”.4. Klik “Input No. VA”.5. Untuk pembayaran tagihan, pastikan nominal transfer sesuai dengan nominal tagihan6. Selesaikan transaksi.
+
+Mengapa saya tidak bisa melakukan pembayaran VA BCA melalui blu?
+Saat ini terdapat partner VA BCA yang belum menerima pembayaran melalui blu. Namun jika perlu bantuan, kamu bisa menghubungi haloblu di 1500668, Twitter @haloblu, atau email haloblu@bcadigital.co.id
+
+Apa yang harus dilakukan jika pembayaran VA saya tidak terdeteksi di blu?
+Kamu bisa menghubungi haloblu di 1500668, Twitter @haloblu, atau email haloblu@bcadigital.co.id untuk bantuan.
+
+Bagaimana jika saya melakukan pembayaran VA BCA, dana saya terpotong namun pembayaran belum masuk?
+Kamu bisa menghubungi haloblu di 1500668, Twitter @haloblu, atau email haloblu@bcadigital.co.id untuk bantuan.
+
+Ke mana saya bisa melaporkan kendala saat melakukan pembayaran VA BCA?
+Kamu bisa menghubungi haloblu di 1500668, Twitter @haloblu, atau email haloblu@bcadigital.co.id untuk bantuan.
+
+Berapa limit pembayaran VA BCA melalui blu?
+Minimum pembayaran Rp10.000, maksimum pembayaran Rp50.000.000.
+
+Apakah ada batas waktu pembayaran VA BCA melalui blu?
+Batas waktu pembayaran mengikuti ketentuan dari masing-masing partner.
+
+Bagaimana jika waktu pembayaran saya melebihi batas waktu?
+Transaksi akan otomatis dibatalkan. Jika kamu ingin kembali bertransaksi namun kamu masih memiliki tagihan BCA Virtual Account yang belum dibayarkan, maka transaksi sebelumnya akan otomatis terbatalkan.
+
+Bagaimana cara mengunggah foto profil saya?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik ikon kamera, pilih foto yang kamu inginkan.3. Jika sudah selesai, jangan lupa klik 'Simpan'.
+
+Bagaimana cara mengubah alamat domisili?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Profil'.3. Klik ikon edit (pensil) yang ada di Alamat.4. Pilih alamat yang akan diubah, isi sesuai dengan data terbaru kamu.5. Jika sudah selesai, jangan lupa klik 'Simpan'.
+
+Bagaimana cara menghapus Transaksi Favorit di blu?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Daftar Transaksi Favorit'3. Klik ikon hapus yang ada di kanan atas.4. Pilih Transaksi Favorit yang ingin kamu hapus.5. Klik 'Hapus'
+
+Bagaimana cara download e-statement bulanan saya lewat Pengaturan?
+E-statement bisa di-download untuk transksi bulan sebelumnya.1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Laporan Keuangan'.3. Pilih 'E-statement'.4. Pilih produk blu yang ingin kamu download. (bluAccount, bluSaving, bluGether).5. Pilih tahun dan bulan e-statement.6. Download e-statement dengan klik ikon download.
+
+Bagaimana cara download laporan portofolio saya lewat Pengaturan?
+Laporan Portofolio bisa di-download untuk transksi bulan sebelumnya.1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Laporan Keuangan'.3. Pilih 'Laporan Portofolio'.4. Pilih tahun dan bulan laporan portofolio.5. Download Laporan Portofolio dengan klik ikon download.
+
+Bagaimana cara download Data Pendukung Laporan SPT saya lewat Pengaturan?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Laporan Keuangan'3. Pilih 'Data Pendukung Laporan SPT' 4. Pilih tahun.5. Download Data Pendukung Laporan SPT dengan klik ikon download.
+
+Bagaimana cara mengubah limit transaksi bluAccount?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Limit Transaksi'3. Klik ikon edit di kanan atas.4. Ubah limit transaksi keluar harian kamu.5. Klik 'Simpan'.6. Masukkan PIN.
+
+Bagaimana cara mencari ATM terdekat dari lokasi saya saat ini?
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Lokasi ATM'3. Kamu bisa cari ATM dengan 2 opsi ini:• Ketik lokasi yang kamu cari.• Pin lokasi yang kamu cari di peta, akan terlihat beberapa lokasi ATM terdekat (swipe ke kiri).4. Cek rute menuju ATM dengan klik 'Lihat Rute'
+
+Bagaimana cara menampilkan/menyembunyikan saldo bluAccount?
+Kamu bisa mengatur tampilan saldo bluAccount dan Simpanan dengan 2 cara:1. Melalui Dashboard (bersifat temporer): klik ikon mata yang ada di samping saldo kamu.2. Melalui Pengaturan (bersifat permanen):• Klik ikon profil kamu yang ada di kiri atas Dashboard.• Tap 'Tampilkan Nominal' untuk menampilkan/menyembunyikan nominal saldo.
+
+Bisakah saya menutup rekening bluAccount?
+Kenapa kamu mau tutup rekening bluAccount? Sedih banget lihat kamu pergi ?.Coba ngobrol dulu yuk sama tim haloblu kalau kamu perlu bantuan.Penutupan rekening hanya bisa dilakukan melalui haloblu di 1500 668 ya.
+
+Kok gak bisa bikin akun di blu, ya?
+Jika kamu mengalami kesulitan bikin akun, tim haloblu siap membantu di 1500668.
+
+Saya gak punya KTP nih, bisa punya blu gak ya?
+Belum bisa, karena KTP jadi syarat utama pembukaan rekening blu ? Tapi, kami siap ada buat kamu kalau kamu udah punya KTP.
+
+Umur saya belum 18 tahun, bisa punya blu gak ya?
+Bisa, kalau kamu punya KTP Indonesia.
+
+Saya lupa PIN saat mau bertransaksi
+1. Klik 'Lupa PIN'.2. Masukkan Password.3. Selesaikan prosesnya.
+
+Saya lupa password
+1. Klik 'Lupa Password'2. Masukkan PIN3. Selesaikan prosesnya.
+
+Ada transaksi mencurigakan di akun blu saya, bisa dibantu?
+Langsung hubungi haloblu di 1500668. Tim haloblu akan membantu kamu menonaktifkan akunmu setelah melakukan proses verifikasi terlebih dulu.
+
+Saya perlu mengubah informasi personal
+1. Klik ikon profil kamu yang ada di kiri atas Dashboard.2. Klik 'Profil'.3. Pilih informasi yang ingin kamu edit.4. Klik ikon edit di informasi yang ingin kamu ubah.5. Klik 'Simpan'.
+
+Apakah saya bisa menggunakan blu di 2 handphone?
+Kamu hanya bisa menggunakan blu di 1 handphone. Jika kamu mengakses blu dari handphone lain, akun kamu akan otomatis keluar dari handphone sebelumnya.
+
+Apakah blu punya kartu?
+Saat ini belum ya, kami pasti kabarin kalo kalau ada update!
+
+Apakah saat pengaktifkan rekening blu saya dikenai biaya SMS?
+Tidak, untuk proses pembukaan rekening blu, biaya OTP akan ditanggung oleh BCA Digital.
+
+Apakah bisa top up Flazz dari blu?
+Sudah dong! Tinggal klik menu transaksi, dan langsung pilih menu “Flazz” yaa
+
+Saya tinggal di luar negeri, apakah saya bisa buka rekening blu?
+Bisa. Apabila kamu adalah WNI, memiliki E-KTP, punya nomor handphone Indonesia dan mengaktifkan roaming untuk SMS OTP.
+
+Saya tinggal di luar negeri, apakah saya bisa menggunakan blu
+Bisa, tetapi kamu harus mengaktifkan roaming untuk memproses transaksi yang menggunakan SMS OTP.
+
+Apa saja pengaturan di handphone yang harus saya aktifkan saat menggunakan blu?
+• Pengaturan otomatis jam handphone• Screenlock handphone• Lokasi
+
+Apa itu Tracker yang ada di Dashboard blu saya?
+Tracker adalah fitur blu  yang memberikan insight cash flow pemasukan dan pengeluaran yang kamu lakukan setiap bulannya.
+
+Apa itu Bliblixblu?
+Bliblixblu adalah kolaborasi antara Blibli dan blu dalam bentuk layanan perbankan di dalam aplikasi Blibli untuk memudahkan customer Blibli dan nasabah blu dalam bertransaksi di Blibli.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan Bliblixblu?
+1. Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia Blibli, cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu.2.  Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi Blibli.3. Promo-promo menarik dari Bliblixblu.4. Tetap mendapatkan promosi transaksi yang ada di aplikasi blu (Misal ada promo QRIS di blu, maka pengguna Bliblixblu tetap mendapatkan promo yang sama).
+
+Fitur apa saja yang bisa digunakan di Bliblixblu?
+Saat ini, kamu bisa menggunakan Bliblixblu untuk:• Buka rekening blu• Menghubungkan blu ke Blibli (linkage)• Bertransaksi menggunakan QRIS• In App Payment (menggunakan blu sebagai metode pembayaraan saat checkout belanjaan di Blibli)• Menabung di bluSaving dan bluGether• Membuka deposito di bluDeposit• Mengecek Riwayat Transaksi blu di dalam blu di aplikasi Blibli• Tarik tunai tanpa kartu di ATM BCA• Transfer ke sesama blu dan bank lain
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi Blibli?
+Kamu harus menghubungkan akun blu pada aplikasi Blibli. Untuk menghubungkan akun, nomor handphone yang digunakan di blu dan Blibli harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi Blibli ataupun nomor handphone yang terdaftar di blu.
+
+Saya customer Blibli namun belum punya rekening blu, apa yang harus saya lakukan?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi Blibli pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi Blibli?
+Pastikan sinyal baik, nomor handphone aktif dan tidak dalam masa tenggang. Kamu juga bisa memastikan memori handphone cukup untuk menerima SMS. Lakukan juga pengecekan di pengaturan untuk menonaktifkan fitur blokir SMS.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Mengapa saya tidak dapat melanjutkan pembayaran dengan blu, padahal akun blu saya sudah terhubung dengan aplikasi Blibli?
+Ini beberapa kemungkinan yang bisa jadi penyebab hal tersebut:• Saldo blu tidak mencukupi untuk melakukan pembayaran,• Akun kamu terblokir,• Kamu belum melakukan registrasi nomor handphone pada akun Blibli kamu,• Kamu sudah mencapai batas maksimal untuk seluruh transaksi per hari, atau• Kamu sudah mencapai batas maksimal untuk satu transaksi per hari,• Untuk mengetahui batas limit transaksi blu, silakan kunjungi page : blu.id/fees-ratesPunya pertanyaan lebih lanjut? Hubungi tim haloblu di 1500668 yang akan senang membantu.
+
+Berapa batas minimum dan maksimum nominal transaksi di Blibli yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Bagaimana jika saya sudah melakukan pembayaran dengan blu, tapi saya berubah pikiran dan ingin melakukan refund transaksi?
+Pihak Blibli akan mengembalikan dana sesuai ketentuan yang berlaku ke akun yang ditunjuk pihak Blibli.
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+1. Klik 'Lupa password'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi Blibli dengan pembayaran menggunakan In App Payment blu (pembayaran saat chekcout di Blibli menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di Blibli bisa dicek di menu daftar pesanan di Blibli maupun Riwayat Transaksi di blu.
+
+Di mana saya dapat melihat riwayat transaksi Blibli dengan pembayaran menggunakan QRIS di aplikasi blu?
+Riwayat transaksi dengan QRIS bisa dicek di aplikasi blu kamu. Kamu juga bisa mengecek riwayat transaksi QRIS di Dashboard blu di aplikasi Blibli.
+
+Saya ingin memutus koneksi blu dengan aplikasi Blibli, bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi Blibli, ikuti langkah berikut:1. Buka halaman Blipay2. Pilih blu3. Pilih nonaktifkan blu di Blibli4. Pada pop up konfirmasi pilih “Nonaktifkan”5. Akun blu berhasil diputus dari Blibli
+
+Apa itu redi x blu?
+redi x blu adalah kolaborasi antara Telkomsel redi dan blu dalam bentuk layanan perbankan di dalam aplikasi redi untuk memudahkan customer redi dan nasabah blu dalam bertransaksi di redi.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan redi x blu?
+1. Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia redi, cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu.2.  Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi redi.3. Promo-promo menarik dari redi x blu.4. Tetap mendapatkan promosi transaksi yang ada di aplikasi blu (Misal ada promo QRIS di blu, maka pengguna redi x blu tetap mendapatkan promo yang sama).
+
+Fitur apa saja yang bisa digunakan di redi x blu?
+Saat ini, kamu bisa menggunakan redi x blu untuk:• Buka rekening blu• Menghubungkan blu ke redi (linkage)• Bertransaksi menggunakan QRIS• Tracker untuk mengecek Riwayat Transaksi blu di dalam blu di aplikasi redi.• Melakukan transfer ke sesama blu dan bank lain
+
+Saya pengguna redi namun belum punya rekening blu, apa yang harus saya lakukan?
+Caranya gampang, Kamu tinggal pilih blu pada halaman tambah Bank. Lalu tinggal ikuti saja proses pembukaan rekeningnya.
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi redi yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi redi pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi redi?
+Pastikan sinyal baik, nomor handphone aktif dan tidak dalam masa tenggang. Kamu juga bisa memastikan memori handphone cukup untuk menerima SMS. Lakukan juga pengecekan di pengaturan untuk menonaktifkan fitur blokir SMS.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Berapa batas minimum dan maksimum nominal transaksi di redi yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+1. Klik 'Lupa password'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa PIN transaksi akun blu, apa yang harus saya lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Klik 'Lupa PIN'3. Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi redi dengan pembayaran menggunakan QRIS?
+Riwayat transaksi dengan QRIS bisa dicek di aplikasi blu kamu.Kamu juga bisa mengecek riwayat transaksi QRIS di Dashboard blu di aplikasi redi.
+
+Saya ingin memutus koneksi blu dengan aplikasi redi, bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi redi, ikuti langkah berikut:1. Masuk ke halaman tambah bank.2. Hapus blu sebagai bank utama.
+
+Saya tidak dapat menggunakan fitur Split pada aplikasi redi, kenapa ya?
+Maaf ya...fitur split bill pada aplikasi redi tidak dapat digunakan pada rekening blu.
+
+Apa itu bluGift?
+bluGift adalah fitur untuk mengirimkan uang lewat blu di momen spesialmu ke nomor handphone penerima yang akan diterima dalam bentuk link WhatsApp atau SMS oleh penerima. Selain mengirimkan uang, kamu juga bisa mengirimkan kartu dan ucapan personal yang membuat momen spesial makin spesial.
+
+Siapa yang bisa menggunakan bluGift?
+bluGift bisa digunakan oleh semua sobatblu yang telah menjadi nasabah blu.
+
+Bagaimana cara mengirim uang menggunakan bluGift?
+1. Buka aplikasi blu, klik ikon “Transaksi” yang ada di sudut kanan bawah2. Pilih bluGift3. Masukkan nama dan nomor handphone penerima4. Masukkan jumlah uang yang ingin kamu kirimkan, pastikan saldo bluAccount kamu cukup ya5. Pilih kartu sesuai keinginanmu6. Jangan lupa tuliskan kata-kata manis untuk penerima7. Konfirmasi bluGift lalu masukkan PIN8. Link bluGift akan terkirim ke WhatsApp/SMS penerima
+
+Bagaimana cara mengambil uang yang dikirim melalui bluGift?
+1. Kamu akan menerima WhatsApp berisi link untuk mengambil uang dari BCA Digital (WhatsApp terverifikasi, ada centang biru atau SMS dari nama pengirim BCA Digital)2. Klik link yang diberikan, kamu akan diarahkan ke website untuk mengambil bluGift3. Klik tombol “Ambil bluGift”4. Masukkan OTP yang dikirimkan ke WhatsApp/SMS nomor handphonemu 5. Jika OTP betul, kamu akan diarahkan ke halaman pengambilan, pilih opsi “Ambil lewat blu”6. Jika pengambilan bluGift berhasil, kamu akan mendapat notifikasi dana masuk di aplikasi blu milikmu.
+
+Apakah bluGift bisa diterima dan ditransfer ke bank lain?
+bluGift bisa digunakan untuk diterima dan ditransfer ke bank lain. Untuk pengiriman bluGift ke bank lain, sobatblu akan dikenakan biaya sebesar Rp6.500.
+
+Berapa lama masa berlaku link bluGift?
+Link bluGift berlaku 1x24 jam terhitung sejak link dibuat oleh pengirim.
+
+Bagaimana jika penerima tidak punya nomor handphone yang terkoneksi ke WhatsApp?
+Penerima bisa menerima link dan OTP lewat SMS yg dikirimkan dari BCA Digital yg sudah terverifikasi.
+
+Bagaimana jika penerima tidak menggunakan link yang dikirim melalui bluGift?
+Link bluGift akan kedaluwarsa dalam waktu 1x24 jam.
+
+Apakah ada limit di fitur bluGift?
+Minimal uang yang dikirim adalah Rp 20.000, maksimal uang yang dikirim adalah Rp 5.000.000. Limit transaksi harian mengikuti limit transaksi transfer online ke sesama blu.
+
+Apakah transaksi bluGift bisa dibatalkan?
+Saat ini transaksi bluGift tidak bisa dibatalkan.
+
+Apakah link bluGift bisa dibagikan lagi oleh penerima?
+Bisa, namun OTP tetep akan diterima oleh nomor penerima yang di pilih pengirim saat membuat bluGift
+
+Saya sudah punya blu, tapi saat terima blugift dan login di blu saya, kenapa saya tidak bisa menerima dana?
+Kamu perlu memastikan bahwa browser yang dipakai adalah sebagai berikut: Jika device kamu berbasis Android, maka browser yang direkomendasikan adalah Google Chrome. Jika device kamu berbasis iOS, maka browser yang direkomendasikan adalah Safari
+
+Saya mencoba membuka link penerimaan bluGift melalui desktop PC saya, namun saya tidak dapat melanjutkan klaim bluGIft. Apa yang harus saya lakukan?
+bluGift tidak dapat diklaim menggunakan link yang dibuka melalui browser desktop PC maupun laptop selain itu untuk mengklaim, kamu tetap memerlukan aplikasi blu di handphonemu.
+
+Apa itu Bimapay x blu?
+Bimapay powered by blu atau 'Bimapay x blu' adalah kolaborasi antara Indosat Ooredoo Hutchison dan blu dalam bentuk layanan perbankan di dalam aplikasi RITA untuk memudahkan customer RITA dan nasabah blu dalam bertransaksi di RITA.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan Bimapay x blu?
+Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia RITA, cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu .Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi RITA.Promo-promo menarik dari Bimapay x bluTetap mendapatkan promosi transaksi yang ada di aplikasi blu (Misal ada promo QRIS di blu, maka pengguna Bimapay x blu tetap mendapatkan promo yang sama)
+
+Fitur apa saja yang bisa digunakan di Bimapay x blu?
+Saat ini, kamu bisa menggunakan Bimapay x blu untuk:Buka rekening bluMenghubungkan blu ke RITA (linkage)Bertransaksi menggunakan QRISbluHomescreen untuk melihat saldo blu anda.Tracker untuk mengecek Riwayat Transaksi blu di dalam blu di aplikasi RITA.Layanan In-app payment, untuk metode pembayaran menggunakan blu.
+
+Saya customer RITA namun belum punya rekening blu, apa yang harus saya lakukan?
+Cara nya gampang, Kamu tinggal menekan logo Bimapay x blu. Lalu tinggal ikuti saja proses pembukaan rekeningnya.
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi RITA yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi RITA pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi RITA?
+Pastikan sinyal baik, nomor handphone aktif dan tidak dalam masa tenggang. Kamu juga bisa memastikan memori handphone cukup untuk menerima SMS. Lakukan juga pengecekan di pengaturan untuk menonaktifkan fitur blokir SMS.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Berapa batas minimum dan maksimum nominal transaksi di RITA yang dapat saya bayar dengan menggunakan Bimapay x blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Saya gagal input password dan PIN transaksi akun Bimapay x blu, apa yang harus aku lakukan?
+Masuk ke dalam dashboard blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.Klik 'Ubah PIN aplikasi'Masukkan PIN kamu
+
+Saya lupa password akun Bimapay x blu, apa yang harus saya lakukan?
+Untuk lupa password customer RITA dapat mengakses aplikasi blu, dengan mengikuti langkah dibawah iniKlik 'Lupa password'Masukkan PIN kamuSelesaikan prosesnya.
+
+Saya lupa PIN transaksi akun Bimapay x blu, apa yang harus saya lakukan
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.Klik 'Ubah PIN aplikasi'Klik 'Lupa PIN'Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi RITA dengan pembayaran menggunakan QRIS di aplikasi blu?
+Riwayat transaksi dengan QRIS bisa dicek di aplikasi blu kamu. Kamu juga bisa mengecek riwayat transaksi QRIS di Dashboad blu di aplikasi RITA.
+
+Bagaimana cara saya untuk menjadi retailer RITA ?
+Bila tertarik menjadi retailer RITA, nasabah dapat menghubungi call center PT Indosat Ooredoo Hutchison di 132 menggunakan nomor Tri yang dimiliki oleh nasabah
+
+Apa itu CGVxblu?
+CGVxblu adalah kolaborasi antara CGV dan blu dalam bentuk layanan perbankan di dalam aplikasi CGV untuk memudahkan customer CGV dan nasabah blu dalam bertransaksi di CGV.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan CGVxblu?
+Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia CGV, cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu .Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi CGV.Promo-promo menarik dari CGVxbluTetap mendapatkan promosi transaksi yang ada di aplikasi blu (Misal ada promo QRIS di blu, maka pengguna CGVxblu tetap mendapatkan promo yang sama)
+
+Fitur apa saja yang bisa digunakan di CGVxblu?
+Saat ini, kamu bisa menggunakan CGVxblu untuk:Buka rekening bluMenghubungkan blu ke CGV (linkage)Bertransaksi menggunakan QRISTransfer ke sesama blu & bank lain (LLG, Online, BI Fast, RTGS) di dalam bluBertransaksi menggunakan BCA Virtual AccountTarik tunai dan setor tunai di ATM BCA di seluruh Indonesia di dalam bluIn App Payment (menggunakan blu sebagai metode pembayaraan saat checkout belanjaan di CGV)Menabung di bluSaving dan bluGether.Membuka deposito di bluDepositMelakukan top-up E-Money di dalam blu di aplikasi CGVMengirimkan atau menerima kartu ucapan saat kirim dana dengan bluGiftMengecek Riwayat Transaksi blu di dalam blu di aplikasi CGV.
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi CGV?
+Kamu harus menghubungkan akun blu pada aplikasi CGV. Untuk menghubungkan akun, nomor handphone yang digunakan di blu dan CGV harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi CGV ataupun nomor handphone yang terdaftar di blu.
+
+Saya customer CGV namun belum punya rekening blu, apa yang harus saya lakukan?
+Klik icon blu pada aplikasi CGV, lalu ikuti proses pembukaan rekening blu, mudah kok!
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi CGV yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi CGV pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi CGV?
+Pastikan sinyal baik, nomor handphone aktif dan tidak dalam masa tenggang. Kamu juga bisa memastikan memori handphone cukup untuk menerima SMS. Lakukan juga pengecekan di pengaturan untuk menonaktifkan fitur blokir SMS.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Berapa batas minimum dan maksimum nominal transaksi di CGV yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Bagaimana jika saya sudah melakukan pembayaran dengan blu, tapi saya berubah pikiran dan ingin melakukan refund transaksi?
+Pihak CGV akan mengembalikan dana sesuai ketentuan yang berlaku ke akun yang ditunjuk pihak CGV.
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.Klik 'Ubah PIN aplikasi'Masukkan PIN kamuSelesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+Klik 'Lupa password'Masukkan PIN kamuSelesaikan prosesnya.
+
+Saya lupa PIN transaksi akun blu, apa yang harus saya lakukan
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.Klik 'Ubah PIN aplikasi'Klik 'Lupa PIN'Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi CGV dengan pembayaran menggunakan In App Payment blu (pembayaran saat chekcout di CGV menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di CGV bisa dicek di menu My CGV maupun Riwayat Transaksi di Dashboard blu.
+
+Di mana saya dapat melihat riwayat transaksi CGV dengan pembayaran menggunakan QRIS di aplikasi blu?
+Riwayat transaksi dengan QRIS bisa dicek di aplikasi blu kamu.Kamu juga bisa mengecek riwayat transaksi QRIS di Dashboad blu di aplikasi CGV.
+
+Saya ingin memutus koneksi blu dengan aplikasi CGV, bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi CGV, ikuti langkah berikut:Buka halaman My CGV kamuPilih Manage CardPilih unlink pada kartu blu kamuPada pop up konfirmasi pilih “Unlink”Akun blu berhasil diputus dari CGV
+
+Apakah saya bisa mendapatkan kuota 20 kali bebas biaya transfer ke bank lain?
+Yes! Kuota 20 kali bebas transfer ke bank lain bisa kamu pakai di CGVxblu.Catatan:Di CGV x blu, kuota yang berlaku hanya 20 kali bebas biaya transfer ke bank lain, tidak termasuk top up GoPay.
+
+Apa itu Moduit x blu?
+Moduit x blu adalah kolaborasi antara Moduit dan blu dalam bentuk layanan perbankan di dalam aplikasi Moduit untuk memudahkan customer Moduit dan nasabah blu dalam bertransaksi di Moduit.
+
+Fitur apa saja yang bisa digunakan di Moduit x blu?
+Saat ini, kamu bisa menggunakan Moduit x blu untuk:
+
+Buka rekening blu
+Menghubungkan blu ke Moduit (linkage)
+In App Payment (menggunakan blu sebagai metode pembayaran untuk pembelian produk investasi di Moduit)
+Autodebit (menggunakan blu sebagai metode pembayaran untuk pembelian produk investasi di Moduit secara rutin)
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi Moduit?
+"Kamu harus menghubungkan akun blu pada aplikasi Moduit. Untuk menghubungkan akun, nama dan nomor handphone yang digunakan di blu dan Moduit harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi Moduit ataupun nomor handphone yang terdaftar di blu.
+
+Saya pengguna Moduit namun belum punya rekening blu, apa yang harus saya lakukan?
+Pada halaman Pengaturan Akun di aplikasi Moduit, pilih Profil Saya. Selanjutnya, klik 'Hubungkan' pada blu lalu ikuti saja proses pembukaan rekeningnya, mudah kok!
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi Moduit yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi Moduit pada 1 (satu) device dan harus dengan nama dan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi Moduit?
+Pastikan sinyal baik, nomor handphone aktif dan tidak dalam masa tenggang. Kamu juga bisa memastikan memori handphone cukup untuk menerima SMS. Lakukan juga pengecekan di pengaturan untuk menonaktifkan fitur blokir SMS.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Mengapa saya tidak dapat melanjutkan pembayaran dengan blu, padahal akun blu saya sudah terhubung dengan aplikasi Moduit?
+Ini beberapa kemungkinan yang bisa jadi penyebab hal tersebut:Saldo blu tidak mencukupi untuk melakukan pembayaran,Akun kamu terblokir,Kamu belum melakukan registrasi nomor handphone pada akun Moduit kamu,Kamu sudah mencapai batas maksimal untuk seluruh transaksi per hari, atauKamu sudah mencapai batas maksimal untuk satu transaksi per hari,Rekening kamu berstatus Dormant / Tidak pernah melakukan transaksi selama 6 bulan. Segera login ke aplikasi blu, dan jalankan transaksi keluar sebanyak 1x yaPunya pertanyaan lebih lanjut? Hubungi tim haloblu di 1500668 yang akan senang membantu.
+
+Berapa batas minimum dan maksimum nominal transaksi di Moduit yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.Klik 'Ubah PIN aplikasi'Masukkan PIN kamuSelesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+Klik 'Lupa password'Masukkan PIN kamuSelesaikan prosesnya.
+
+Saya lupa PIN transaksi akun blu, apa yang harus saya lakukan
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.Klik 'Ubah PIN aplikasi'Klik 'Lupa PIN'Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi Moduit dengan pembayaran menggunakan In App Payment blu (pembayaran saat checkout di Moduit menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di Moduit bisa dicek di menu Riwayat Moduit maupun Riwayat Transaksi yang dapat diakses melalui Menu Tracker pada aplikasi blu.
+
+Saya ingin memutus koneksi blu dengan aplikasi Moduit, bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi Moduit, ikuti langkah berikut:Buka halaman beranda Moduit kamu Pilih 'Profil Saya' pada bagian Pengaturan Akun Klik bluPilih 'Nonaktifkan blu di Moduit'Pada pop up konfirmasi pilih 'Nonaktifkan'Akun blu berhasil diputus dari Moduit
+
+Apakah saya bisa menggunakan metode pembayaran blu pada halaman Web Moduit?
+Tentu bisa, ikuti langkah berikut ya:Tekan 'Checkout' selesai kamu pilih produk investasi yang ingin kamu beli.Pilih metode pembayaran blu pada halaman Pilih Metode Pembayaran. Konfirmasi kembali pesananmu lalu klik 'Bayar' Masukkan kode OTP yang kamu terima dari Moduit.Kamu akan menerima notifikasi pembayaran pada aplikasi blu kamu, dan selesaikan pembayarannya.
+
+Berapa lama waktu yang diberikan untuk menyelesaikan pembayaran menggunakan blu pada halaman Web Moduit?
+Kamu diberikan waktu maksimal 15 menit untuk melakukan pembayaran. Pastikan kamu menyelesaikan pembayaranmu pada aplikasi blu sebelum 15 menit ya.
+
+Berapa batas minimum dan maksimum nominal transaksi di halama web Moduit yang dapat saya bayar dengan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: https://blubybcadigital.id/info/fees-rates
+
+Apakah ada biaya transaksi tambahan jika bayar menggunakan blu di Moduit?
+Tenang saja…Kamu tidak dikenakan biaya transaksi tambahan jika bayar menggunakan blu di Moduit.
+
+Apa itu bluVirtual Card?
+bluVirtual Card adalah kartu debit virtual dari blu by BCA Digital yang bisa kamu gunakan untuk melakukan pembayaran pada situs/aplikasi/layanan online. bluVirtual Card terhubung dengan saldo bluAccount kamu.
+
+Dimana saya dapat menggunakan bluVirtual Card?
+bluVirtual Card dapat digunakan di seluruh e-commerce, toko online, dan layanan online yang menerima pembayaran dengan kartu berjaringan Mastercard.
+
+Apakah terdapat biaya tambahan dalam pembuatan bluVirtual Card?
+Tidak. Pembuatan atau request pertama kali untuk bluVirtual Card tidak dikenakan biaya ?
+
+Bagaimana cara saya membuat bluVirtual Card?
+Klik aktifkan pada dashboard “Request bluVirtual Card”.Klik “Aktifkan”.Verifikasi dengan PIN blu kamu.bluVirtual Card kamu berhasil dibuat.
+
+Bagaimana cara melihat detail (nomor kartu, expiry date, kode keamanan/CVC) untuk bluVirtual Card saya?
+Pilih 'bluVirtual Card' pada dashboard blu.Pilih 'Tampilkan Detail Kartu'Verifikasi dengan PIN blu kamu atau dengan biometric (Fingerprint / Face ID)Detail bluVirtual Card kamu akan ditampilkan.
+
+Bagaimana cara saya menjaga keamanan bluVirtual Card saya?
+Pastikan kamu jangan membagikan nomor kartu, informasi masa berlaku, dan kode CVC ke siapa pun, termasuk pihak blu/haloblu/BCA Digital.
+
+Berapa limit transaksi untuk bluVirtual Card saya?
+Untuk mengetahui limit transaksi bluVirtual Card kamu dapat mengakses https://blubybcadigital.id/info/fees-rates
+
+Bagaimana cara melakukan perubahan limit pada bluVirtual Card saya?
+Pilih 'bluVirtual Card' pada dashboard blu.Pilih “Limit Transaksi”.Klik ikon pensil di sudut kanan atas untuk mengedit.Ubah jumlah limit transaksi harian kamu.Klik 'Simpan'.Verifikasi dengan PIN blu kamu atau dengan biometric (Fingerprint / Face ID)Kemudian limit harian bluVirtual Card kamu akan berubah.
+
+Bagaimana cara meminta nomor baru untuk  bluVirtual Card saya?
+Pilih 'bluVirtual Card' pada dashboard blu.Klik 'Ganti Nomor Kartu'.Klik 'Lanjut'Kemudian akan muncul halaman konfirmasi untuk melakukan pembayaran biaya penggantian kartu.Klik 'Bayar'.Verifikasi dengan PIN blu kamu.Kemudian kamu akan mendapat nomor baru untuk bluVirtual Card-mu.
+
+Apakah ada batas kuota pembuatan bluVirtual Card baru?
+Batas kuota harian pembuatan bluVirtual Card adalah 1 kartu per hari.Batas kuota bulanan pembuatan kartu adalah 2 kartu per bulan per akun.
+
+Kuota pembuatan kartu baru saya sudah habis, bagaimana cara mendapatkan kembali kuota tersebut?
+Kuota pembuatan kartu baru akan diperbarui pada bulan berikutnya.
+
+Apakah terdapat biaya penggantian kartu?
+Ya. Biaya penggantian bluVirtual Card dapat dilihat melalui  https://blubybcadigital.id/info/fees-rates. Biaya ini akan diambil dari saldo bluAccount aktif kamu.
+
+Apakah saya bisa melakukan blokir sementara untuk bluVirtual Card saya?
+Bisa, kamu dapat melakukan blokir sementara untuk bluVirtual Card-mu dalam kondisi darurat, misalnya jika ada indikasi fraud yang terdeteksi. Kamu dapat melakukan buka blokir kapan pun kamu butuhkan.
+
+Bagaimana cara memblokir sementara bluVirtual Card saya?
+Pilih 'bluVirtual Card' pada dashboard blu.Klik 'Blokir Kartu'.Kemudian bluVirtual Card kamu akan diblokir sementara.
+
+Bagaimana cara membuka blokir Kartu bluVirtual saya?
+Pilih 'bluVirtual Card' pada dashboard blu.Klik 'Buka Blokir'.Verifikasi dengan PIN blu kamu atau menggunakan biometric (Fingerprint / Face ID)bluVirtual Card kamu bisa kembali digunakan.
+
+Bagaimana cara mengubah warna bluVirtual Card saya?
+Pilih 'bluVirtual' Card pada dashboard blu.Klik 'Pengaturan Lainnya'.Klik 'Ubah Warna Kartu'Geser ke kiri dan kanan untuk melihat pilihan warna.Pilih warna sesuai keinginan mu.Lihat warna bluVirtual Card berubah sesuai pilihan warna.Klik 'Simpan'.
+
+Bagaimana cara melihat Riwayat transaksi bluVirtual Card saya?
+Pilih 'bluVirtual Card' pada dashboard blu.Klik 'pengaturan lainnya'.Klik 'Lihat Riwayat Transaksi'.Maka riwayat transaksi untuk bluVirtual Card akan ditampilkan.
+
+Bagaimana cara menemukan FAQ tentang Kartu bluVirtual Card?
+Kamu dapat mengakses FAQ tentang bluVirtual Card dengan 2 cara, yaitu melalui website atau aplikasi blu.Cara Cek FAQ di Website bluUntuk lewat website blu , kamu dapat menuju https://blubybcadigital.id.Klik Info, pilih FAQ, dan kemudian cari jawaban kamu di section Debit Card.Cara Cek FAQ di Aplikasi bluPilih 'bluVirtual Card' pada dashboard blu.Klik titik tiga di sudut kanan atas. Klik 'FAQ'.Kemudian kamu akan diarahkan ke tampilan web FAQ kartu bluVirtual Card.
+
+Apakah saya bisa menutup bluVirtual Card saya?
+Belum bisa. Karena ketika kamu sudah mempunyai bluVirtual Card, maka kamu tidak bisa menutup bluVirtual Card. bluVirtual Card hanya bisa ditutup jika kamu menutup bluAccount juga. Jika kamu ingin menonaktifkan bluVirtual Card untuk sementara, kamu bisa memilih opsi Blokir Kartu.
+
+Mengapa transaksi bluVirtual Card tidak menggunakan PIN?
+Transaksi di bluVirtual Card tidak memerlukan validasi PIN, namun menggunakan nomor kartu, expiry date, CVC, dan OTP sebagai validasi transaksi
+
+Bagaimana cara melakukan pembayaran online dengan bluVirtual Card di merchant online?
+1. Pada halaman pembayaran situs/aplikasi/layanan online, pilih Kartu 'Kredit/Debit'
+2. Masukkan nomor bluVirtual Card kamu
+3. Masukkan kode CVC dan masa berlaku 
+4. Lanjutkan pembayaran dengan memasukkan kode One Time Password (OTP) yang akan dikirimkan melalui media berikut: 
+a. Notifikasi ke HP yang terdaftar di blu dan Inbox di aplikasi blu (bebas biaya) untuk OTP pertama dan permintaan kirim ulang OTP kedua; atau 
+b. SMS ke nomor ponsel kamu yang terdaftar di blu (biaya SMS yang dikenakan tergantung provider dalam menggunakan 3DSecure) untuk permintaan kirim ulang OTP ketiga dan keempat 
+Lihat informasi pada halaman merchant untuk mengetahui media pengiriman OTP-mu
+5. Pembayaran yang berhasil akan langsung memotong saldo aktif di bluAccount kamu
+
+Apa penyebab saya gagal melakukan pembayaran online?
+Pastikan dulu kalau kamu memiliki saldo limit kartu yang cukup untuk melakukan transaksi tersebut dan limit kartu yang cukup untuk melakukan transaksi.
+
+Bagaimana jika pembayaran saya tertolak karena akun saya dormant?
+Akun dormant terjadi ketika nasabah tidak melakukan aktivitas (transaksi atau login) selama 12 bulan berturut-turut, dan semua transaksi akan ditolak. Untuk mengaktifkan akun kamu kembali, ikuti langkah berikut:Login ke aplikasi blu / klik push notification transaksi gagal karena akun dormantKlik “Aktifkan” pada layar yang munculMasukkan PIN kamuAkun kamu sudah aktif dan bisa bertransaksi dengan normal
+
+Apakah kode OTP akan diterima untuk semua transaksi di e-commerce / toko online?
+Tidak, kamu hanya akan menerima kode OTP di merchant yang menggunakan fitur 3D Secure (3DS) dengan logo Mastercard SecureCode yang mengharuskan menggunakan OTP.
+
+Bagaimana jika saya tidak menerima kode OTP yang dikirim via sms handphone?
+Agar dapat menerima kode OTP via SMS handphone, pastikan:  
+ 
+1.  Informasi pada halaman merchant adalah “Kode Otentikasi telah dikirim melalui SMS ke nomor HP kamu (4 Digit terakhir xxxx).” 
+2. Perangkatmu memiliki sinyal dan terdapat pulsa yang cukup. 
+3.  Apabila kamu bertransaksi saat berada di luar negeri, aktifkan roaming untuk mendapatkan OTP melalui SMS. 
+4.  Menyalakan pengaturan SMS premium pada aplikasi provider seluler kamu. 
+5.  Kamu dapat mengirim ulang kode OTP dengan menekan tombol kirim ulang kode OTP yang ada di halaman pembayaran pada e-commerce / toko online.
+
+Apakah saya dapat merubah nomor handphone untuk menerima kode OTP?
+Bisa, untuk mengubah nomor handphone kamu dapat melakukan di aplikasi blu, di menu profil pada bagian info kontak, lalu kamu akan menerima kode OTP di nomor handphone yang baru terdaftar di aplikasi blu.
+
+Apa yang harus saya lakukan jika saya mengalami kendala dengan bluVirtual Card?
+Jika kamu mengalami kendala , tim haloblu siap membantu melalui telepon di 1500668.Selain itu, kamu juga bisa menghubungi haloblu melalui:Email: haloblu@bcadigital.co.idTwitter: @halobluWhatsApp blu by BCA Digital: 0811-6500-668Call haloblu via Aplikasi Halo BCA (klik icon BCA Digital dari dalam aplikasi)
+
+Bagaimana cara melihat kode OTP melalui notifikasi aplikasi blu?
+Pengiriman OTP pertama dan permintaan kirim ulang OTP kedua bisa dicek melalui:1. Notifikasi blu di HP-mu yang digunakan untuk bertransaksi menggunakan blu (tanpa perlu login ke aplikasi blu)2. Melalui inbox di aplikasi blu.Berikut cara mengakses OTP di Inbox blu:- Login aplikasi blu- Pilih Inbox (klik ikon lonceng di sudut kanan atas Dashboard blu)- Pilih 'Notifikasi'
+
+Bagaimana jika saya tidak menerima kode OTP yang dikirim melalui notifikasi aplikasi blu?
+Agar OTP bisa diterima melalui notifikasi aplikasi blu, pastikan:Informasi pada halaman konfirmasi merchant adalah 'Kode Otentifikasi telah dikirim melalui notifikasi ke HP/Inbox di aplikasi blu kamu.'Fitur notifikasi untuk aplikasi blu sudah aktif di HP-mu.Jika kamu tidak menemukan notifikasi di HP, coba untuk login ke blu untuk melihat notifikasi di Inbox (ikon lonceng di sudut kanan atas Dashboard blu)Kamu bisa mengirim ulang kode OTP dengan menekan tombol 'Kirim Ulang Kode Otentikasi' yang ada di halaman pembayaran pada e-commerce/toko online. Permintaan ulang OTP ke-2 akan dikirimkan melalui notifikasi, sedangkan permintaan ulang OTP ke-3 dan ke-4 akan dikirim melalui SMS.
+
+Apa itu FUNDtastic x blu?
+FUNDtastic x blu adalah kolaborasi antara FUNDtastic dan blu dalam bentuk layanan perbankan di dalam aplikasi FUNDtastic untuk memudahkan customer FUNDtastic dan nasabah blu dalam bertransaksi di FUNDtastic.
+
+Fitur apa saja yang bisa digunakan di FUNDtastic x blu?
+Saat ini, kamu bisa menggunakan FUNDtastic x blu untuk:Buka rekening bluMenghubungkan blu ke FUNDtastic (linkage)In App Payment (menggunakan blu sebagai metode pembayaraan saat pembelian produk investasi di FUNDtastic)
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi FUNDtastic?
+Kamu harus menghubungkan akun blu pada aplikasi FUNDtastic. Untuk menghubungkan akun, nama dan nomor handphone yang digunakan di blu dan FUNDtastic harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi FUNDtastic ataupun nomor handphone yang terdaftar di blu.
+
+Saya pengguna FUNDtastic namun belum punya rekening blu, apa yang harus saya lakukan?
+Pada halaman beranda FUNDtastic, pilih Profil. Selanjutnya pilih menu Pengaturan, klik 'Akun belum terhubung' pada opsi payment blu. Lalu ikuti saja proses pembukaan rekeningnya, mudah kok!
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi FUNDtastic yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi FUNDtastic pada 1 (satu) device dan harus dengan nama dan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi FUNDtastic?
+Pastikan sinyal baik, nomor handphone aktif dan tidak dalam masa tenggang. Kamu juga bisa memastikan memori handphone cukup untuk menerima SMS. Lakukan juga pengecekan di pengaturan untuk menonaktifkan fitur blokir SMS.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Mengapa saya tidak dapat melanjutkan pembayaran dengan blu, padahal akun blu saya sudah terhubung dengan aplikasi FUNDtastic?
+Ini beberapa kemungkinan yang bisa jadi penyebab hal tersebut:Saldo blu tidak mencukupi untuk melakukan pembayaran,Akun kamu terblokir,Kamu belum melakukan registrasi nomor handphone pada akun FUNDtastic kamu,Kamu sudah mencapai batas maksimal untuk seluruh transaksi per hari, atauKamu sudah mencapai batas maksimal untuk satu transaksi per hari,Rekening kamu berstatus Dormant / Tidak pernah melakukan transaksi selama 6 bulan. Segera login ke aplikasi blu, dan jalankan transaksi keluar sebanyak 1x yaPunya pertanyaan lebih lanjut? Hubungi tim haloblu di 1500668 yang akan senang membantu.
+
+Berapa batas minimum dan maksimum nominal transaksi di FUNDtastic yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+1. Klik 'Lupa password'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa PIN transaksi akun blu, apa yang harus saya lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Klik 'Lupa PIN'3. Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi FUNDtastic dengan pembayaran menggunakan In App Payment blu (pembayaran saat checkout di FUNDtastic menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di FUNDtastic bisa dicek di menu Riwayat FUNDtastic maupun Riwayat Transaksi yang dapat diakses melalui Menu Tracker pada aplikasi blu.
+
+Saya ingin memutus koneksi blu dengan aplikasi FUNDtastic, bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi FUNDtastic, ikuti langkah berikut:Buka halaman beranda FUNDtastic kamuKlik menu Profil, lalu masuk ke bagian PengaturanKlik Payment blu 'Akun blu terhubung'Tampil pop up konfirmasi,  pilih 'Nonaktifkan blu'Akun blu berhasil diputus dari FUNDtastic
+
+Apa itu bluInvest?
+bluInvest adalah fitur dari blu dimana kamu bisa menghubungkan akun investasi kamu di platform lain dengan blu, dan memonitor portfolio kamu dari aplikasi blu
+
+Apa platform investasi yang bekerjasama dengan bluInvest?
+Saat ini bluInvest bekerjasama dengan Moduit dan FUNDtastic. Nantikan partner bluInvest berikutnya ya.
+
+Bagaimana cara register akun Moduit atau FUNDtastic melalui blu?
+Masuk ke Tab PortfolioPilih menu InvestasiKlik 'Mulai Investasi'Pilih Aplikasi Investasi yang kamu inginkanPilih 'Registrasi'Selanjutnya kamu akan diarahkan untuk mendownload dan melakukan pembukaan akun di aplikasi atau webview partner
+
+Bagaimana cara menghubungkan blu dengan aplikasi investasi partner?
+Masuk ke Tab Portfolio di aplikasi bluPilih menu InvestasiKlik 'Mulai Investasi' Pilih Partner Investasi yang ingin kamu hubungkan Klik 'Hubungkan Akun'Pastikan Nomor HP kamu yang terdaftar di aplikasi investasi sama dengan Nomor HP yang terdaftar di bluMasukan OTP yang dikirimkan ke Nomor HP kamuSelesai, portfolio kamu sudah terhubung dengan blu
+
+Saya sudah registrasi di Moduit atau FUNDtastic, tapi kenapa belum bisa melakukan linkage?
+Pastikan Nomor HP kamu yang terdaftar di blu sama dengan yang terdaftar di aplikasi investasiPastikan akun kamu di aplikasi investasi sudah terverifikasi (proses verifikasi membutuhkan maksimal 1 hari kerja)
+
+Apakah bisa melakukan transaksi pembelian / penjualan produk investasi di blu?
+Saat ini nasabah hanya bisa memantau portfolio investasi melalui aplikasi blu, untuk transaksi pembelian / penjualan produk investasi dapat dilakukan di aplikasi partner.
+
+Bagaimana jika ada kendala saat melakukan pembelian / penjualan produk di aplikasi partner?
+Kamu dapat menghubungi pada hari bursa di jam operasional ModuitWA: 081260702900Email: support@moduit.idFitur in app chatCall: 02150202900FUNDtasticWA: 081197006790Email: support@fundtastic.co.idCall: 02150207773
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi partner yang sudah saya download di beberapa device?
+Ya, kamu bisa menghubungkan dari beberapa device, yang penting no. handphone yang digunakan sama ya…
+
+Saya ingin memutus koneksi blu dengan aplikasi partner, bagaimana caranya?
+Di bagian detail investasi, kamu bisa klik ‘…’Klik ‘Putuskan hubungan dengan [aplikasi partner]’Kalau kamu sudah yakin untuk melakukan unlink, maka klik ‘Yakin’Jika blu kamu sudah terputus (unlink) dari aplikasi partner,  portfolio kamu di aplikasi partner tidak lagi ditampilkan di blu.
+
+Apa itu bluExtraCash?
+bluExtraCash adalah adalah produk pinjaman tanpa agunan untuk kamu yang melakukan permohonan pengajuan pinjaman untuk berbagai kebutuhan.Setelah kamu mengajukan pinjaman, blu akan menganalisis pengajuan pinjamanmu sebelum memberi keputusan apakah pengajuan pinjaman disetujui atau ditolak. Pencairan pinjaman akan dilakukan langsung ke bluAccount-mu.
+
+Apa keuntungan meminjam uang di bluExtraCash?
+Pengajuan pinjaman mudah melalui aplikasi blu.Proses kredit cepat.Bunga pinjaman kompetitif.Pinjaman dapat digunakan sesuai kebutuhan
+
+Apa syarat untuk mengajukan bluExtraCash?
+Memiliki E-KTPMerupakan nasabah BCA DigitalBerusia minimal 21 tahun dan maksimal 55 tahun pada saat pinjaman lunasTidak termasuk dalam Daftar Hitam BI (DHN), Daftar Terduga Teroris dan Organisasi Teroris (DTTOT), Negative List Bank dan Daftar AML, dan Blacklist Internal Bank.Memiliki pekerjaan yang tidak termasuk dalam Daftar Pekerjaan Sensitif.
+
+Berapa nominal pinjaman & tenor yang bisa diajukan melalui bluExtraCash?
+Nominal pinjaman & tenor yang bisa diajukan melalui bluExtraCash dibagi berdasarkan domisili dengan keterangan sebagai berikut:
+Domisili Jabodetabek: Nasabah bisa mengajukan pinjaman Rp 1.000.000 hingga Rp 10.000.000 dengan pilihan tenor 1, 3, 6, 9, dan 12 bulan, atau; Rp 10.000.000 hingga Rp 20.000.000 dengan pilihan tenor 1, 3, 6 bulan.
+Domisili di Bali & Yogyakarta: Nasabah bisa mengajukan pinjaman Rp 1.000.000 hingga Rp 10.000.000 dengan pilihan tenor 1 & 3 bulan.
+
+Berapa lama pengajuan bluExtraCash akan dikonfirmasi?
+Dalam keadaan normal pinjaman akan dikonfirmasi dalam waktu 1 hari kerja.
+
+Kenapa pengajuan bluExtraCash saya ditolak?
+Terdapat beberapa hal yang dapat menyebabkan pengajuan pinjamanmu ditolak/dibatalkan, antara lain:Kamu belum sesuai dengan kriteria debitur Bank BCA Digital.Kamu tidak merespon penawaran pinjaman yang kami berikan dalam kurun waktu 7 hari kalender.Rekening bluAccount-mu sedang diblokir.
+
+Biaya apa saja yang ada di bluExtraCash?
+Bunga dari pinjaman bluExtraCash adalah 1% s.d. 3% flat per bulan.Selain bunga, terdapat biaya lain, termasuk namun tidak terbatas pada biaya provisi, biaya administrasi, dan biaya meterai, yang akan dibebankan ke kamu. Biaya ini dibayarkan satu kali dengan memotong jumlah dana yang dicairkan ke bluAccount-mu.
+
+Apakah saya bisa membatalkan pinjaman bluExtraCash saya?
+Kamu dapat membatalkan pengajuan pinjaman bluExtraCash sebelum pinjaman dicairkan. Cukup dengan klik Batalkan pada halaman penawaran kredit.
+
+Jika pinjaman sudah dicarikan ke bluAccountmu, pinjaman dinyatakan aktif dan tidak dapat dibatalkan lagi. Jadi, tolong cek ulang saat melakukan konfirmasi pencairan dana pinjamanmu yaa...
+
+Bagaimana cara pembayaran angsuran bluExtraCash?
+Pembayaran angsuran bluExtraCash sangat mudah. Cukup sediakan dana sejumlah nominal angsuran di bluAccount-mu. Dana tersebut kemudian akan terdebit secara otomatis sesuai nominal tagihan (autodebit) di tanggal jatuh tempo angsuranmu.Pastikan dana tersedia di bluAccount sebelum pukul 19.00 di hari jatuh tempo untuk menghindari keterlambatan bayar ya...
+
+Apakah saya dapat melakukan pembayaran selain autodebet?
+Kamu bisa melakukan pembayaran melalui aplikasi blu sejak hari jatuh tempo selama cicilan belum dibayar pada rentang waktu pukul 06:00-12:00 & pukul 14:00-18:00.Cara membayar:Buka aplikasi bluKlik 'Portfolio'Klik tab 'Pinjaman'Klik 'bluExtraCash' di tab 'Pinjaman Kamu'Lanjutkan bayar cicilanmuKonfirmasi pembayaran, lalu klik 'Bayar'
+
+Apakah tanggal pembayaran angsuran bluExtraCash saya bisa diubah?
+Tidak bisa. Tanggal jatuh tempo sesuai dengan tanggal pencairan dana pinjaman ke bluAccount kamu.
+
+Apa yang terjadi jika dana pinjaman bluExtraCash saya sudah disetujui namun saya tidak jadi mencairkannya?
+Offer dari blu akan berlaku 7 hari sejak pengajuan kamu diterima. Jika sudah melewati 7 hari, offer akan otomatis expired dan kamu harus melakukan pengajuan ulang.
+
+Bagaimana jika terlambat melakukan pembayaran angsuran bluExtraCash?
+Kamu akan dikenakan denda keterlambatan sebesar 1% per bulan yang dihitung dari nominal tagihan dengan minimal denda Rp 50 ribu.
+
+Bagaimana jika saya tidak menyediakan dana di bluAccount untuk pembayaran angsuran?
+Kami akan terus melakukan autodebet pada bluAccount-mu sampai pembayaran angsuran berhasil. Jika dana tidak tersedia setelah 14 hari dari tanggal jatuh tempo, kami akan melakukan autodebit dana dari bluSaving dan bluDeposit-mu sesuai dengan kuasa pendebetan yang sudah disampaikan pada Syarat dan Ketentuan bluExtraCash dan Perjanjian Kredit bluExtraCash.Untuk menghindari hal ini terjadi, pastikan untuk menyediakan dana di bluAccount ya...
+
+Apakah memungkinkan memiliki lebih dari satu pinjaman bluExtraCash dalam satu waktu?
+Saat ini kamu hanya dapat memiliki satu pinjaman aktif dalam satu waktu. Lunasi dulu pinjamanmu agar dapat mengajukan pinjaman kembali.
+
+Apakah saya dapat melunasi pinjaman bluExtraCash sebelum jangka waktu/tenor berakhir?
+Tentu saja bisa. Kamu dapat melunasi pinjaman bluExtraCash-mu sebelum masa tenor berakhir. Jumlah uang untuk pelunasan dapat kamu lihat di halaman pinjamanmu.
+Cara melakukan pelunasan pinjaman:
+
+Buka aplikasi blu
+Klik "Portfolio"
+Klik tab "Pinjaman"
+Klik "bluExtraCash" di tab "Pinjaman Kamu"
+Klik tombol "Lunasi Semua" 
+Klik "Bayar Sekarang"
+Konfirmasi pembayaran, lalu klik "Bayar"
+
+Apakah ada biaya penalti apabila saya melunasi pinjaman sebelum jangka waktu/tenor berakhir?
+Tidak ada biaya penalti jika kamu ingin mempercepat pelunasan. Namun kamu harus membayar seluruh sisa pokok dan bunga yang harus dibayarkan sampai tenor berakhir.
+
+Apakah saya mendapatkan salinan dari Perjanjian Pinjaman saya?
+Tentu saja bisa. Kami akan mengirimkan salinan Perjanjian Kredit bluExtraCash ke alamat email yang kamu daftarkan setelah proses pencairan berhasil dilakukan. 
+Perjanjian Kredit juga dapat dilihat kembali melalui aplikasi blu dengan cara:
+Cara melakukan pelunasan pinjaman:
+
+Buka aplikasi blu
+Klik "Portfolio"
+Klik tab "Pinjaman"
+Klik "bluExtraCash" di tab "Pinjaman Kamu"
+Klik tombol titik tiga ". . ." pada bagian kanan atas 
+Klik "Lihat Perjanjian Pinjaman"
+
+Mengapa saya tidak mendapatkan penawaran bluExtraCash?
+Pastikan rekening bluAccount-mu dalam keadaan aktif dan tidak diblokir. Tingkatkan terus transaksimu untuk mendapatkan penawaran bluExtraCash dari kami. Berdomisili di luar Jabodetabek, Bali, dan Daerah Istimewa Yogyakarta
+
+Berapa lama dana pinjaman masuk ke rekening bluAccount setelah saya melakukan konfirmasi pencairan bluExtraCash?
+Dana pinjaman akan masuk ke rekening bluAccount nasabah dalam waktu maksimal 1 hari kerja setelah konfirmasi pencairan dilakukan.
+
+Bagaimana mekanisme pemilihan nomor rekening bluBisnis di blu?
+Kamu bisa menentukan nomor rekening dengan memilih salah satu dari pilihan ini:Pilih nomor rekening sendiri.Jika kamu punya nomor favorit tertentu, kamu bisa menjadikannya sebagai 8 digit terakhir dari total 12 digit nomor rekening cantik blu kamu.Pemilihan nomor rekening sendiri ini akan dikenakan biaya Rp100 ribu.Nomor rekening dipilihkan oleh blu.Kalau memilih ini, kamu akan mendapatkan 12 digit nomor rekening secara acak.
+
+Bagaimana cara saya mendapatkan nomor rekening cantik bluBisnis?
+Jika kamu memilih nomor rekening cantik, setelah menginputkan nomor yang kamu inginkan segera lakukan pembayaran agar tidak di ambil orang lain. Setelah pembayaran selesai dilakukan, nomor rekening kamu akan otomatis terbuat dan sudah dapat langsung dipakai (sudah aktif) tanpa ada minimum saldo.
+
+Saya tidak mau menggunakan/membayar nomor rekening cantik, apakah saya masih dapat membuka rekening bluBisnis di blu?
+Bisa, kamu tetap dapat melakukan pembukaan rekening dengan nomor rekening yang blu pilihkan untukmu dan gratis.
+
+Bagaimana cara melakukan pembayaran biaya nomor rekening cantik bluBisnis?
+Pembayaran pemilihan nomor rekening cantik bluBisnis dilakukan menggunakan source account bluAccount kamu. Jadi jangan lupa untuk isi saldo bluAccount kamu ya.
+
+Jika saldo bluAccount kurang ketika melakukan pembukaan nomor cantik bluBisnis bagaimana?
+Tenang saja, nomor cantik yang sudah kamu input akan kami hold selama 30 menit untuk kamu. Segera lakukan top up bluAccount kamu terlebih dahulu agar bisa melanjutkan pembayaran nomor cantik bluBisnis.
+
+Jika sebelumnya sudah buka rekening bluBisnis dengan nomor reguler apakah bisa berpindah ke nomor rekening cantik?
+Tentu saja, tapi pembukaan rekening bluBisnis dengan nomor regular sebelumnya harus kita closed terlebih dahulu atau kamu bisa melakukan closed secara mandiri via apps blu. Baru setelah itu kamu melakukan pembukaan ulang bluBisnis dan memilih opsi Pilih no. rekening cantik.
+
+Kenapa saya perlu memasukkan email saat melakukan pembukaan rekening blu?
+Kamu perlu memasukkan email saat registrasi untuk berbagai keperluan, seperti:1. Korespondensi2. Menerima update terbaru dari blu
+
+Kenapa saya perlu melakukan verifikasi email di blu?
+Verifikasi email diperlukan untuk konfirmasi bahwa email yang kamu daftarkan di blu aktif dan bisa digunakan. Kamu juga akan mendapatkan informasi terbaru dan promo-promo seru blu yang dikirimkan melalui email.
+
+Apa itu kode referral/kode voucher?
+- Kode referral adalah kode unik yang dibuat khusus untukmu. Kode ini bisa kamu bagikan pada teman-temanmu yang ingin kamu referensikan untuk buka rekening blu.- Kode voucher adalah kode dari blu yang bisa kamu gunakan jika ada penawaran spesial/promosi saat melakukan pembukaan rekening blu.
+
+Apa itu bluDebit Card?
+bluDebit Card adalah kartu debit dari blu by BCA DIgital yang dapat digunakan untuk melakukan transaksi online (pada situs/aplikasi/layanan online) maupun transaksi offline (ATM/EDC) secara domestik maupun internasional. Saldo di bluDebit Card terhubung dengan saldo di bluAccount.
+
+Di mana saya dapat menggunakan bluDebit Card?
+bluDebit Card dapat digunakan untuk bertransaksi secara offline melalui ATM, EDC (termasuk transaksi contactless), dan transaksi online melalui seluruh e-commerce, toko online, dan layanan online yang menerima pembayaran dengan kartu Mastercard. bluDebit Card dapat digunakan secara domestik dan internasional.*Untuk  saat ini transaksi contactless menggunakan bluDebit card hanya dapat digunakan di luar negeri
+
+Apakah terdapat biaya pada permintaan bluDebit Card?
+Tidak. blu membebaskan biaya permintaan kartu pertama apabila kamu sudah memenuhi jika memenuhi salah satu syarat berikut:
+1. Saldo portfolio minimal Rp500.000
+2. Melakukan transaksi finansial minimal 1x/ bulan dalam 2 bulan terakhir berturut-turut (60 hari kalender) dengan status SUCCESS  
+contoh: jika request kartu tanggal 28 Agustus, maka terdapat minimum 1 transaksi masing-masing selama periode 29 Juli-28 Agustus dan 29 Juni-28 Juli.
+Apabila kamu telah menutup kartu sebelumnya, kamu tetap dapat mengajukan kartu baru dengan biaya Rp 50.000
+
+Apakah saya bisa mendapatkan bebas biaya request bluDebit Card?
+Kamu bisa mendapatkan bebas biaya kartu untuk permintaan bluDebit Card pertama-mu, jika memenuhi salah satu syarat berikut:
+1. Saldo portfolio minimal Rp500.000
+2. Melakukan transaksi finansial minimal 1x/ bulan dalam 2 bulan terakhir berturut-turut (60 hari kalender) dengan status SUCCESS  
+contoh: jika request kartu tanggal 28 Agustus, maka terdapat minimum 1 transaksi masing-masing selama periode 29 Juli-28 Agustus dan 29 Juni-28 Juli.
+Tapi jangan khawatir, saldo ini bisa kamu gunakan setelah proses permintaan bluDebit Card selesai.
+Atau, kamu tetap bisa melanjutkan permintaan bluDebit Card dengan biaya Rp 50.000
+
+Bagaimana cara request bluDebit Card?
+Kalau kamu belum memiliki bluVirtual Card, request bluDebit Card dapat dilakukan aplikasi blu, caranya:Masuk ke Beranda/DashboardPada tab “Kartu”, slide ke arah kiri dan kamu akan menemukan bluDebit CardKlik tombol “Aktifkan”Ajukan aktivasi bluVirtual + bluDebit CardCek fitur bluVirtual + bluDebit Card lalu tap “Request”Baca Syarat dan Ketentuan dengan seksama, lalu pilih 'Lanjut'Pastikan nama yang akan dicetak sudah sesuaiAtur alamat pengiriman, pastikan alamat yang tertera sudah benarKonfirmasi pengajuan bluVirtual dan bluDebit CardInput PIN blu untuk validasiAktivasi bluVirtual Card dan pengajuan bluDebit Card berhasil dilakukanKalau kamu sudah memiliki bluVirtual Card, caranya:Masuk ke Beranda/DashboardPada tab “Kartu”, slide kearah kiri dan kamu akan menemukan bluDebit CardKlik tombol “Request”Ajukan bluDebit CardLihat fitur bluDebit Card lalu tap “Request”Baca Syarat dan Ketentuan dengan seksama, lalu pilih lanjutPastikan nama yang akan dicetak sudah sesuaiAtur alamat pengiriman, pastikan alamat yang tertera sudah benarKonfirmasi pengajuan bluDebit CardInput PIN blu untuk validasiPengajuan bluDebit Card telah berhasil
+
+Apakah saya bisa memilih nama yang dicetak pada bluDebit Card?
+Kamu bisa memilih nama yang dicetak pada bluDebit Card sesuai dengan pilihan nama yang tersedia.
+
+Apakah saya bisa merequest bluDebit Card tanpa harus memiliki bluVirtual Card sebelumnya?
+Untuk saat ini kamu hanya bisa request bluDebit Card secara bersamaan dengan bluVirtual Card, atau hanya merequest bluDebit Card saja ketika kamu sudah memiliki bluVirtual Card sebelumnya.
+
+Berapa banyak bluDebit Card yang dapat saya miliki?
+Kamu hanya dapat memiliki 1 (satu) bluDebit Card aktif.
+
+Bagaimana cara saya menerima bluDebit Card?
+bluDebit Card akan dikirimkan menuju alamat yang kamu pilih melalui aplikasi blu. Cukup menunggu dan bluDebit Card akan dikirimkan padamu! Pastikan alamat pengiriman sudah sesuai yaa...
+
+Apakah ada batas kuota pembuatan bluDebit Card baru?
+Batas kuota harian pembuatan bluDebitCard adalah 1 kartu per hari.Batas kuota bulanan pembuatan kartu adalah 2 kartu per bulan per akun (Limit gabungan antara bluVirtual Card dan bluDebit Card).
+
+Kuota pembuatan kartu baru saya sudah habis, bagaimana cara mendapatkan kembali kuota tersebut?
+Kuota pembuatan kartu baru akan diperbarui pada bulan berikutnya.
+
+Apakah saya dapat melakukan pengecekan pengiriman secara mandiri?
+Tentu saja, kamu dapat melakukan pengecekan pengiriman dan/atau mengambil nomor resi melalui aplikasi blu, caranya:Masuk ke Beranda/DashboardTap button “Lacak Pengiriman“ pada bluDebit CardCek status pengiriman kartumu. Saat ini ada 4 status pengiriman, yaitu:Request DiterimaKartu DicetakKartu DikirimKartu TerkirimDetail status pengiriman dapat kamu lihat melalui link “detail pengiriman” ketika status kartu  dikirim (status 3)Jika terdapat kendala, kamu dapat menghubungi haloblu di sini https://blubybcadigital.id/kontak
+
+Bagaimana cara aktivasi bluDebit Card?
+Aktivasi dapat dilakukan begitu kamu telah menerima bluDebit Card via aplikasi blu, caranya:Masuk ke Beranda/DashboardTap bagian 'Kartu'Geser ke bagian bluDebit CardTap “Lacak Kartu”Tap tombol 'Aktifkan' pada bagian bawah halamanInput 8 digit terakhir nomor bluDebit Card dan lanjutkan dengan validasi PIN bluAccount mu.Atur PIN bluDebit CardAktivasi bluDebit Card telah suksesUntuk keamanan ekstra, kami menyarankan kamu untuk menggunakan PIN bluDebit Card yang berbeda dari PIN login aplikasi blu. PIN bluDebit Card digunakan saat kamu melakukan transaksi offline seperti pada mesin EDC atau ATM.
+
+Apa yang terjadi bila bluDebit Card sudah terkirim, namun saya tidak mengaktifkan bluDebit Card?
+Status bluDebit card kamu akan deactivated dalam jangka waktu 30 hari sejak tanggal kartu diterima, apabila tidak segera mengaktifkan bluDebit Card. Apabila hal itu terjadi dan kamu ingin request bluDebit Card baru, maka kamu akan dikenakan biaya normal sebesar Rp 50.000
+
+Berapa lama waktu yang diperlukan agar bluDebit Card dapat sampai di tangan saya?
+Untuk pengiriman di area Jakarta, Bogor, Depok, Tangerang, dan Bekasi (Jabodetabek) dan tidak terjadi kendala, kamu dapat menerima bluDebit Card paling cepat dalam waktu 2 hari kerja, terhitung dari tanggal pengiriman bluDebit Card.Apabila kamu berada diluar Jabodetabek, maka dapat mengikuti waktu pengiriman yang disesuaikan dengan lokasimu.
+
+Apakah bluDebit Card memiliki waktu kedaluwarsa/expired?
+Tentu, kamu dapat melakukan pengecekan waktu kedaluwarsa/expired bluDebit Card melalui aplikasi blu.
+
+Apa yang terjadi apabila bluDebit Card saya kedaluwarsa/expired?
+Kamu akan menerima notifikasi saat mendekati waktu kartu kedaluwarsa dan kamu dapat mengajukan kartu baru tanpa biaya. Jika melewati masa kedaluwarsa, bluDebit Card akan otomatis tertutup/deactivated.
+
+Dimana saya dapat menemukan CVC dan tanggal kedaluwarsa/expiry date bluDebit Card?
+Angka CVC dan tanggal kedaluwarsa dapat kamu temukan pada menu detail bluDebit Card di dalam aplikasi blu.
+
+Bagaimana cara saya melihat detail bluDebit Card?
+Mudah sekali, kamu dapat melakukan pengecekan detail bluDebit Card melalui aplikasi blu, caranya:Masuk ke Beranda/DashboardTap bluDebit CardTap “Tampilkan Detail Kartu”Input PIN blu kamu atau melalui biometric (Fingerprint / Face ID)Kamu dapat melihat detail bluDebit Card mu
+
+Bagaimana cara melihat riwayat transaksi dari bluDebit Card saya?
+Kamu dapat melihat riwayat transaksi melalui aplikasi blu, caranya:Masuk ke Beranda/DashboardTap bluDebit CardTap icon “…” pada kanan atas layar muTap “Lihat Riwayat Transaksi”Riwayat transaksi telah ditampilkanSelain itu, kamu juga dapat mengunduh/download laporan keuangan, e-statement, dan data pendukung laporan SPT melalui icon “Download” di kanan atas layar riwayat transaksi
+
+Bagaimana cara mengubah PIN bluDebit Card?
+Masuk ke Beranda/DashboardPilih “bluDebit Card”Pilih “ubah PIN kartu”Masukkan PIN blu kamuMasukkan PIN bluDebit Card yang baru lalu konfirmasi ulang PIN baruPIN bluDebit Card-mu berhasiil diubah!
+
+Apakah saya dapat mengatur limit transaksi bluDebit Card?
+Besarnya limit transaksi bluDebit Card dapat kamu lihat pada https://blubybcadigital.id/info/fees-ratesLimit transaksi yang dapat kamu atur melalui aplikasi blu adalah limit transaksi harian yang bisa kamu ubah dengan mengikuti cara berikut:Masuk ke Beranda/DashboardTap bluDebit CardTap “Limit Transaksi”Tap icon edit di kanan atasInput limit harian yang kamu inginkan, simpanInput PIN blu kamu atau melalui biometric (Fingerprint / Face ID)Limit transaksi berhasil diubahSelain limit harian, kamu juga dapat mengatur limit transaksi Contactless. Ini caranya:Masuk ke Beranda/DashboardTap bluDebit CardTap “Kontrol Transaksi”Pastikan button transaksi Contactless sudah menyala, dan kamu bisa tap “Ubah Limit”Setelah ubah, masukan PIN blu kamu atau melalui biometric (Fingerprint / Face ID)Limit transaksi berhasil diubah
+
+Berapa biaya dan limit transaksi bluDebit Card?
+Biaya dan limit transaksi bluDebit Card secara domestik maupun internasional dapat kamu lihat di sini https://blubybcadigital.id/info/fees-rates
+
+Tips untuk menjaga keamanan bluDebit Card
+Kamu dapat menjaga keamanan bluDebit Card dengan:
+
+Tidak menyebarkan data pribadi melalui channel apapun, termasuk PIN (bluAccount maupun bluDebit Card)
+Mengubah PIN secara berkala
+Tidak menggunakan aplikasi blu saat menggunakan Wi-Fi publik
+Melakukan pengecekan mutasi secara berkala untuk melihat adanya transaksi mencurigakan
+Mengatur kontrol transaksi bluDebit Card sesuai dengan keperluan kamu 
+
+Apabila kamu mendapatkan transaksi mencurigakan (menerima atau mengirim uang tanpa sepengetahuanmu), segera hubungi haloblu untuk dilakukan pengecekan dan/atau pengamanan. Sebagai fitur tambahan, kamu juga dapat melakukan blokir secara mandiri bluDebit Card melalui aplikasi blu.
+
+Apa yang perlu saya lakukan bila bluDebit Card saya hilang?
+Kami menyarankan untuk melakukan blokir sementara terlebih dahulu melalui aplikasi blu. Jika bluDebit Card berhasil ditemukan, maka kamu dapat melakukan pembukaan blokir kembali melalui aplikasi blu.Namun jika bluDebit Card-mu hilang dan tidak dapat ditemukan, kami menyarankan untuk melakukan penutupan bluDebit Card melalui aplikasi blu dan kamu dapat mengajukan bluDebit Card yang baru.
+
+Apakah saya dapat melakukan blokir sementara bluDebit Card?
+Tentu, kamu dapat melakukan blokir sementara melalui aplikasi blu, caranya:Masuk ke Beranda/dashboardTap bluDebit CardTap “Blokir Kartu”Tap “Blokir Sementara”,bluDebit Card telah diblokir sementara
+
+Bagaimana cara menutup bluDebit Card?
+Penutupan bluDebit Card dapat kamu lakukan tanpa biaya melalui aplikasi blu, caranya:Masuk ke Beranda/dashboardTap bluDebit CardTap “Blokir Kartu”Tap “Tutup Kartu (Blokir Permanen)”,Berikan alasan penutupan bluDebit Card,Tap “Tutup Kartu”Masukkan PIN blu kamubluDebit berhasil ditutupApabila kamu telah berhasil menutup kartu lama dan mengajukan kartu baru, kamu masih bisa mengajukan kartu kembali kok. Namun pembuatan dan pengiriman akan dikenakan biaya sesuai dengan ketentuan pada halaman berikut https://blubybcadigital.id/info/fees-rates
+
+Jika saya sudah melakukan blokir sementara, apakah saya harus mengajukan bluDebit Card baru?
+Kamu dapat membuka blokir sementara tanpa mengajukan bluDebit Card baru, caranya:Masuk ke Beranda/dashboardTap bluDebit Card (status saat ini: Diblokir)Tap “Buka Blokir”Input PIN blu kamu atau biometric (Fingerprint / Face ID) Status blokir bluDebit Card berhasil dibuka
+
+Apakah saya dapat mengatur transaksi yang diperbolehkan dengan bluDebit Card?
+Kamu dapat mengatur transaksi bluDebit Card melalui aplikasi blu, caranya:Masuk ke Beranda/dashboardTap bluDebit CardTap “Kontrol Transaksi”Terdapat 4 toggle untuk mengaktifkan/menonaktifkan transaksi yang diinginkanTransaksi Domestik OnlineTransaksi Internasional OnlineTransaksi Internasional OfflineTransaksi Contactless
+
+Bagaimana cara melakukan pembayaran online dengan bluDebit Card di merchant online?
+1. Pada halaman pembayaran situs/aplikasi/layanan online, pilih Kartu 'Kredit/Debit'
+2. Masukkan nomor bluDebit Card kamu
+3. Masukkan kode CVC dan masa berlaku 
+4. Lanjutkan pembayaran dengan memasukkan kode One Time Password (OTP) yang akan dikirimkan melalui media berikut: 
+a. Notifikasi ke HP yang terdaftar di blu dan Inbox di aplikasi blu (bebas biaya) untuk OTP pertama dan permintaan kirim ulang OTP kedua; atau 
+b. SMS ke nomor ponsel kamu yang terdaftar di blu (biaya SMS yang dikenakan tergantung provider dalam menggunakan 3DSecure) untuk permintaan kirim ulang OTP ketiga dan keempat 
+Lihat informasi pada halaman merchant untuk mengetahui media pengiriman OTP-mu
+5. Pembayaran yang berhasil akan langsung memotong saldo aktif di bluAccount kamu
+
+Bagaimana cara bertransaksi mengguanakan bluDebit Card menggunakan ATM?
+Masukkan bluDebit Card-mu ke dalam card reader ATM Input PIN bluDebit Card-mu Kamu siap bertransaksi menggunakan bluDebit Card
+
+Bagaimana cara melakukan transaksi bluDebit Card menggunakan EDC?
+Masukkan bluDebit Card-mu ke dalam card reader EDCPastikan nominal transaksi telah sesuaiInput PIN bluDebit Card-muKamu siap bertransaksi menggunakan bluDebit Card
+
+Bagaimana cara melakukan transaksi bluDebit Card menggunakan Contactless?
+Untuk bertransaksi Contactless, kamu hanya perlu tap kartu bluDebit Card-mu pada EDC pada jaringan Mastercard yang terdaftar untuk transaksi Contactless.Pastikan kamu menyalakan pengaturan toggle transaksi Contactless pada aplikasi blu kamu.Apabila akumulasi transaksi harian Contactless melebihi limit yang diatur, atau nominal transaksi kamu melebihi batas maksimal per transaksi, maka transaksi akan ditolak.Untuk saat ini, transaksi contactless bluDebit Card masih belum  bisa digunakan dalam negeri, sesuai dengan peraturan dari Bank Indonesia. Namun, kamu tetap bisa melakukan transaksi EDC seperti biasa kok.
+
+Apa kelebihan menggunakan transaksi contactless?
+Transaksi contactless memungkinkan kamu untuk bertransaksi dengan cepat, aman, dan nyaman karena kamu hanya perlu mendekatkan kartu kamu ke mesin EDC yang digunakan untuk pembayaran.
+
+Apakah transaksi contactless memiliki batas maksimal?
+Transaksi contactless memiliki limit maksimal Rp 1.000.000 per transaksi. Setiap transaksi yang melebihi Rp1.000.000 akan membutuhkan PIN untuk bisa diproses, sehingga uangmu tetap terjaga.
+
+Apakah semua mesin EDC bisa menggunakan transaksi contactless?
+Pastikan merchant tempat kamu bertransaksi menyediakan pembayaran dengan fitur contactless yang ditandai dengan adanya logo contactless (Seperti gelombang sinyal) di mesin EDC.
+
+Apakah saya dapat menonaktifkan fitur contactless?
+Tentu saja, kamu dapat menonaktifkan fitur contactless pada halaman kontrol transaksi bluDebit Card kamu melalui langkah berikut: Masuk ke halaman bluDebit Card kamuKlik menu Kontrol TransaksiKlik tombol toggle pada ContactlessTransaksi contactless kamu berhasil di non-aktifkan
+
+Mengapa saya tidak dapat melakukan transaksi contactless?
+Transaksi contactless kamu tidak dapat diproses apabila:Kamu sudah melebihi limit contactless harian kamuKamu melebihi limit Rp 1.000.000 per transaksi (Namun masih bisa dilanjutkan dengan memasukkan PIN)Terminal yang kamu gunakan tidak logo contactless yang berbentuk seperti gelombang sinyalSaldo kamu tidak mencukupiToggle transaksi contactless dan transaksi internasional offline pada aplikasi blu kamu non-aktif
+
+Mengapa rekening saya hanya terdebet dengan nominal ekuivalen / sama dengan 0.1 atau 1 dolar saat saya melakukan tap Contactless pada transportasi umum di luar negeri?
+Beberapa transportasi umum di luar negeri (contoh: MRT / Bus) melakukan penagihan dalam bentuk akumulasi beberapa transaksi dalam satu tagihan. Tap pertama akan mengenakan biaya authorization fee untuk validasi penggunaan kartu debit. Biaya authorization fee berkisar 0.1 sampai 1 dolar atau dalam mata uang lain yang berlaku.
+
+Mengapa dana di rekening saya belum terdebit sejumlah pemakaian transportasi umum dengan tap Contactless di luar negeri?
+Beberapa transportasi umum di luar negeri (e.g. MRT / Bus) melakukan penagihan dalam bentuk akumulasi beberapa transaksi dalam satu tagihan. BCA Digital akan mendebit rekening nasabah sampai dengan 14 hari kerja sejak pemakaian, atau ketika tercapai jumlah minimum pemakaian yang telah ditentukan oleh perusahaan transportasi umum.
+
+Apa penyebab saya gagal melakukan pembayaran online?
+Pastikan jaringan tempat kamu bertransaksi tidak mengalami kendala, dan kamu memiliki saldo bluAccount dan limit kartu yang mencukupi untuk melakukan transaksi.
+
+Apakah OTP akan diterima untuk semua transaksi di e-commerce / toko online?
+Tidak, hanya di merchant yang menggunakan fitur 3D Secure (3DS) dengan logo Mastercard SecureCode yang mewajibkan penggunaan OTP
+
+Bagaimana jika kode One Time Password (OTP) yang dikirim via SMS ke handphone tidak diterima?
+Agar dapat menerima kode OTP via SMS, pastikan:Perangkatmu memiliki sinyal dan terdapat pulsa yang cukup.Apabila kamu bertransaksi saat berada di luar negeri, aktifkan roaming untuk mendapatkan OTP melalui SMS.Menyalakan toggle SMS premium pada aplikasi provider seluler kamu.Kamu dapat mengirim ulang kode OTP dengan menekan tombol kirim ulang kode OTP yang ada di halaman pembayaran pada e-commerce / toko online.
+
+Apakah saya masih dapat menerima kode OTP ketika berada di luar negeri?
+Ya, OTP akan dikirim ke nomor handphone yang terdaftar di aplikasi blu. Pastikan perangkatmu terhubung ke jaringan telekomunikasi setempat sehingga nomor handphone tersebut tetap dapat menerima SMS.
+
+Apakah saya dapat mengubah nomor handphone untuk menerima kode OTP?
+Perubahan nomor handphone untuk menerima kode OTP akan mengubah nomor handphone yang terdaftar pada aplikasi blu. Perubahan nomor handphone dapat dilakukan pada aplikasi blu melalui Pengaturan di bagian Info Kontak.
+
+Bagaimana jika pembayaran saya tertolak karena akun saya dormant?
+Akun dormant terjadi ketika nasabah tidak melakukan aktivitas (transaksi atau login) selama 12 bulan berturut-turut, dan semua transaksi akan ditolak. Untuk mengaktifkan akun kamu kembali, ikuti langkah berikut:Login ke aplikasi blu / klik push notification transaksi gagal karena akun dormantKlik “Aktifkan” pada layar yang munculMasukkan PIN blu kamuAkun kamu sudah aktif dan bisa bertransaksi dengan normal
+
+Apa yang harus saya lakukan jika saya mengalami kendala dengan bluDebit Card?
+Jika terdapat kendala, silakan hubungi haloblu di 1500668.
+
+Bagaimana cara melihat rincian biaya transaksi setiap perjalanan (satu rute tap in & out) pada transportasi umum luar negeri?
+Setiap perusahaan transportasi umum menerapkan peraturan akumulasi biaya perjalanan dan informasi ke pelanggan yang berbeda. Nasabah disarankan untuk menggunakan aplikasi masing-masing perusahaan transportasi (jika ada) atau menghubungi customer care perusahaan transportasi untuk menerima informasi rincian biaya setiap perjalanan. Sehingga, pastikan untuk tetap menjaga saldo di rekening sesuai dengan biaya perjalanan sampai dengan pendebitan berhasil (sampai dengan 14 hari kerja setelah transaksi dilakukan)
+
+Bagaimana cara melihat kode OTP melalui notifikasi aplikasi blu?
+Pengiriman OTP pertama dan permintaan kirim ulang OTP kedua bisa dicek melalui:1. Notifikasi blu di HP-mu yang digunakan untuk bertransaksi menggunakan blu (tanpa perlu login ke aplikasi blu)2. Melalui inbox di aplikasi blu.Berikut cara mengakses OTP di Inbox blu:- Login aplikasi blu- Pilih Inbox (klik ikon lonceng di sudut kanan atas Dashboard blu)- Pilih 'Notifikasi'
+
+Bagaimana jika saya tidak menerima kode OTP yang dikirim melalui notifikasi aplikasi blu?
+Agar OTP bisa diterima melalui notifikasi aplikasi blu, pastikan:Informasi pada halaman konfirmasi merchant adalah 'Kode Otentifikasi telah dikirim melalui notifikasi ke HP/Inbox di aplikasi blu kamu.'Fitur notifikasi untuk aplikasi blu sudah aktif di HP-mu.Jika kamu tidak menemukan notifikasi di HP, coba untuk login ke blu untuk melihat notifikasi di Inbox (ikon lonceng di sudut kanan atas Dashboard blu)Kamu bisa mengirim ulang kode OTP dengan menekan tombol 'Kirim Ulang Kode Otentikasi' yang ada di halaman pembayaran pada e-commerce/toko online. Permintaan ulang OTP ke-2 akan dikirimkan melalui notifikasi, sedangkan permintaan ulang OTP ke-3 dan ke-4 akan dikirim melalui SMS.
+
+Bagaimana jika pembayaran saya tertolak karena akun saya dormant?
+Akun dormant terjadi ketika nasabah tidak melakukan aktivitas (transaksi atau login) selama 12 bulan berturut-turut, dan semua transaksi akan ditolak. Untuk mengaktifkan akun kamu kembali, ikuti langkah berikut:Login ke aplikasi blu / klik push notification transaksi gagal karena akun dormantKlik “Aktifkan” pada layar yang munculMasukkan PIN blu kamuAkun kamu sudah aktif dan bisa bertransaksi dengan normal
+
+Kapan fitur request bluDebit dapat diakses?
+Silakan cek fitur request bluDebit Card di aplikasi blu secara berkala, ya.
+
+Saya sudah request bluDebit sebelumnya namun belum sampai, apakah permintaan saya akan diproses?
+Bila kamu sudah mengajukan request bluDebit sebelumnya, tidak perlu khawatir karena permintaan kamu pasti akan diproses. Namun karena banyaknya permintaan, proses produksi dan pengiriman kartu mungkin sedikit mengalami keterlambatan, jadi mohon dapat bersabar ya.
+
+Apa Itu MRT-J x blu?
+MRT-J x blu adalah kolaborasi antara MRT-J dan blu dalam bentuk layanan perbankan di dalam aplikasi MRT-J untuk memudahkan customer MRT-J dan nasabah blu dalam bertransaksi di MRT-J.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan MRT-J x blu?
+Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia MRT-J , cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu.Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi MRT-J.Promo-promo menarik dari MRT-J x blu
+
+Fitur apa saja yang bisa digunakan di MRT-J x blu?
+Saat ini, kamu bisa menggunakan MRT-J x blu untuk:Buka rekening bluMenghubungkan blu ke MRT-J (linkage)In App Payment (menggunakan blu sebagai metode pembayaran tiket di MRT-J)
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi MRT-J?
+Kamu harus menghubungkan akun blu pada aplikasi MRT-J. Untuk menghubungkan akun, nomor handphone yang digunakan di blu dan MRT-J harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi MRT-J ataupun nomor handphone yang terdaftar di blu.
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi MRT-J yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi MRT-J pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi MRT-J?
+Cek dulu yuk, ini beberapa kemungkinan yang bisa terjadi:Akun blu kamu terblokir, baik karena kamu salah memasukkan password atau karena alasan tertentu yang ditentukan BCA DigitalPulsa kamu tidak cukup untuk menerima kode OTP.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Mengapa saya tidak dapat melanjutkan pembayaran dengan blu, padahal akun blu saya sudah terhubung dengan aplikasi MRT-J?
+Ini beberapa kemungkinan yang bisa jadi penyebab hal tersebut:Saldo blu tidak mencukupi untuk melakukan pembayaran,Akun kamu terblokir,Kamu belum melakukan registrasi nomor handphone pada akun MRT-J kamu,Kamu sudah mencapai batas maksimal untuk seluruh transaksi per hari, atauKamu sudah mencapai batas maksimal untuk satu transaksi per hari,Untuk mengetahui batas limit transaksi blu, silakan kunjungi page : blu.id/fees-ratesRekening kamu berstatus Dormant / Tidak pernah melakukan transaksi selama 6 bulan. Segera login ke aplikasi blu, dan jalankan transaksi keluar sebanyak 1x yaPunya pertanyaan lebih lanjut? Hubungi tim haloblu di 1500668 yang akan senang membantu.
+
+Berapa batas minimum dan maksimum nominal transaksi di MRT-J yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Bagaimana jika saya sudah melakukan pembayaran dengan blu, tapi saya berubah pikiran dan ingin melakukan refund transaksi?
+Pihak MRT-J akan mengembalikan dana sesuai ketentuan yang berlaku ke akun yang ditunjuk pihak MRT-J.
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+1. Klik 'Lupa password'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi MRT-J    dengan pembayaran menggunakan In App Payment blu (pembayaran tiket di MRT-J menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di MRT-J    bisa dicek di menu My MRT-J maupun Riwayat Transaksi di Dashboard blu.
+
+Apa Itu ITHB x blu?
+ITHB x blu  adalah kolaborasi antara ITHB  dan blu dalam bentuk layanan perbankan di dalam aplikasi ITHB  untuk memudahkan customer ITHB  dan nasabah blu dalam bertransaksi di ITHB.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan ITHB x blu?
+Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia ITHB , cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu.Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi ITHB.Promo-promo menarik dari ITHB x bluTetap mendapatkan promosi transaksi yang ada di aplikasi blu (Misal ada promo QRIS di blu, maka pengguna ITHB x blu  tetap mendapatkan promo yang sama)
+
+Fitur apa saja yang bisa digunakan di ITHB x blu ?
+Saat ini, kamu bisa menggunakan ITHB x blu untuk:Buka rekening bluMenghubungkan blu ke ITHB (linkage)Bertransaksi menggunakan QRISTransfer ke sesama blu & bank lain (LLG, Online, BI Fast, RTGS) di dalam bluBertransaksi menggunakan BCA Virtual AccountTarik tunai dan setor tunai di ATM BCA di seluruh Indonesia di dalam bluIn App Payment (menggunakan blu sebagai metode pembayaran biaya kuliah di ITHB)Menabung di bluSaving dan bluGetherMembuka deposito di bluDepositMelakukan top-up E-Money di dalam blu di aplikasi ITHBMengirimkan atau menerima kartu ucapan saat kirim dana dengan bluGiftMengecek Riwayat Transaksi blu di dalam blu di aplikasi ITHB.
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi ITHB ?
+Kamu harus menghubungkan akun blu pada aplikasi ITHB. Untuk menghubungkan akun, nomor handphone yang digunakan di blu dan ITHB harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi ITHB  ataupun nomor handphone yang terdaftar di blu.
+
+Saya customer ITHB  namun belum punya rekening blu, apa yang harus saya lakukan?
+Klik icon blu pada aplikasi ITHB , lalu ikuti proses pembukaan rekening blu, mudah kok!
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi ITHB  yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi ITHB  pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi ITHB ?
+Cek dulu yuk, ini beberapa kemungkinan yang bisa terjadi:Akun blu kamu terblokir, baik karena kamu salah memasukkan password atau karena alasan tertentu yang ditentukan BCA DigitalPulsa kamu tidak cukup untuk menerima kode OTP.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Mengapa saya tidak dapat melanjutkan pembayaran dengan blu, padahal akun blu saya sudah terhubung dengan aplikasi ITHB ?
+Ini beberapa kemungkinan yang bisa jadi penyebab hal tersebut:Saldo blu tidak mencukupi untuk melakukan pembayaran,Akun kamu terblokir,Kamu belum melakukan registrasi nomor handphone pada akun ITHB kamu,Kamu sudah mencapai batas maksimal untuk seluruh transaksi per hari, atauKamu sudah mencapai batas maksimal untuk satu transaksi per hari,Untuk mengetahui batas limit transaksi blu, silakan kunjungi page : blu.id/fees-ratesRekening kamu berstatus Dormant / Tidak pernah melakukan transaksi selama 6 bulan. Segera login ke aplikasi blu, dan jalankan transaksi keluar sebanyak 1x yaPunya pertanyaan lebih lanjut? Hubungi tim haloblu di 1500668 yang akan senang membantu.
+
+Berapa batas minimum dan maksimum nominal transaksi di ITHB  yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Bagaimana jika saya sudah melakukan pembayaran dengan blu, tapi saya berubah pikiran dan ingin melakukan refund transaksi?
+Pihak ITHB akan mengembalikan dana sesuai ketentuan yang berlaku ke akun yang ditunjuk pihak ITHB.
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus aku lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+1. Klik 'Lupa password'2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa PIN transaksi akun blu, apa yang harus saya lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik 'Ubah PIN aplikasi'2. Klik 'Lupa PIN'3. Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi ITHB  dengan pembayaran menggunakan In App Payment blu (pembayaran biaya kuliah di ITHB  menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di ITHB  bisa dicek di menu My ITHB  maupun Riwayat Transaksi di Dashboard blu.
+
+Di mana saya dapat melihat riwayat transaksi ITHB  dengan pembayaran menggunakan QRIS di aplikasi blu?
+Riwayat transaksi dengan QRIS bisa dicek di aplikasi blu kamu.Kamu juga bisa mengecek riwayat transaksi QRIS di Dashboad blu di aplikasi ITHB.
+
+Saya ingin memutus koneksi blu dengan aplikasi ITHB , bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi ITHB, ikuti langkah berikut:1. Pilih icon blu yang ada di bawah2. Login ke dalam ITHB x blu lalu ke halaman pengaturan3. Pilih menu “Stop Hubungkan Akun”4. Pada pop up konfirmasi pilih “Stop Hubungkan Akun”5. Akun blu berhasil diputus dari ITHB
+
+Bagaimana cara redeem kode voucher PUBG Mobile?
+1. Kunjungi laman midasbuy www.midasbuy.com/midasbuy/id/buy?appid=1450015065#getInfo2. Klik tombol Redeem/Tukar pada bagian atas kanan halaman3. Masukkan ID akun game PUBG kamu dan klik OK4. Masukan Kode Redeem yang telah kamu beli ke dalam kolom “Redeem Gifts” yang telah tersedia5. Klik “OK” pada halaman konfirmasi yang muncul dan UC akan terkirim secara otomatis kedalam akun PUBG Mobile kamu
+
+Bagaimana jika terjadi kendala dalam pembelian Game Voucher PUBG Mobile di blu?
+Apabila pilihan PUBG Mobile tidak muncul di aplikasi blu, kemungkinan blu sedang melakukan maintance system.Jika kamu sudah mendapatkan kode voucher PUBG Mobile, namun gagal saat input/redeem di dalam aplikasi Mobile Legends, kamu bisa menghubungi call center PUBG Mobile untuk melaporkan kendala.
+
+Apa itu bluInsurance?
+bluInsurance adalah fitur di blu yang menyediakan berbagai produk asuransi untuk kebutuhan proteksi nasabah, mulai dari asuransi jiwa berjangka, dan asuransi kecelakaan diri
+
+Siapa partner blu untuk produk bluInsurance?
+Saat ini blu bekerja sama dengan BCA Life sebagai mitra penyedia asuransi
+
+Apakah nasabah memiliki masa untuk mempelajari polis (Free Look Period) ?
+Nasabah mempunyai waktu 14 hari kerja dari Polis Elektronik (e-Policy) diterima di email yang didaftarkan
+
+Apakah ada masa tunggu untuk pengajuan manfaat asuransi?
+Tidak ada masa tunggu sejak tanggal mulai asuransi yang tertera di Polis Elektronik (e-Policy)
+
+Bagaimana cara untuk mengajukan klaim asuransi?
+Mengunduh formulir klaim di website bcalife.co.id pada bagian formulir klaim asuransi.Mengisi formulir klaim dan melengkapi bukti dokumen klaim dengan benar dan lengkap serta menyerahkan dokumen klaim sesuai ketentuan yang tercantum dalam Polis kepada Layanan Nasabah BCA Life sesuai yang tertera di syarat dan ketentuan
+
+Bagaimana jika saya ada pertanyaan lebih lanjut mengenai fitur bluInsurance ?
+Sampaikan pertanyaanmu ke haloblu melalui telepon di 1500 668, Twitter @haloblu, dan email haloblu@bcadigital.co.id
+
+Apa itu bluLoyalty?
+bluLoyalty adalah program loyalty special untuk sobatblu dengan berbagai benefit sesuai dengan level-level yang didapatkan berdasarkan saldo rata-rata portofolio kamu.
+
+Apa itu bluRewards?
+bluRewards adalah rewards untuk sobatblu yang bisa didapatkan dengan menjaga saldo rata-rata portofolio sesuai dengan level bluLoyalty. bluRewards akan secara otomatis berlaku dari tanggal 1 bulan pertama s/d tanggal 1 bulan ke-2 (Bulanan) setelah perhitungan saldo rata-rata portofolio tiap bulannya (tanpa bunga dan pajak bunga). bluRewards akan diperbarui pada tanggal 1 setiap bulannya. Sebelum pembaruan dilakukan, Nasabah masih dapat menggunakan kuota bluRewards bulan sebelumnya (jika masih ada).
+
+Ada berapa level program bluLoyalty dan apa saja benefitnya?
+Ada 4 level bluLoyalty, yaitu: bluNewbie, bluPro, bluGrande, dan bluElite.RewardsbluNewbiebluProbluGrandebluEliteBebas Biaya Transfer ke Rekening BCA (BI-FAST)UnlimitedUnlimitedUnlimitedUnlimitedBebas Biaya Transfer BI-FAST/LLG ke Bank Lain*10x20x50x100xBebas Biaya Setor Tunai/ Tarik Tunai Tanpa Kartu di ATM BCA1x2x5x10xBebas Biaya Tarik Tunai dengan Kartu di ATM BCABebas Biaya Top Up E-Money/ Flazz**010x10x10xCashback 25% untuk Transaksi QRIS***01x1x1xCashback 25% untuk Transaksi bluVirtual Card/ bluDebit Card***01x1x1xKeterangan:*) Transfer Antar Bank selain melalui BI-FAST/LLG dikenakan biaya normal (penerapan biaya normal termasuk pada saat layanan BI-FAST/LLG mengalami kendala)**) Akumulasi kuota untuk Flazz dan semua E-Money (OVO, GoPay, DANA, ShopeePay, LinkAja)***) Maksimal Cashback Rp2.500 per transaksi
+
+Bagaimana cara melihat level bluLoyalty saya saat ini?
+Kamu bisa melihat levelmu di kiri atas halaman utama aplikasi blu tepat di sebelah Profile Picture.Level bluLoyalty juga bisa dicek di halaman pengaturan blu dengan nama bluLoyalty.
+
+Apakah level bluLoyalty saya bisa turun?
+Level bluLoyalty bisa turun jika kamu tidak mempertahankan saldo rata-rata portofolio kamu sesuai dengan level yang kamu inginkan.
+
+Bagaimana cara menaikkan level bluLoyalty saya?
+Kamu bisa menaikkan level bluLoyalty kamu dengan cara menambahkan saldo rata-rata portofolio kamu sesuai dengan level yang kamu inginkan.
+
+bluRewards di program bluLoyalty ini berlaku dari kapan?
+Keseluruhan bluRewards pada program bluLoyalty dimulai dari 1 Maret hingga 31 Desember 2024.
+
+Mengapa terdapat perubahan penyesuaian pada bluRewards?
+Perubahan penyesuaian bluRewards pada program bluLoyalty ini dilakukan untuk memberikan reward yang bervariatif pada Nasabah setia blu agar dapat menikmati bluRewards di masing-masing level bluLoyalty.
+
+Apa syarat yang harus diikuti Nasabah untuk bisa mendapatkan bluRewards?
+Nasabah harus menjaga saldo rata-rata sesuai level bluLoyalty yang diinginkan untuk mendapatkan bluRewards sesuai level-level berikut.Program bluLoyaltybluNewbiebluProbluGrandebluEliteSyarat saldo rata-rata portofolioRp0,- s.d Rp1.000.000,-Rp1.000.001,- s.d Rp 10.000.000,-Rp10.000.001,- s.d Rp 50.000.000,-> Rp 50.000.000,-
+
+Bagaimana cara untuk mengetahui saldo rata-rata?
+Saldo portofolio rata-rata bisa dicek di Insight pada aplikasi blu.
+
+Saya Nasabah baru, saya berada di level mana?
+Kamu akan berada di level bluPro dan bisa menikmati benefit yang ada pada level bluPro selama 2 (dua) bulan pertama dari bulan pembukaan rekening kamu.Contoh:Jika kamu melakukan pembukaan rekening pada tanggal 1 Juni, makan kamu dapat memakai reward s/d 31 Juli Jika kamu melakukan pembukaan rekening tanggal 25 Juni, maka kamu dapat memakai benefit s/d 31 JuliJika pada bulan ke 2 (dua) pembukaan rekening saldo rata-rata portofolio kamu di atas Rp 10.000.000, maka kamu berhak berada di level bluGrande/bluElite sesuai dengan saldo rata-rata portofolio kamu sehingga kamu bisa menggunakan benefit yg ada di level bluGrande/bluElite
+
+Apa itu bluBisnis?
+bluBisnis adalah rekening di blu yang bertujuan memisahkan rekening personal dan bisnis pengguna blu. Untuk memiliki bluBisnis, kamu harus memiliki rekening bluAccount terlebih dulu.
+
+Berapa account bluBisnis yang bisa dibuka di blu?
+Kamu hanya bisa membuat 1 rekening bluBisnis
+
+Apa keistimewaan bluBisnis?
+Account bluBisnis ditujukan untuk para pebisnis. Selain untuk memisahkan dan mengatur keuangan bisnis, pengguna juga bisa melakukan transaksi langsung dengan rekening bisnis sehingga keuangan lebih rapi. Selain itu ada juga fasilitas business tools bekerja sama dengan partner terpercaya yang akan membantu para pebisnis untuk mengembangkan usaha mereka dari sisi branding, accounting dan berbagai fasilitas tools bisnis lainnya.
+
+Apa syarat dokumen untuk membuka bluBisnis?
+Tidak perlu ada tambahan dokumen. Cukup buka dan validasi datamu, lalu lanjutkan prosesnya sampai selesai.
+
+Apakah dana di bluBisnis bisa digunakan untuk transfer dan bertransaksi?
+Rekening bluBisnis bisa digunakan untuk menerima transaksi masuk dan dijadikan sebagai sumber dana untuk melakukan transaksi keluar.
+
+Apakah ada biaya admin di bluBisnis?
+Nasabah tidak akan dikenakan Biaya Administrasi pada 2 (dua) bulan pertama sejak rekening bluBisnis dibuka dan baru mulai dikenakan pada bulan ke-3 (ketiga) dan seterusnya. Namun, saat ini masih berlaku promo bebas biaya admin hingga September 2024.
+
+Bagaimana cara Pindah Dana dari bluAccount ke bluBisnis
+Melalui Opsi 'Pindah Dana' dari bluAccount/bluBisnis1. Masuk ke bagian bluAccount / bluBisnis di Dashboard blu2. Klik Pindah Dana3.Pindahkan dana sesuai keinginan ke bluBisnis4. Jika ingin memindahkan dana dari bluBisnis, pilih tombol reverse di antara bluAccount dan bluBisnis.
+
+Bagaimana tiering bunga bluBisnis?
+Suku bunga bluBisnis saat ini 0.5% jika saldo bluBisnis Rp 5 juta sampai < Rp 50 juta. Jika saldo bluBisnis  >= Rp 50 juta maka akan mendapatkan bunga 1.5% Bunga akan dikreditkan ke bluBisnis setiap akhir bulan dari bulan yang bersangkutan.Jika kamu melakukan penutupan bluBisnis sebelum tanggal 1, kamu tidak akan mendapat bunga proporsional bulan berjalan.
+
+Kenapa ada beberapa fitur yang tidak menggunakan blunBisnis sebagai sumber dana?
+Fitur bluBisnis untuk transaksi yang lebih lengkap sedang kami persiapkan ya. Ditunggu kehadirannya.
+
+Apa itu email Penawaran SPESIAL Nasabah bluBisnis?
+Email yang akan kamu dapatkan ketika pertama kali membuka bluBisnis.Email ini berisi promo-promo partner untuk Nasabah bluBisnis, sehingga bisa menunjang kebutuhan bisnis kamu!
+
+Berapa limit transaksi bluBisnis?
+Untuk limit global dan limit transaksi bluBisnis akan sharing dengan bluAccount.
+
+Bagaimana cara menutup bluBisnis?
+bluBisnis saat ini hanya bisa ditutup melalui aplikasi blu oleh Nasabah sendiri. Setelah itu, kamu tidak membuka bluBisnis lagi selama 90 hari sejak penutupan :(
+
+Bagaimana cara top up Flazz melalui blu?
+Pastikan Flazz yang kamu punya adalah Flazz Gen 2Pilih menu Flazz yang bisa diakses melalui shortcut di Dashboard bluTempelkan kartu Flazz ke area NFC handphone kamuMuncul tampilan saldo Flazz kamu dan nomor kartu flazz kamu, lalu klik ‘Top Up’Pilih nominal atau masukkan nominal, lalu klik ‘Lanjut’Cek kembali no kartu Flazz dan nominal di halaman Konfirmasi sebelum klik ‘Bayar’Selesaikan transaksi dengan memasukkan PINTempelkan kembali kartu Flazz untuk cek saldomu
+
+Jika Flazz saya adalah Flazz gen 1, apakah saya bisa melakukan top up Flazz melalui blu?
+Tidak bisa. Jika Flazz kamu adalah Flazz gen 1, maka ketika kamu berhasil menempelkan kartu Flazz milik kamu, hanya akan muncul informasi saldo yang ada di kartu Flazz milik kamu
+
+Saldo tabungan saya sudah terdebet namun tidak berhasil melakukan top up Flazz, apa yang harus saya lakukan?
+Jika saldo kamu terdebet namun saldo kartu flazz kamu tidak bertambah, segera hubungi haloblu untuk dilakukan investigasi. Lengkapi data berupa:Bukti pembayaran berhasil di aplikasi blu.Nomor kartu Flazz yang bermasalah.Screenshot history transaksi top up Flazz (saat ini hanya dapat diperoleh melalui aplikasi BCA Mobile)
+
+Mengapa saya dikenakan biaya ketika saya melakukan top up Flazz?
+Kamu   bisa  melakukan pengecekan kuota  top up Flazz kamu di   halaman bluLoyalty dengan mengklik  level bluLoyalty kamu  pada Dashboard aplikasi blu. Jika   kuota masih ada  dan kamu dikenakan biaya  top up Flazz, kamu bisa menghubungi blu di   1500668 untuk dilakukan pengecekkan.
+
+Bagaimana cara mendapatkan kuota gratis top up Flazz?
+Kamu bisa meningkatkan saldo  rata-rata portfolio kamu per bulan  minimal Rp 1 Juta
+
+Di mana saya dapat  melihat  total kuota  top up Flazz  saya?
+Kamu   bisa melihat  total kuota  top up Flazz kamu di   halaman bluLoyalty dengan mengklik  level bluLoyalty kamu  pada Dashboard aplikasi blu
+
+Kapan saya dikenakan  biaya  top up Flazz?
+Kamu akan dikenakan biaya  top up Flazz  saat kuota  top up Flazz kamu  sudah habis
+
+Siapa saja yang berhak mendapatkan kuota top up Flazz?
+Yang   berhak mendapatkan kuota  top up Flazz adalah sobatblu  yang mempunyai saldo  rata-rata portfolio per bulan di   atas Rp 1 Juta, yaitu sobatblu dengan  level bluPo, bluGrande  dan bluElite
+
+Apakah yang dimaksud dengan fitur Transaksi Tanpa PIN?
+Transaksi Tanpa PIN adalah fitur di blu yang bisa buat bertransaksi tanpa perlu memasukkan PIN! Kamu jadi bisa transaksi di blu lebih mudah dan cepat.
+
+Apakah saya dapat mengatur sendiri berapa limit transaksi untuk fitur Transaksi Tanpa PIN?
+Bisa dong! Kamu dapat mengatur berapa nominal limit untuk dapat bertransaksi tanpa PIN melalui menu Pengaturan di aplikasi blu, dengan catatan selama nominal tersebut masih di bawah limit maksimal yang telah ditentukan oleh blu yaa
+
+Apakah fitur Transaksi Tanpa PIN sudah otomatis aktif?
+Tidak. Kamu perlu mengaktifkannya terlebih dahulu melalui menu Pengaturan di aplikasi blu supaya bisa aktif
+
+Apakah terdapat biaya untuk dapat menggunakan fitur Transaksi Tanpa PIN?
+Tentunya tidak, fitur ini spesial hanya untuk kamu, tanpa biaya!
+
+Apakah fitur Transaksi Tanpa PIN aman?
+Untuk memastikan keamanan dalam penggunaan fitur ini, pastikan selalu menjaga kerahasiaan data kamu yah! Seperti password, PIN, OTP dan data lainnya untuk memastikan akun blu kamu hanya dapat diakses oleh kamu sendiri.
+
+Apa yang harus saya lakukan jika saya mengalami kendala dalam menggunakan fitur Transaksi Tanpa PIN?
+Jika kamu mengalami kendala, tim haloblu siap membantu melalui telepon di 1500668.Selain itu, kamu juga bisa menghubungi haloblu melalui:Email: haloblu@bcadigital.co.idTwitter: @halobluWhatsApp blu by BCA Digital: 0811-6500-668Call haloblu via Aplikasi Halo BCA (klik icon BCA Digital dari dalam aplikasi)
+
+Bagaimana cara menyalakan autodebit saya untuk membeli produk investasi secara rutin di Moduit dengan blu?
+Untuk menyalakan fitur autodebit Moduit x blu, kamu bisa ke menu Strategi. 1. Pilih produk investasi dan nominal yang ingin kamu beli secara rutin2. Tentukan tanggal disiplin atau tanggal pendebitan untuk membeli produk ini secara rutin3. Pilih metode pembayaran dengan fitur autodebit Moduit x blu4. Masukkan kode OTP dari Moduit 5. Disiplin dengan fitur autodebit Moduit x blu berhasil diaktifkanPastikan akun blu kamu sudah terhubung di Moduit sebelum menggunakan fitur ini ya...
+
+Bagaimana cara mematikan autodebit saya karena saya sudah tidak mau lagi didebit?
+Sedih deh, kalau bisa jangan ya. Tapi, bagi kamu yang mau mematikan metode pembayaran autodebit blu, ikuti langkah berikut: 1. Masuk ke menu Strategi2. Pilih Moduit Disiplin yang kamu ingin hapus3. Pada halaman Detail Disiplin, klik Pengaturan 4. Klik "Hapus Disiplin"5. Pada pop up konfirmasi pilih "Hapus''6. Moduit Disiplin dengan metode pembayaran dengan fitur autodebit Moduit x blu berhasil dihapus
+
+Dari mana saya bisa mengetahui info kapan saya akan didebit?
+Untuk jadwal autodebit akan mengikuti waktu pembayaran yang telah kamu tentukan di Aplikasi & Website Moduit
+
+Kenapa autodebit saya gagal dijalankan?
+Autodebitmu akan gagal apabila hal berikut tidak terpenuhi:1. Kamu belum menghubungkan akun blu dan menyetujui consent pemberian kuasa autodebit melalui aplikasi Moduit2. Saldo rekeningmu tidak cukup pada saat autodebit tersebut dijalankan3. Status akun kamu tutup atau tidak aktif
+
+Apa yang terjadi apabila autodebit saya gagal dijalankan?
+Apabila autodebitmu gagal dijalankan, maka artinya pembelian produk investasi dari Moduit belum sukses dibayarkan.
+
+Dari mana saya bisa mengetahui autodebit saya sukses dijalankan?
+Untuk mengetahui status autodebit, kamu bisa mengecek riwayat transaksi saat menggunakan blu di Moduit bisa di menu Riwayat Moduit maupun Riwayat Transaksi yang dapat diakses melalui Menu Tracker pada aplikasi blu.
+
+Apa itu BAF x blu ?
+BAF x blu  adalah kolaborasi antara BAF dan blu dalam bentuk layanan perbankan di dalam aplikasi BAF Mobile untuk memudahkan customer BAF dan nasabah blu dalam bertransaksi di BAF Mobile.
+
+Apa benefit yang bisa didapatkan sobatblu jika menggunakan BAF x blu?
+1. Aplikasi untuk semua kebutuhanmu – bagi pelanggan setia BAF, cukup menggunakan 1 aplikasi dapat menggunakan transaksi perbankan blu.2. Kemudahan pembayaran – kemudahan melakukan pembayaran dengan akun blu yang telah terkoneksi pada aplikasi BAF Mobile .3. Mendapatkan promo-promo menarik dari BAF x blu 4. Tetap mendapatkan promosi transaksi yang ada di aplikasi blu (Misal ada promo QRIS di blu, maka pengguna BAF x blu  tetap mendapatkan promo yang sama)
+
+Fitur apa saja yang bisa digunakan di BAF x blu?
+Saat ini, kamu bisa menggunakan BAF x blu untuk:· Buka rekening blu· Menghubungkan blu ke BAF (linkage)· Bertransaksi menggunakan QRIS. Transfer ke sesama blu & bank lain (LLG, Online, BI Fast, RTGS) di dalam blu . Bertransaksi menggunakan BCA Virtual Account . Tarik tunai dan setor tunai di ATM BCA di seluruh Indonesia di dalam blu · Mengecek Riwayat Transaksi blu di dalam blu di aplikasi BAF  · Menabung di bluSaving dan bluGether. Melakukan top-up e-money dalam blu di aplikasi BAF  . Mengirimkan atau menerima kartu ucapan saat kirim dana dengan bluGift . Melakukan top-up e-money dalam blu di aplikasi BAF  · In App Payment (menggunakan blu sebagai metode pembayaran angsuran di BAF Mobile)
+
+Bagaimana cara menggunakan blu sebagai metode pembayaran di aplikasi BAF Mobile?
+Kamu harus menghubungkan akun blu pada aplikasi BAF Mobile. Untuk menghubungkan akun, nomor handphone yang digunakan di blu dan BAF harus sama.Jika nomor handphone kamu berbeda, kamu dapat melakukan penggantian nomor handphone pada aplikasi BAF Mobile ataupun nomor handphone yang terdaftar di blu.
+
+Saya customer BAF namun belum punya rekening blu, apa yang harus saya lakukan?
+Klik icon blu Aktivasi Sekarang pada aplikasi BAF Mobile, lalu ikuti proses pembukaan rekening blu, mudah kok!
+
+Apa saya bisa menghubungkan akun blu dengan aplikasi BAF Mobile yang sudah saya download di beberapa device?
+Kamu hanya bisa menghubungkan akun blu dengan aplikasi BAF Mobile pada 1 (satu) device dan harus dengan nomor handphone yang sama.
+
+Kenapa saya gagal menerima kode OTP? Padahal nomor yang aktif dan terdaftar di blu sama dengan di aplikasi BAF Mobile.
+Cek dulu yuk, ini beberapa kemungkinan yang bisa terjadi:· Akun blu kamu terblokir, baik karena kamu salah memasukkan password atau karena alasan tertentu yang ditentukan BCA Digital· Pulsa kamu tidak cukup untuk menerima kode OTP.Untuk pertanyaan lebih lanjut terkait kegagalan menerima kode OTP, hubungi tim haloblu di 1500668
+
+Mengapa saya tidak dapat melanjutkan pembayaran dengan blu, padahal akun blu saya sudah terhubung dengan aplikasi BAF Mobile?
+Ini beberapa kemungkinan yang bisa jadi penyebab hal tersebut:· Saldo blu tidak mencukupi untuk melakukan pembayaran,· Akun kamu terblokir,· Kamu belum melakukan registrasi nomor handphone pada akun BAF Mobile kamu,· Kamu sudah mencapai batas maksimal untuk seluruh transaksi per hari, atau· Kamu sudah mencapai batas maksimal untuk satu transaksi per hari,· Untuk mengetahui batas limit transaksi blu, silakan kunjungi page: blu.id/fees-rates· Rekening kamu berstatus Dormant / Tidak pernah melakukan transaksi selama 6 bulan. Segera login ke aplikasi blu, dan jalankan transaksi keluar sebanyak 1x yaPunya pertanyaan lebih lanjut? Hubungi tim haloblu di 1500668 yang akan senang membantu.
+
+Berapa batas minimum dan maksimum nominal transaksi di BAF Mobile yang dapat saya bayar dengan menggunakan blu?
+Untuk mengetahui batas minimum dan maksimum nominal transaksi, dapat dilihat di link berikut: blu.id/fees-rates
+
+Saya gagal input password dan PIN transaksi akun blu, apa yang harus saya lakukan?
+Masuk ke dalam aplikasi blu, lalu pilih menu “Pengaturan” untuk melakukan perubahan PIN transaksi blu.1. Klik "Ubah PIN aplikasi"2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Saya lupa password akun blu, apa yang harus saya lakukan?
+1. Klik "Lupa password"2. Masukkan PIN kamu3. Selesaikan prosesnya.
+
+Di mana saya dapat melihat riwayat transaksi BAF dengan pembayaran menggunakan In App Payment blu (pembayaran angsuran di BAF Mobile menggunakan blu)?
+Semua riwayat transaksi saat menggunakan blu di BAF Mobile bisa dicek di menu Riwayat BAF Mobile maupun Riwayat Transaksi yang dapat diakses melalui Menu Tracker pada aplikasi blu.
+
+Di mana saya dapat melihat riwayat transaksi BAF dengan pembayaran menggunakan QRIS di aplikasi blu?
+Riwayat transaksi dengan QRIS bisa kamu cek di aplikasi blu.Kamu juga bisa mengecek riwayat transaksi QRIS di menu tracker blu di aplikasi BAF Mobile.
+
+Saya ingin memutus koneksi blu dengan aplikasi BAF Mobile, bagaimana caranya?
+Sedih deh, kalau bisa jangan, ya. Tapi, bagi kamu yang mau memutus koneksi blu dengan aplikasi BAF Mobile, ikuti langkah berikut:1. Masuk ke menu Akun, pilih Unlink blu2. Pada pop up konfirmasi pilih "Unlink blu"3. Berhasil unlink akun blu kamu di BAF Mobile4. Klik OK untuk kembali ke halaman utama BAF Mobile
+

@@ -1,0 +1,87 @@
+Perubahan Suku Bunga bluDeposit
+
+Home
+Blog
+Perubahan Suku Bunga bluDeposit
+Perubahan Suku Bunga bluDeposit
+20 February 2023
+Mulai 21 Februari 2023 kamu bisa mendapatkan bunga bluDeposit hingga 4,75% p.a. untuk penempatan jangka waktu 1 bulan. Yuk cek info Info lengkapnya cek tabel di bawah ini
+Sebelum Perubahan
+   
+Jumlah Penempatan       
+Suku Bunga   
+   
+Rp 1.000.000 - Rp 9.999.999       
+3.5% p.a.   
+   
+Rp 10.000.000 - Rp   99.999.000       
+3,75% p.a.   
+   
+> Rp 100.000.000       
+4,00% p.a.   
+Setelah Perubahan
+Jangka Waktu 1 Bulan
+   
+Jumlah Penempatan       
+Suku Bunga   
+   
+Rp 1.000.000 - Rp 9.999.999       
+3,5% p.a.   
+   
+Rp 10.000.000 - Rp   99.999.000       
+3,75% p.a.   
+   
+Rp 100.000.000 - Rp   499.999.999       
+4,25% p.a.   
+   
+Rp 500.000.000 - Rp   999.999.999       
+4,5% p.a.   
+   
+>= Rp 1.000.000.000       
+4,75% p.a.   
+Jangka Waktu 2 Sampai 12 bulan
+   
+Jumlah Penempatan       
+Suku Bunga   
+   
+Rp 1.000.000 - Rp 9.999.999       
+3.5% p.a.   
+   
+Rp 10.000.000 - Rp   99.999.000       
+3,75% p.a.   
+   
+> Rp 100.000.000       
+4,00% p.a.   
+Perubahan ini berlaku untuk jenis bluDeposit Non-ARO, ARO, dan ARO+.
+Berikut penjelasan untuk bluDeposit Non-ARO, ARO, dan ARO+.
+Non ARO (Non-Automatic Roll Over)
+Deposito yang akan berakhir sesuai tenor yang dipilih. Dana pokok dan bunga akan dicairkan ke bluAccount.
+ARO (Automatic Roll Over)
+Deposito yang diperpanjang secara otomatis jika jatuh tempo. Dana yang diperpanjang hanya pokok saja, bunga akan dicairkan ke bluAccount.
+ARO+ (Automatic Roll Over Plus)
+Deposito yang diperpanjang secara otomatis jika jatuh tempo. Dana yang diperpanjang adalah akumulasi pokok dan bunga.
+Berikut simulasi perhitungan suku bunga yang bisa kamu dapatkan setelah perubahan:
+Simulasi 1:
+Kamu membuka bluDeposit Rp 100.000.000 dengan tenor 1 bulan, maka suku bunga yang kamu dapatkan saat jatuh tempo adalah 4,25 %
+Simulasi 2:
+Kamu membuka bluDeposit Rp 100.000.000 dengan tenor 6 bulan, maka suku bunga yang kamu dapatkan saat jatuh tempo adalah 4%
+Simulasi 3:
+Kamu membuka bluDeposit ARO sebesar Rp 100.000.000 dengan tenor 1 bulan pada 22 Januari 2023, maka bluDeposit akan diperpanjang secara otomatis dan suku bunga yang kamu dapatkan saat jatuh tempo pada 22 Februari 2023 adalah 4,25%*
+
+*Jika suku bunga bluDeposit tidak ada perubahan pada saat tanggal 22 Februari 2023
+Kamu bisa menggunakan kalkulator simulasi perhitungan suku bunga bluDeposit dengan klik ini
+Yuk buka bluDeposit kamu sekarang!
+Download blu
+Baca Artikel Lainnya
+25 April 2024
+Transaksi Tanpa PIN yang Bikin QRIS Lebih Seamless
+Kenalan sama fitur ciamik terbaru di blu yang bikin transaksi kamu anti ribet dan jadi lebih sat set! Cobain deh~
+Read More
+05 April 2024
+Tips & Tricks Mengelola Uang Setelah Lebaran
+Sobatblu, kita tahu bahwa Lebaran, momen yang penuh kebahagiaan dan kebersamaan, seringkali membuat kita terbawa suasana hingga lupa diri dalam pengeluaran.
+Read More
+03 April 2024
+blu #SiapJadiPegangan Atur Keuangan Saat Lebaran
+Sebentar lagi lebaran~ Pasti sobatblu udah gak sabar banget untuk nikmatin momen berkumpul bersama keluarga. 
+Read More

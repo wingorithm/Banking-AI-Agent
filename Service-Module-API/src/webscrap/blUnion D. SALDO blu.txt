@@ -1,0 +1,2 @@
+Saldo blu dapat digunakan sebagai sumber dana untuk Transaksi pada Situs/Aplikasi Mitra setelah Akun blu terhubung pada Akun Pengguna yang ada pada Situs/Aplikasi Mitra (Account Linkage). 
+Penyetoran dan/atau pencairan/penarikan (withdrawal) Saldo blu dapat dilakukan melalui Layanan blu pada Situs/Aplikasi Mitra dan melalui blu.

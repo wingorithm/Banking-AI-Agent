@@ -1,0 +1,40 @@
+Bayar/Beli
+Berbagai Transaksi Cukup Lewat Satu Aplikasi
+Rutinitas bayar tagihan dan langganan ini itu bisa jadi repot kalau gak ada yang ngingetin. Pakai fitur ini, segala macam transaksi bisa dikerjain dan diingetin dari sini guys. Jadi segala transaksi penting gak bakal ke-skip!
+
+
+Kerennya Fitur Bayar/Beli di Aplikasi blu
+Bayar dan beli beragam jenis transaksi dan tagihan rutin jadi makin mudah dan terjaga.
+Anti Skip Pakai Reminder
+Set Reminder supaya tanggal pembayaran gak terlewat. Transaksi rutin jadi selalu on time.
+Anti Ribet
+Transaksi rutin jadikan favorit. Next, transaksi tinggal sekali pencet deh tanpa perlu input detail-detail transaksi.
+Bayar Segalanya Di Sini
+Dari isi pulsa, paket data, voucher digital, PLN, PDAM, BPJS, internet/TV Kabel, e-commerce. Juga tagihan bulanan, pascabayar, maupun kartu kredit. Semua bisa!
+Mau Bayar atau Beli? Gini Caranya!
+
+Ikutin 4 langkah ini buat mulai transaksi rutin.
+Buka Fitur Bayar/Beli, Pada menu utama, pilih menu transaksi, lalu klik 'Bayar/Beli'.
+Pilih Jenis Transaksi, Tentukan antara Telekomunikasi, atau Hiburan & Voucher
+Masukkan Detail Informasi Transaksi, Input jumlah sesuai dengan yang kamu ingin bayarkan.
+Klik Bayar, Selesai! Setelah ini kamu bisa set reminder dan jadikan sebagai transaksi favorit apabila rutin.
+
+Hal yang paling sering ditanyakan 😊
+Bisa pakai blu untuk bayar/beli apa saja?
+Kamu bisa pakai blu untuk membayar tagihan pascabayar, beli pulsa, beli paket data, top up GoPay & OVO, dan bayar internet & TV kabel. Fitur ini akan terus bertambah dan tentunya kami akan kasih tau kamu kalau ada update buat fitur Bayar/Beli ini 😉
+
+Gimana cara beli pulsa pakai blu?
+1. Pilih Bayar/Beli
+2. Pilih menu 'Pulsa' di kategori Telekomunikasi
+3. Masukkan nomor handphone (provider akan otomatis terlacak)
+4. Pilih nominal atau masukkan nominal, lalu klik 'Lanjut'
+5. Cek kembali nomor handphone dan nominal di halaman Konfirmasi sebelum klik 'Bayar'
+6. Selesaikan transaksi dengan memasukkan PIN
+
+Gimana cara beli paket data pakai blu?
+1. Pilih Bayar/Beli
+2. Pilih menu 'Paket Data' di kategori Telekomunikasi
+3. Masukkan nomor handphone (provider akan otomatis terlacak)
+4. Pilih paket data yang kamu inginkan, lalu klik 'Lanjut'
+5. Cek kembali nomor handphone dan nominal di halaman Konfirmasi sebelum klik 'Bayar'
+6. Selesaikan transaksi dengan memasukkan PIN

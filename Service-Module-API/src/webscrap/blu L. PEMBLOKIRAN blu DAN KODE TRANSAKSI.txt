@@ -1,0 +1,7 @@
+blu akan diblokir jika Nasabah melakukan hal-hal sebagai berikut:
+Salah memasukkan PIN blu sebanyak 3 (tiga) kali berturut-turut;
+Salah memasukkan Password blu sebanyak 3 (tiga) kali berturut-turut;
+Mengajukan permohonan pemblokiran melalui haloblu.
+Apabila terjadi pemblokiran blu akibat kesalahan PIN sebanyak 3 (tiga) kali berturut-turut, Nasabah harus melakukan reset PIN menggunakan kombinasi password, face recognition, dan/atau data Nomor Induk Kependudukan (NIK) KTP-el dan tanggal lahir. Jika terjadi kendala dalam proses reset PIN, maka Nasabah dapat menghubungi haloblu.
+Apabila terjadi pemblokiran blu akibat kesalahan Password sebanyak 3 (tiga) kali berturut-turut, Nasabah harus melakukan reset Password menggunakan kombinasi PIN, face recognition, dan/atau data NIK KTP-el dan tanggal lahir. Jika terjadi kendala dalam proses reset Password, maka Nasabah dapat menghubungi haloblu.
+Khusus untuk transaksi tarik tunai tanpa kartu di ATM BCA, kesalahan memasukkan Kode Transaksi sebanyak 3 (tiga) kali berturut-turut saat bertransaksi di ATM BCA dapat mengakibatkan Kode Transaksi tersebut tidak dapat digunakan oleh Nasabah.

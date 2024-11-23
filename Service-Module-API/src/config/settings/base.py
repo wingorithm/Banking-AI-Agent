@@ -14,7 +14,7 @@ class BackendBaseSettings(pydantic_settings.BaseSettings):
     DESCRIPTION: str | None = None
     DEBUG: bool = False
 
-    SERVER_HOST: str = decouple.config("BACKEND_SERVER_HOST", cast=str)  # type: ignore
+    SERVER_HOST: str = decouple.config("BACKEND_SERVER_HOST",  default="127.0.0.1", cast=str)  # type: ignore
     SERVER_PORT: int = decouple.config("BACKEND_SERVER_PORT", cast=int)  # type: ignore
     SERVER_WORKERS: int = decouple.config("BACKEND_SERVER_WORKERS", cast=int)  # type: ignore
     API_PREFIX: str = "/api"

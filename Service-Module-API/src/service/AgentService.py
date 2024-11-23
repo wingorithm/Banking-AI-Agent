@@ -5,6 +5,7 @@ from src.api.dependencies.repository import get_repository
 from src.repository.crud.Customer import CustomerCRUDRepository
 from src.util.LogMessageTemplate import LogMessageTemplate
 from src.model.schemas.response.GlobalResponse import AgentChatResponse
+from src.service.RAGService import RAGService
 from datetime import datetime
 import typing
 
@@ -18,6 +19,7 @@ class AgentService():
         # Add other dependencies
     ):
         self.crud_repo = crud_repo
+        self.rag_service = RAGService()
 
     # TODO : create flow for -> Intent classification -> LLM RAG -> getting userdata -> return
     async def get_response(self, customer_id: str, user_message: str) -> typing.List[AgentChatResponse]:
@@ -27,9 +29,11 @@ class AgentService():
             logger.info(LogMessageTemplate.SERVICE_PROGRESS.value.format(
                 f="get_response", s="getting customer data", p=customer_id))
             customer = await self.crud_repo.read_customer_by_id(customer_id)
+        
+            message = await self.rag_service.rag_chain(user_message)
 
             return AgentChatResponse(
-                message=f"Hello {customer.get_name}. I am a chatbot!",
+                message=f"{message}",
                 role="agent",
                 client_uuid=customer_id,
                 timestamp=datetime.utcnow(),

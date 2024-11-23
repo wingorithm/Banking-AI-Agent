@@ -1,0 +1,14 @@
+Nasabah wajib menghubungkan terlebih dahulu akun Nasabah pada Mitra dengan blu untuk menampilkan portofolio investasi yang dimiliki oleh Nasabah pada Mitra di bluInvest pada aplikasi blu.
+Dalam hal Nasabah belum memiliki akun pada Mitra, maka Nasabah dapat melakukan registrasi akun terlebih dahulu pada Situs dan/atau Aplikasi Mitra, baik melalui blu atau secara langsung pada Situs dan/atau Aplikasi Mitra, untuk selanjutnya dihubungkan dengan blu.
+Pada saat menghubungkan akun Nasabah pada Mitra dengan blu, Nasabah wajib melakukan aktivitas di bawah ini:
+Memberikan persetujuan terhadap Syarat dan Ketentuan, termasuk memberikan kuasa dan instruksi kepada Bank untuk menampilkan informasi portofolio investasi di bluInvest.
+Memasukkan nomor telepon yang terdaftar di akun Mitra pada aplikasi blu.
+Memasukkan OTP yang dikirimkan ke nomor telepon Nasabah yang sudah terdaftar di blu.
+Proses menghubungkan akun Nasabah pada Mitra dengan blu hanya dapat dilakukan jika nomor telepon yang didaftarkan di blu dan Mitra adalah nomor telepon yang sama.
+Setelah akun Nasabah pada Mitra berhasil dihubungkan dengan blu, bluInvest akan menampilkan informasi mengenai portofolio investasi dari Nasabah, termasuk namun tidak terbatas pada produk-produk investasi yang Nasabah miliki, nilai investasi, potensi laba/rugi, dan imbal hasil di Mitra yang dihubungkan.
+Nasabah mengetahui dan menyetujui bahwa nilai portofolio investasi Nasabah di akun Mitra bisa berbeda dengan yang ditampilkan di bluInvest karena dilakukan pembulatan desimal ke bawah pada nilai investasi.
+Nasabah dapat melakukan transaksi investasi seperti pembelian dan penjualan dengan mengakses langsung Situs dan/atau Aplikasi Mitra, atau melalui bluInvest pada aplikasi blu untuk selanjutnya diarahkan ke Situs dan/atau Aplikasi Mitra.
+Nasabah dapat memutuskan atau menghentikan penautan aplikasi blu dengan akun Nasabah pada Mitra dengan cara memilih tombol unlink yang tersedia di bluInvest pada aplikasi blu.
+Produk investasi yang ditawarkan dan/atau dijual oleh Mitra pada Situs/Aplikasi Mitra dan/atau melalui Fitur bluInvest pada aplikasi blu, bukan merupakan produk dari BCA Digital, melainkan produk milik Mitra. Oleh karenanya, segala sesuatu yang berkaitan dengan produk investasi yang ditawarkan dan/atau dijual oleh Mitra merupakan tanggung jawab dari Mitra. Segala perselisihan yang timbul sehubungan dengan produk investasi yang ditawarkan dan/atau dijual oleh Mitra adalah di luar tanggung jawab BCA Digital.
+Kebenaran informasi terkait produk investasi yang ditawarkan dan/atau dijual oleh Mitra merupakan tanggung jawab Mitra sepenuhnya.
+Produk investasi yang ditawarkan dan/atau dijual oleh Mitra selain Lembaga Jasa Keuangan (LJK) berupa Bank, tidak termasuk dalam cakupan program penjaminan sebagaimana dimaksud dalam ketentuan peraturan perundang-undangan mengenai Lembaga Penjamin Simpanan (LPS).

@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from src.api.endpoints import router as api_endpoint_router
 from src.config.events import execute_backend_server_event_handler, terminate_backend_server_event_handler
 from src.config.manager import settings
+from src.config.createFaiss import create_vectorstore
 
 def initialize_backend_application() -> fastapi.FastAPI:
     app = fastapi.FastAPI(**settings.set_backend_app_attributes)
@@ -25,6 +26,8 @@ def initialize_backend_application() -> fastapi.FastAPI:
         "shutdown",
         terminate_backend_server_event_handler(backend_app=app),
     )
+
+    # create_vectorstore()
 
     app.include_router(router=api_endpoint_router)
 

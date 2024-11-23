@@ -1,0 +1,9 @@
+Pengguna wajib memastikan Saldo blu cukup, Akun blu aktif/tidak terblokir, dan/atau tidak dalam status rekening Dormant, agar dapat melakukan Transaksi menggunakan Saldo blu.
+Untuk setiap Transaksi debit, Saldo blu akan didebit dan diteruskan sesuai dengan instruksi Nasabah yang diberikan melalui Mitra kepada BCA Digital. 
+Kebenaran informasi atas data Transaksi yang diberikan Mitra kepada BCA Digital berada di luar kendali BCA Digital. 
+Pengguna wajib memastikan data Transaksi di Situs/Aplikasi Mitra dan/atau blu yang akan dijalankan sudah benar sebelum melakukan Transaksi. 
+Untuk keperluan pemrosesan Transaksi, BCA Digital berhak namun tidak wajib untuk sewaktu-waktu meminta otorisasi kepada Pengguna atas instruksi Transaksi yang dilakukan dalam bentuk PIN, OTP, dan/atau bentuk lainnya sesuai dengan ketentuan yang berlaku di BCA Digital dan/atau Mitra sehubungan dengan Transaksi yang dilakukan sepanjang telah disetujui oleh Nasabah. 
+Segala akibat yang timbul sehubungan dengan dijalankannya Transaksi oleh Pengguna di Situs/Aplikasi Mitra dan/atau blu merupakan tanggung jawab penuh dari Pengguna. 
+Kegagalan Transaksi yang disebabkan oleh sistem Mitra, berada di luar kendali BCA Digital. 
+Informasi dan/atau data yang berada di luar sistem BCA Digital, yang mungkin bersangkutan dengan rangkaian proses Transaksi menggunakan blu pada Situs/Aplikasi Mitra, adalah di luar kendali dan/atau keterlibatan BCA Digital. 
+Apabila terjadi kendala dan/atau pembatalan dan/atau kesalahan terhadap Transaksi yang menggunakan blu oleh sebab apa pun, maka dana pembayaran atas Transaksi tersebut akan dikembalikan sesuai Syarat dan Ketentuan Mitra.

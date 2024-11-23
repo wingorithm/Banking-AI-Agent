@@ -1,0 +1,64 @@
+Top Up Flazz
+Isi Kartu Flazz, Anti Was-Was
+Yang Suka Bingung Pas Saldo Kartu Flazz Abis,Sekarang Kamu Bisa Top Up Via blu!
+
+
+Kerennya Top Up Flazz di Aplikasi blu
+Tap Tap Tap, Kartu Flazz kamu bisa langsung ter top up!
+
+Tinggal Tempel Kartu​
+Ga Perlu Ke ATM Buat Top Up, Tap Kartu Kamu Aja di Handphone, Langsung Bisa Terisi!​
+
+Bebas Dari Repot​
+Ubah Uang Tunai Jadi Uang Elektronik, Biar Hati Tenang​
+
+Bisa Pake Ini Itu​
+Mulai Dari Bayar Tol, Parkir, Belanja dan Transaksi Di Puluhan Ribu Merchant​
+
+
+Kerennya Top Up Flazz di Aplikasi blu
+Tap Tap Tap, Kartu Flazz kamu bisa langsung ter top up!
+
+1. Klik “Flazz”, Pilih menu 'Transaksi' di aplikasi blu dan pilih menu ‘Flazz'.
+2. Tempel Kartu Flazz, Pastikan kartu Flazz kamu merupakan Gen-2 yah! Supaya bisa Top Up
+3. Klik “Top Up”, Setelah klik Top Up, input nominal
+4. Konfirmasi Transaksi, Pastikan nominalnya sudah benar lalu klik bayar dan input PIN kamu
+5. Template Ulang Flazz, Jangan lupa untuk tempel ulang kartu Flazz kamu di Area NFC Handphone​​
+6. Berhasil!​, Voila! Saldo Flazz kamu berhasil terisi​​
+
+Hal yang paling sering ditanyakan ?
+Apa saja dokumen yang perlu disiapkan untuk membuka rekening blu?
+Gak ribet, kamu cuma perlu siapin:
+- E-KTP
+-NPWP (opsional)
+Pastikan kamu ada di ruangan terang karena tim haloblu akan melakukan video call untuk verifikasi datamu, ya.
+
+Bagaimana cara transfer BCA Virtual Account?
+
+Masuk ke menu BCA Virtual Account di blu, terus ikuti langkah ini:
+
+PIlih rekening tujuan
+a. Bisa dari nomor rekening yang sudah pernah disimpan
+b. Bisa juga input nomor rekening baru
+Masukkan nominal uang yang akan dikirimkan. Jika membayar tagihan, pastikan nominal transter yang kamu input sesuai dengan nominal tagihan kamu ya
+Masukkan PIN
+Selesai!
+
+Bagaimana Cara Transfer Menggunakan BI-FAST dari blu ke Bank Lain?
+1. Pilih menu Transaksi
+2. Pilih menu transfer
+3. Pilih Transfer Baru
+a. Kalau kamu pilih 'Transfer Via Rekening', ikuti langkah ini:
+    1. Input no. rekening tujuan/penerima
+    2. Input nominal dan pilih Tipe Transfer BI-FAST
+    3. Pilih Tujuan Transaksi dan input Catatan (jika ada), lalu pilih 'Lanjut'
+    4. Konfirmasi, klik 'Lanjut' jika sudah selesai
+    5. Input PIN transaksi blu
+    6. Transaksi selesai
+
+b. Kalau kamu pilih 'Transfer Via Proxy', ikuti langkah ini:
+    1. Input no. HP atau email tujuan/penerima yang sudah didaftarkan sebagai Proxy Address, lalu pilih 'Cek'
+    2. Input nominal, lalu pilih Tujuan Transaksi dan input Catatan (jika ada), kemudian pilih 'Lanjut'
+    3. Konfirmasi, klik 'Lanjut' jika sudah sesuai
+    4. Input PIN transaksi blu
+    5. Transaksi selesai

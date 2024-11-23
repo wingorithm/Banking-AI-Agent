@@ -4,6 +4,7 @@ import loguru
 from src.api.dependencies.repository import get_repository
 from src.repository.crud.Customer import CustomerCRUDRepository
 from src.model.schemas.customer import CustomerDTO
+from src.model.schemas.response.BalanceResponse import BalanceResponse
 import typing
 
 
@@ -23,6 +24,20 @@ class BankService():
             loguru.logger.info(f"Successfully retrieved {len(customers)} customers.")
             
             return customers
+        except Exception as e:
+            loguru.logger.error(f"Error retrieving customers: {e}")
+            raise
+
+    async def get_balance(self, customer_id : str) -> BalanceResponse:
+        try:
+            customer = await self.crud_repo.read_customer_by_id(customer_id)
+            loguru.logger.info(f"Successfully retrieved {customer.name} data.")
+            
+            return BalanceResponse(
+                accountBalance=customer.balance,
+                accountHolderName=customer.name,
+                accountNumber=customer.account_no
+            )
         except Exception as e:
             loguru.logger.error(f"Error retrieving customers: {e}")
             raise

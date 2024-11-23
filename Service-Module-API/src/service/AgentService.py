@@ -14,17 +14,16 @@ import typing
 """
 user this service as orchestrator to call other service based on intent
 """
-
-
 class AgentService():
 
     def __init__(
         self,
         crud_repo: CustomerCRUDRepository = fastapi.Depends(
             get_repository(repo_type=CustomerCRUDRepository)),
-        # Add other dependencies
+        bank_service: BankService = fastapi.Depends()
     ):
         self.crud_repo = crud_repo
+        self.bank_service = bank_service
 
     # TODO : create flow for -> Intent classification -> LLM RAG -> getting userdata -> return
     async def get_response(self, customer_id: str, user_message: str, function_name: str) -> AgentChatResponse[BalanceResponse]:
@@ -54,8 +53,8 @@ class AgentService():
                 f="get_response", p=customer_id))
 
     """
-    __execute_action_by_intent will return tuple with format:
-        -> data(additional data) , message(llm response)
+    this service will return tuple with format:
+        -> 1. data(additional data) , 2. message(llm response)
     """
     async def __execute_action_by_intent(self, customer_id: str, function_name: str) -> tuple:
         try:
@@ -68,7 +67,7 @@ class AgentService():
                 case "get_balance":
                     logger.info(LogMessageTemplate.SERVICE_PROGRESS.value.format(
                         f="execute_action_by_intent", s="getting result from get_balance", p=customer_id))
-                    balance  = await BankService.get_balance(customer_id=customer_id)
+                    balance  = await self.bank_service.get_balance(customer_id=customer_id)
                     return balance, AgentResponseConstant.BALANCE
 
                 case "fund_transfer":

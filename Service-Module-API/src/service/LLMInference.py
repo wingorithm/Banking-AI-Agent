@@ -1,20 +1,20 @@
 import json
 from mistralai import Mistral
 
-class llmInference:
-    def __init__(self, model) -> None:
+class LLMInference:
+    def __init__(self, model, api_key) -> None:
         self.model = model
         self.messages = []
         self.tools = []
         self.tool_choice = 'any'
-        self.__init_client(get_api_key())
+        self.__init_client(api_key)
 
     def __init_client(self, api_key):
         self.client = Mistral(
             api_key=api_key
         )
     
-    def init_func_tools(self, tools, tool_choice='Any'):
+    def init_func_tools(self, tools, tool_choice='any'):
         self.tools = tools
         self.tool_choice = tool_choice
 

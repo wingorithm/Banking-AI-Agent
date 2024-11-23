@@ -26,7 +26,7 @@ class AgentService():
         self.bank_service = bank_service
 
     # TODO : create flow for -> Intent classification -> LLM RAG -> getting userdata -> return
-    async def get_response(self, customer_id: str, user_message: str, function_name: str) -> AgentChatResponse[BalanceResponse]:
+    async def get_response(self, customer_id: str, user_message: str, function_name: str) -> AgentChatResponse[any]:
         logger.info(LogMessageTemplate.SERVICE_START.value.format(
             f="get_response", p=customer_id))
         try:

@@ -11,7 +11,6 @@ from src.repository.crud.base import BaseCRUDRepository
 from src.util.exceptions.DatabaseExceptions import EntityDoesNotExist
 from src.util.LogMessageTemplate import LogMessageTemplate
 
-
 class CustomerCRUDRepository(BaseCRUDRepository):
     # async def create_account(self, account_create: AccountInCreate) -> Account:
     #     new_account = Account(username=account_create.username, email=account_create.email, is_logged_in=True)

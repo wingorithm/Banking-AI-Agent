@@ -1,35 +1,35 @@
-import fastapi
-import loguru
+# import fastapi
+# import loguru
 
-from src.model.schemas.customer import CustomerDTO
-from src.model.schemas.response.GlobalResponse import GlobalResponse
-from src.repository.crud.Customer import CustomerCRUDRepository
-from src.service.BankService import BankService
+# from src.model.schemas.customer import CustomerDTO
+# from src.model.schemas.response.GlobalResponse import GlobalResponse
+# from src.repository.crud.Customer import CustomerCRUDRepository
+# from src.service.BankService import BankService
 # from src.util.exceptions.database import EntityDoesNotExist
 # from src.util.exceptions.http.exc_404 import (
 #     http_404_exc_email_not_found_request,
 #     http_404_exc_id_not_found_request,
-#     http_404_exc_username_not_found_request,
+#     http_404_exc_username_not_found_request,~
 # )
 
-router = fastapi.APIRouter(prefix="/customer", tags=["customer"])
+# router = fastapi.APIRouter(prefix="/customer", tags=["customer"])
 
-@router.get(
-    path="",
-    name="customers:read-customers",
-    response_model=GlobalResponse,
-    status_code=fastapi.status.HTTP_200_OK,
-)
-async def get_customers(bank_service: BankService = fastapi.Depends()) -> list[CustomerDTO]:
-    loguru.logger.info(f"REQUESTING /customer endpoint")
-    response = await bank_service.get_customers()
-    loguru.logger.info(f"COMPLETE /customer endpoint")
+# @router.get(
+#     path="",
+#     name="customers:read-customers",
+#     response_model=GlobalResponse,
+#     status_code=fastapi.status.HTTP_200_OK,
+# )
+# async def get_customers(bank_service: BankService = fastapi.Depends()) -> list[CustomerDTO]:
+#     loguru.logger.info(f"REQUESTING /customer endpoint")
+#     response = await bank_service.get_customers()
+#     loguru.logger.info(f"COMPLETE /customer endpoint")
     
-    return GlobalResponse(
-        http_status=200,
-        message="Successfully retrieved customers",
-        content=response
-        )
+#     return GlobalResponse(
+#         http_status=200,
+#         message="Successfully retrieved customers",
+#         content=response
+#         )
 
 # @router.get(
 #     path="/{id}",

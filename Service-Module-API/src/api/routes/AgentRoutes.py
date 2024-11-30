@@ -38,8 +38,9 @@ async def websocket_endpoint(
             response = await agent_service.get_response(customer_id, message_data.message, function_name)
 
             # Get customer data (based on action) [OPTIONAL]
-            data = await bank_service.get_data(customer_id, response.action)
-            response.data = data
+            data = await bank_service.get_data(customer_id, function_name)
+            if data:
+                response.data = data
 
             # Send response back to the client
             await websocket.send_text(response.json())

@@ -12,8 +12,10 @@ class BankService():
     def __init__(self, crud_repo: CustomerCRUDRepository):
         self.crud_repo = crud_repo
 
-    async def get_data(self, customer_id: str, function_call_spesification: FCS) -> Any:
+    async def get_data(self, customer_id: str, function_name: str) -> Any:
         logger.info(LogMessageTemplate.SERVICE_START.value.format(f="get_data", p=customer_id))
+        function_call_spesification = FCS.get_by_alias(function_name)
+
         try:
             if function_call_spesification.is_data:
                 # Dynamically call the function based on function name

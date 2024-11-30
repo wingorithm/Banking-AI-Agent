@@ -13,4 +13,4 @@ class VectorCRUDRepository:
     def __init__(self, milvus_manager: MilvusManager):
         self.manager = milvus_manager
         self.client = None  # Lazy Initialization connection
-        self.collection_name = settings.DB_MILVUS_ALIAS
+        self.collection_name = "bank_documents"

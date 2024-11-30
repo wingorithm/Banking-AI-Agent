@@ -1,21 +1,23 @@
 import typing
 
-import fastapi
+from fastapi import FastAPI
 import loguru
 
-from src.repository.events import dispose_db_connection, initialize_db_connection
+from src.repository.events import dispose_db_connection, initialize_db_connection, initialize_milvus_connection, dispose_milvus_connection
 
 
-def execute_backend_server_event_handler(backend_app: fastapi.FastAPI) -> typing.Any:
+def execute_backend_server_event_handler(backend_app: FastAPI) -> typing.Any:
     async def launch_backend_server_events() -> None:
+        await initialize_milvus_connection(backend_app=backend_app)
         await initialize_db_connection(backend_app=backend_app)
 
     return launch_backend_server_events
 
 
-def terminate_backend_server_event_handler(backend_app: fastapi.FastAPI) -> typing.Any:
+def terminate_backend_server_event_handler(backend_app: FastAPI) -> typing.Any:
     @loguru.logger.catch
     async def stop_backend_server_events() -> None:
+        await dispose_milvus_connection(backend_app=backend_app)
         await dispose_db_connection(backend_app=backend_app)
 
     return stop_backend_server_events

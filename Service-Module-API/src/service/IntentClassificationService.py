@@ -15,7 +15,8 @@ class IntentClassificationService:
                 f="classify_intent", s="calculating intent", p=customer_id))
             
             # TODO @Adriel to integrate with LLM function calling
-            return "get_balance"
+            # TESTING ONLY
+            return "question_answering"
 
         except Exception as e:
             logger.error(LogMessageTemplate.SERVICE_ERROR.value.format(

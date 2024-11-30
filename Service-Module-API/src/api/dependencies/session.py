@@ -43,7 +43,6 @@ async def async_session_context() -> typing.AsyncGenerator[SQLAlchemyAsyncSessio
             await session.close()
 
 
-# Example usage with FastAPI dependency
 def get_db_dependency() -> typing.Callable:
     """
     Returns a FastAPI dependency for database sessions.

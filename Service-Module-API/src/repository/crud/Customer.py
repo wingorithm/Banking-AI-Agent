@@ -12,21 +12,6 @@ from src.util.exceptions.DatabaseExceptions import EntityDoesNotExist
 from src.util.LogMessageTemplate import LogMessageTemplate
 
 class CustomerCRUDRepository(BaseCRUDRepository):
-    # async def create_account(self, account_create: AccountInCreate) -> Account:
-    #     new_account = Account(username=account_create.username, email=account_create.email, is_logged_in=True)
-
-    #     new_account.set_hash_salt(hash_salt=pwd_generator.generate_salt)
-    #     new_account.set_hashed_password(
-    #         hashed_password=pwd_generator.generate_hashed_password(
-    #             hash_salt=new_account.hash_salt, new_password=account_create.password
-    #         )
-    #     )
-
-    #     self.async_session.add(instance=new_account)
-    #     await self.async_session.commit()
-    #     await self.async_session.refresh(instance=new_account)
-
-    #     return new_account
 
     async def read_customers(self) -> typing.Sequence[CustomerDTO]:
         loguru.logger.info(f"PROGRESS accessing data...")

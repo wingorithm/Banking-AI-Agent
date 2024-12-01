@@ -1,7 +1,4 @@
 class ExternalServiceException(Exception):
-    """
-    A custom exception to represent errors occurring in external service calls.
-    """
 
     def __init__(self, message: str, service_name: str = None, status_code: int = None, details: dict = None):
         """

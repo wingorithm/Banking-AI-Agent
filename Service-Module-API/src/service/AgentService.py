@@ -31,7 +31,7 @@ class AgentService():
                 message=message,
                 role="agent",
                 timestamp=datetime.utcnow(),
-                action=function_call_spesification,
+                action=function_call_spesification.function_name,
                 data=None
             )
 

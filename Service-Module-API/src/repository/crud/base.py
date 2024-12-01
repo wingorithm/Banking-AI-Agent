@@ -1,5 +1,4 @@
 from sqlalchemy.ext.asyncio import AsyncSession as SQLAlchemyAsyncSession
-from src.config.manager import settings
 from src.repository.milvus_manager import MilvusManager
 
 """
@@ -14,3 +13,7 @@ class VectorCRUDRepository:
         self.manager = milvus_manager
         self.client = None  # Lazy Initialization connection
         self.collection_name = "bank_documents"
+
+class BaseProxy:
+    def __init__(self, base_url: str):
+        self.base_url = base_url

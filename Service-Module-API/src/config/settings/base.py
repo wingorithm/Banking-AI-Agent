@@ -44,6 +44,7 @@ class BackendBaseSettings(pydantic_settings.BaseSettings):
    
     DEVICE: str = "cuda" if torch.cuda.is_available() else "cpu"
     EMBEDDING_MODEL_NAME: str = decouple.config("EMBEDDING_MODEL_NAME", cast=str)
+    LLM_HOST: str = decouple.config("LLM_HOST_ENDPOINT", cast=str)
     
     IS_DB_ECHO_LOG: bool = decouple.config("IS_DB_ECHO_LOG", cast=bool)
     IS_DB_FORCE_ROLLBACK: bool = decouple.config("IS_DB_FORCE_ROLLBACK", cast=bool)

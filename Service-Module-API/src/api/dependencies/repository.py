@@ -1,15 +1,14 @@
-import typing
+from typing import Type, Callable
+from fastapi import Depends
 from fastapi import FastAPI, Depends
 from sqlalchemy.ext.asyncio import AsyncSession as SQLAlchemyAsyncSession
 
 from src.api.dependencies.session import get_async_session
-from src.repository.crud.base import BaseCRUDRepository
+from src.repository.crud.base import BaseCRUDRepository, BaseProxy
 from src.repository.milvus_manager import MilvusManager
 from src.repository.crud.Document import DocumentsCRUDRepository
-from src.repository.crud.Customer import CustomerCRUDRepository
-from src.service.AgentService import AgentService
-from src.service.BankService import BankService
-from src.service.IntentClassificationService import IntentClassificationService
+from src.config.manager import settings
+from src.repository.proxy.LLMProxy import LLMProxy 
 
 """
 Factory function to create repository dependencies.
@@ -21,8 +20,8 @@ Returns:
     A dependency function that creates a repository instance
 """
 def get_repository(
-    repo_type: typing.Type[BaseCRUDRepository],
-) -> typing.Callable[[SQLAlchemyAsyncSession], BaseCRUDRepository]:
+    repo_type: Type[BaseCRUDRepository],
+) -> Callable[[SQLAlchemyAsyncSession], BaseCRUDRepository]:
     def _get_repo(
         async_session: SQLAlchemyAsyncSession = Depends(get_async_session),
     ) -> BaseCRUDRepository:
@@ -39,3 +38,10 @@ def get_documents_repository(
     milvus_manager: MilvusManager = Depends(get_milvus_manager)
 ) -> DocumentsCRUDRepository:
     return DocumentsCRUDRepository(milvus_manager=milvus_manager)
+
+"""
+Dependency injection for creating proxy instances dynamically.
+# TODO : Create generic if more proxy handle
+"""
+def get_proxy() -> LLMProxy:
+    return LLMProxy(base_url=settings.LLM_HOST)

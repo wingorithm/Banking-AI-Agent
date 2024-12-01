@@ -16,7 +16,10 @@ class IntentClassificationService:
             
             # TODO @Adriel to integrate with LLM function calling
             # TESTING ONLY
-            return "question_answering"
+            if "balance" in user_message.lower() or "saldo" in user_message.lower():
+                return "get_balance"
+            else:
+                return "question_answering"
 
         except Exception as e:
             logger.error(LogMessageTemplate.SERVICE_ERROR.value.format(

@@ -1,5 +1,6 @@
 from src.api.dependencies.repository import *
 from src.repository.crud.Customer import CustomerCRUDRepository
+from src.repository.proxy.LLMProxy import LLMProxy 
 from src.service.AgentService import AgentService
 from src.service.BankService import BankService
 from src.service.IntentClassificationService import IntentClassificationService
@@ -18,8 +19,8 @@ def get_bank_service(
 
 def get_agent_service() -> AgentService:
     document_repo=get_documents_repository()
-    crud_repo=get_repository(repo_type=CustomerCRUDRepository)
-    return AgentService(crud_repo=crud_repo, document_repo=document_repo)
+    llm_proxy=get_proxy()
+    return AgentService(llm_proxy=llm_proxy, document_repo=document_repo)
 
 def get_intent_classification_service():
     return IntentClassificationService()

@@ -3,7 +3,6 @@ from pymilvus import Collection, MilvusClient, connections
 from transformers import AutoTokenizer, AutoModel
 import typing
 import torch
-import asyncio
 
 from src.config.manager import settings
 from src.model.schemas.Document import DocumentDTO
